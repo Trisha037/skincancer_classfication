@@ -1,0 +1,1457 @@
+lesion_id,image_id,dx,dx_type,age,sex,localization,filepath,label
+HAM_0006071,ISIC_0032343,bkl,histo,70.0,female,face,/kaggle/working/images/ISIC_0032343.jpg,0
+HAM_0003301,ISIC_0025033,bkl,histo,60.0,male,back,/kaggle/working/images/ISIC_0025033.jpg,0
+HAM_0003301,ISIC_0027310,bkl,histo,60.0,male,back,/kaggle/working/images/ISIC_0027310.jpg,0
+HAM_0001480,ISIC_0031753,bkl,histo,70.0,male,abdomen,/kaggle/working/images/ISIC_0031753.jpg,0
+HAM_0001480,ISIC_0026835,bkl,histo,70.0,male,abdomen,/kaggle/working/images/ISIC_0026835.jpg,0
+HAM_0002299,ISIC_0025819,bkl,histo,75.0,female,face,/kaggle/working/images/ISIC_0025819.jpg,0
+HAM_0002299,ISIC_0032013,bkl,histo,75.0,female,face,/kaggle/working/images/ISIC_0032013.jpg,0
+HAM_0003569,ISIC_0027960,bkl,histo,75.0,male,unknown,/kaggle/working/images/ISIC_0027960.jpg,0
+HAM_0003569,ISIC_0026955,bkl,histo,75.0,male,unknown,/kaggle/working/images/ISIC_0026955.jpg,0
+HAM_0000728,ISIC_0025286,bkl,histo,50.0,male,lower extremity,/kaggle/working/images/ISIC_0025286.jpg,0
+HAM_0004641,ISIC_0025099,bkl,histo,60.0,male,abdomen,/kaggle/working/images/ISIC_0025099.jpg,0
+HAM_0004641,ISIC_0031485,bkl,histo,60.0,male,abdomen,/kaggle/working/images/ISIC_0031485.jpg,0
+HAM_0002985,ISIC_0025063,bkl,histo,85.0,male,face,/kaggle/working/images/ISIC_0025063.jpg,0
+HAM_0003458,ISIC_0024623,bkl,histo,85.0,female,chest,/kaggle/working/images/ISIC_0024623.jpg,0
+HAM_0003458,ISIC_0029613,bkl,histo,85.0,female,chest,/kaggle/working/images/ISIC_0029613.jpg,0
+HAM_0006085,ISIC_0032949,bkl,histo,85.0,female,face,/kaggle/working/images/ISIC_0032949.jpg,0
+HAM_0006085,ISIC_0033322,bkl,histo,85.0,female,face,/kaggle/working/images/ISIC_0033322.jpg,0
+HAM_0006085,ISIC_0033127,bkl,histo,85.0,female,face,/kaggle/working/images/ISIC_0033127.jpg,0
+HAM_0005299,ISIC_0032732,bkl,histo,55.0,female,lower extremity,/kaggle/working/images/ISIC_0032732.jpg,0
+HAM_0005299,ISIC_0032778,bkl,histo,55.0,female,lower extremity,/kaggle/working/images/ISIC_0032778.jpg,0
+HAM_0005299,ISIC_0033466,bkl,histo,55.0,female,lower extremity,/kaggle/working/images/ISIC_0033466.jpg,0
+HAM_0000112,ISIC_0033583,bkl,histo,55.0,female,face,/kaggle/working/images/ISIC_0033583.jpg,0
+HAM_0000112,ISIC_0033465,bkl,histo,55.0,female,face,/kaggle/working/images/ISIC_0033465.jpg,0
+HAM_0002774,ISIC_0029683,bkl,histo,65.0,male,unknown,/kaggle/working/images/ISIC_0029683.jpg,0
+HAM_0003978,ISIC_0033284,bkl,histo,80.0,male,trunk,/kaggle/working/images/ISIC_0033284.jpg,0
+HAM_0003978,ISIC_0033908,bkl,histo,80.0,male,trunk,/kaggle/working/images/ISIC_0033908.jpg,0
+HAM_0001354,ISIC_0033321,bkl,histo,65.0,male,lower extremity,/kaggle/working/images/ISIC_0033321.jpg,0
+HAM_0003265,ISIC_0025180,bkl,histo,35.0,female,chest,/kaggle/working/images/ISIC_0025180.jpg,0
+HAM_0003265,ISIC_0026107,bkl,histo,35.0,female,chest,/kaggle/working/images/ISIC_0026107.jpg,0
+HAM_0004458,ISIC_0033853,bkl,histo,80.0,male,back,/kaggle/working/images/ISIC_0033853.jpg,0
+HAM_0004458,ISIC_0033453,bkl,histo,80.0,male,back,/kaggle/working/images/ISIC_0033453.jpg,0
+HAM_0004458,ISIC_0034126,bkl,histo,80.0,male,back,/kaggle/working/images/ISIC_0034126.jpg,0
+HAM_0003162,ISIC_0032997,bkl,histo,75.0,male,back,/kaggle/working/images/ISIC_0032997.jpg,0
+HAM_0003162,ISIC_0033529,bkl,histo,75.0,male,back,/kaggle/working/images/ISIC_0033529.jpg,0
+HAM_0005131,ISIC_0034235,bkl,histo,80.0,male,scalp,/kaggle/working/images/ISIC_0034235.jpg,0
+HAM_0005131,ISIC_0034007,bkl,histo,80.0,male,scalp,/kaggle/working/images/ISIC_0034007.jpg,0
+HAM_0003659,ISIC_0033449,bkl,histo,85.0,male,upper extremity,/kaggle/working/images/ISIC_0033449.jpg,0
+HAM_0003659,ISIC_0033676,bkl,histo,85.0,male,upper extremity,/kaggle/working/images/ISIC_0033676.jpg,0
+HAM_0004555,ISIC_0034259,bkl,histo,75.0,male,lower extremity,/kaggle/working/images/ISIC_0034259.jpg,0
+HAM_0004555,ISIC_0033446,bkl,histo,75.0,male,lower extremity,/kaggle/working/images/ISIC_0033446.jpg,0
+HAM_0004555,ISIC_0033200,bkl,histo,75.0,male,lower extremity,/kaggle/working/images/ISIC_0033200.jpg,0
+HAM_0006018,ISIC_0033642,bkl,histo,75.0,male,trunk,/kaggle/working/images/ISIC_0033642.jpg,0
+HAM_0006018,ISIC_0033486,bkl,histo,75.0,male,trunk,/kaggle/working/images/ISIC_0033486.jpg,0
+HAM_0002455,ISIC_0032099,bkl,histo,85.0,male,back,/kaggle/working/images/ISIC_0032099.jpg,0
+HAM_0004491,ISIC_0025157,bkl,histo,45.0,male,face,/kaggle/working/images/ISIC_0025157.jpg,0
+HAM_0002691,ISIC_0031345,bkl,histo,80.0,female,hand,/kaggle/working/images/ISIC_0031345.jpg,0
+HAM_0003800,ISIC_0026623,bkl,histo,70.0,male,upper extremity,/kaggle/working/images/ISIC_0026623.jpg,0
+HAM_0005465,ISIC_0026827,bkl,histo,60.0,female,back,/kaggle/working/images/ISIC_0026827.jpg,0
+HAM_0004947,ISIC_0029003,bkl,histo,75.0,male,abdomen,/kaggle/working/images/ISIC_0029003.jpg,0
+HAM_0004947,ISIC_0024711,bkl,histo,75.0,male,abdomen,/kaggle/working/images/ISIC_0024711.jpg,0
+HAM_0001055,ISIC_0028120,bkl,histo,65.0,male,lower extremity,/kaggle/working/images/ISIC_0028120.jpg,0
+HAM_0003613,ISIC_0030118,bkl,histo,80.0,female,back,/kaggle/working/images/ISIC_0030118.jpg,0
+HAM_0006769,ISIC_0030721,bkl,histo,85.0,male,back,/kaggle/working/images/ISIC_0030721.jpg,0
+HAM_0006350,ISIC_0031130,bkl,histo,50.0,female,chest,/kaggle/working/images/ISIC_0031130.jpg,0
+HAM_0000122,ISIC_0028354,bkl,histo,50.0,male,face,/kaggle/working/images/ISIC_0028354.jpg,0
+HAM_0004274,ISIC_0025842,bkl,histo,60.0,female,neck,/kaggle/working/images/ISIC_0025842.jpg,0
+HAM_0000245,ISIC_0027454,bkl,histo,75.0,female,back,/kaggle/working/images/ISIC_0027454.jpg,0
+HAM_0002169,ISIC_0031593,bkl,histo,65.0,male,upper extremity,/kaggle/working/images/ISIC_0031593.jpg,0
+HAM_0002169,ISIC_0032200,bkl,histo,65.0,male,upper extremity,/kaggle/working/images/ISIC_0032200.jpg,0
+HAM_0004491,ISIC_0028846,bkl,histo,45.0,male,face,/kaggle/working/images/ISIC_0028846.jpg,0
+HAM_0004491,ISIC_0026159,bkl,histo,45.0,male,face,/kaggle/working/images/ISIC_0026159.jpg,0
+HAM_0006065,ISIC_0028952,bkl,histo,40.0,female,lower extremity,/kaggle/working/images/ISIC_0028952.jpg,0
+HAM_0007521,ISIC_0032156,bkl,histo,70.0,female,lower extremity,/kaggle/working/images/ISIC_0032156.jpg,0
+HAM_0006513,ISIC_0030783,bkl,histo,70.0,female,lower extremity,/kaggle/working/images/ISIC_0030783.jpg,0
+HAM_0005074,ISIC_0028200,bkl,histo,65.0,male,upper extremity,/kaggle/working/images/ISIC_0028200.jpg,0
+HAM_0002933,ISIC_0027287,bkl,histo,55.0,female,chest,/kaggle/working/images/ISIC_0027287.jpg,0
+HAM_0002933,ISIC_0024494,bkl,histo,55.0,female,chest,/kaggle/working/images/ISIC_0024494.jpg,0
+HAM_0001896,ISIC_0030203,bkl,histo,50.0,male,back,/kaggle/working/images/ISIC_0030203.jpg,0
+HAM_0007513,ISIC_0025297,bkl,histo,75.0,female,face,/kaggle/working/images/ISIC_0025297.jpg,0
+HAM_0007513,ISIC_0024676,bkl,histo,75.0,female,face,/kaggle/working/images/ISIC_0024676.jpg,0
+HAM_0002902,ISIC_0026443,bkl,histo,80.0,female,lower extremity,/kaggle/working/images/ISIC_0026443.jpg,0
+HAM_0004377,ISIC_0030561,bkl,histo,40.0,female,foot,/kaggle/working/images/ISIC_0030561.jpg,0
+HAM_0004691,ISIC_0025805,bkl,histo,60.0,female,lower extremity,/kaggle/working/images/ISIC_0025805.jpg,0
+HAM_0004691,ISIC_0029166,bkl,histo,60.0,female,lower extremity,/kaggle/working/images/ISIC_0029166.jpg,0
+HAM_0005527,ISIC_0031819,bkl,histo,50.0,male,unknown,/kaggle/working/images/ISIC_0031819.jpg,0
+HAM_0005596,ISIC_0027706,bkl,histo,30.0,female,face,/kaggle/working/images/ISIC_0027706.jpg,0
+HAM_0005591,ISIC_0025746,bkl,histo,60.0,female,lower extremity,/kaggle/working/images/ISIC_0025746.jpg,0
+HAM_0001273,ISIC_0027806,bkl,histo,80.0,female,back,/kaggle/working/images/ISIC_0027806.jpg,0
+HAM_0005968,ISIC_0024758,bkl,histo,70.0,female,face,/kaggle/working/images/ISIC_0024758.jpg,0
+HAM_0001958,ISIC_0029580,bkl,histo,60.0,female,face,/kaggle/working/images/ISIC_0029580.jpg,0
+HAM_0000973,ISIC_0025222,bkl,histo,65.0,female,face,/kaggle/working/images/ISIC_0025222.jpg,0
+HAM_0005968,ISIC_0027355,bkl,histo,70.0,female,face,/kaggle/working/images/ISIC_0027355.jpg,0
+HAM_0000386,ISIC_0026787,bkl,histo,65.0,male,upper extremity,/kaggle/working/images/ISIC_0026787.jpg,0
+HAM_0004125,ISIC_0027437,bkl,histo,65.0,female,neck,/kaggle/working/images/ISIC_0027437.jpg,0
+HAM_0002357,ISIC_0031783,bkl,histo,70.0,male,neck,/kaggle/working/images/ISIC_0031783.jpg,0
+HAM_0002357,ISIC_0030137,bkl,histo,70.0,male,neck,/kaggle/working/images/ISIC_0030137.jpg,0
+HAM_0006466,ISIC_0024495,bkl,histo,45.0,female,lower extremity,/kaggle/working/images/ISIC_0024495.jpg,0
+HAM_0006525,ISIC_0027018,bkl,histo,45.0,female,back,/kaggle/working/images/ISIC_0027018.jpg,0
+HAM_0004908,ISIC_0031138,bkl,histo,45.0,female,hand,/kaggle/working/images/ISIC_0031138.jpg,0
+HAM_0004908,ISIC_0028710,bkl,histo,45.0,female,hand,/kaggle/working/images/ISIC_0028710.jpg,0
+HAM_0003120,ISIC_0028593,bkl,histo,55.0,female,face,/kaggle/working/images/ISIC_0028593.jpg,0
+HAM_0006181,ISIC_0026961,bkl,histo,65.0,male,upper extremity,/kaggle/working/images/ISIC_0026961.jpg,0
+HAM_0006181,ISIC_0030849,bkl,histo,65.0,male,upper extremity,/kaggle/working/images/ISIC_0030849.jpg,0
+HAM_0003938,ISIC_0030231,bkl,histo,55.0,female,upper extremity,/kaggle/working/images/ISIC_0030231.jpg,0
+HAM_0004327,ISIC_0030081,bkl,histo,80.0,male,chest,/kaggle/working/images/ISIC_0030081.jpg,0
+HAM_0003120,ISIC_0029243,bkl,histo,55.0,female,face,/kaggle/working/images/ISIC_0029243.jpg,0
+HAM_0001721,ISIC_0029040,bkl,histo,40.0,male,face,/kaggle/working/images/ISIC_0029040.jpg,0
+HAM_0001721,ISIC_0029588,bkl,histo,40.0,male,face,/kaggle/working/images/ISIC_0029588.jpg,0
+HAM_0001721,ISIC_0031181,bkl,histo,40.0,male,face,/kaggle/working/images/ISIC_0031181.jpg,0
+HAM_0001721,ISIC_0024947,bkl,histo,40.0,male,face,/kaggle/working/images/ISIC_0024947.jpg,0
+HAM_0002809,ISIC_0026139,bkl,histo,45.0,female,face,/kaggle/working/images/ISIC_0026139.jpg,0
+HAM_0002809,ISIC_0027967,bkl,histo,45.0,female,face,/kaggle/working/images/ISIC_0027967.jpg,0
+HAM_0002809,ISIC_0024338,bkl,histo,45.0,female,face,/kaggle/working/images/ISIC_0024338.jpg,0
+HAM_0000001,ISIC_0027859,bkl,histo,70.0,female,face,/kaggle/working/images/ISIC_0027859.jpg,0
+HAM_0004383,ISIC_0031261,bkl,histo,75.0,male,face,/kaggle/working/images/ISIC_0031261.jpg,0
+HAM_0004448,ISIC_0031831,bkl,histo,70.0,male,face,/kaggle/working/images/ISIC_0031831.jpg,0
+HAM_0001763,ISIC_0029029,bkl,histo,60.0,female,hand,/kaggle/working/images/ISIC_0029029.jpg,0
+HAM_0004453,ISIC_0031825,bkl,confocal,65.0,female,face,/kaggle/working/images/ISIC_0031825.jpg,0
+HAM_0004453,ISIC_0030677,bkl,confocal,65.0,female,face,/kaggle/working/images/ISIC_0030677.jpg,0
+HAM_0000710,ISIC_0024489,bkl,confocal,75.0,female,face,/kaggle/working/images/ISIC_0024489.jpg,0
+HAM_0000710,ISIC_0026276,bkl,confocal,75.0,female,face,/kaggle/working/images/ISIC_0026276.jpg,0
+HAM_0007337,ISIC_0026912,bkl,confocal,85.0,female,face,/kaggle/working/images/ISIC_0026912.jpg,0
+HAM_0000696,ISIC_0026277,bkl,confocal,75.0,male,face,/kaggle/working/images/ISIC_0026277.jpg,0
+HAM_0002903,ISIC_0027737,bkl,confocal,35.0,female,face,/kaggle/working/images/ISIC_0027737.jpg,0
+HAM_0002903,ISIC_0024774,bkl,confocal,35.0,female,face,/kaggle/working/images/ISIC_0024774.jpg,0
+HAM_0000524,ISIC_0026069,bkl,confocal,65.0,female,face,/kaggle/working/images/ISIC_0026069.jpg,0
+HAM_0000524,ISIC_0026524,bkl,confocal,65.0,female,face,/kaggle/working/images/ISIC_0026524.jpg,0
+HAM_0005610,ISIC_0027608,bkl,confocal,65.0,female,face,/kaggle/working/images/ISIC_0027608.jpg,0
+HAM_0005610,ISIC_0025312,bkl,confocal,65.0,female,face,/kaggle/working/images/ISIC_0025312.jpg,0
+HAM_0007590,ISIC_0031528,bkl,confocal,40.0,male,unknown,/kaggle/working/images/ISIC_0031528.jpg,0
+HAM_0007590,ISIC_0028615,bkl,confocal,40.0,male,unknown,/kaggle/working/images/ISIC_0028615.jpg,0
+HAM_0004632,ISIC_0032159,bkl,confocal,70.0,male,face,/kaggle/working/images/ISIC_0032159.jpg,0
+HAM_0004632,ISIC_0024382,bkl,confocal,70.0,male,face,/kaggle/working/images/ISIC_0024382.jpg,0
+HAM_0001642,ISIC_0028490,bkl,confocal,65.0,male,face,/kaggle/working/images/ISIC_0028490.jpg,0
+HAM_0005404,ISIC_0028094,bkl,consensus,70.0,male,face,/kaggle/working/images/ISIC_0028094.jpg,0
+HAM_0005404,ISIC_0029455,bkl,consensus,70.0,male,face,/kaggle/working/images/ISIC_0029455.jpg,0
+HAM_0003187,ISIC_0028264,bkl,consensus,60.0,male,face,/kaggle/working/images/ISIC_0028264.jpg,0
+HAM_0003187,ISIC_0025526,bkl,consensus,60.0,male,face,/kaggle/working/images/ISIC_0025526.jpg,0
+HAM_0003010,ISIC_0029924,bkl,consensus,55.0,female,face,/kaggle/working/images/ISIC_0029924.jpg,0
+HAM_0001678,ISIC_0027831,bkl,consensus,60.0,male,face,/kaggle/working/images/ISIC_0027831.jpg,0
+HAM_0002096,ISIC_0028209,bkl,consensus,50.0,male,face,/kaggle/working/images/ISIC_0028209.jpg,0
+HAM_0002096,ISIC_0029518,bkl,consensus,50.0,male,face,/kaggle/working/images/ISIC_0029518.jpg,0
+HAM_0001982,ISIC_0030173,bkl,consensus,45.0,male,chest,/kaggle/working/images/ISIC_0030173.jpg,0
+HAM_0001982,ISIC_0029012,bkl,consensus,45.0,male,chest,/kaggle/working/images/ISIC_0029012.jpg,0
+HAM_0002462,ISIC_0024498,bkl,consensus,70.0,male,face,/kaggle/working/images/ISIC_0024498.jpg,0
+HAM_0002462,ISIC_0025005,bkl,consensus,70.0,male,face,/kaggle/working/images/ISIC_0025005.jpg,0
+HAM_0006277,ISIC_0031428,bkl,consensus,55.0,male,scalp,/kaggle/working/images/ISIC_0031428.jpg,0
+HAM_0004245,ISIC_0033701,bkl,consensus,70.0,male,back,/kaggle/working/images/ISIC_0033701.jpg,0
+HAM_0004245,ISIC_0033884,bkl,consensus,70.0,male,back,/kaggle/working/images/ISIC_0033884.jpg,0
+HAM_0000309,ISIC_0034142,bkl,consensus,70.0,male,back,/kaggle/working/images/ISIC_0034142.jpg,0
+HAM_0000332,ISIC_0033784,bkl,consensus,80.0,female,upper extremity,/kaggle/working/images/ISIC_0033784.jpg,0
+HAM_0000332,ISIC_0033307,bkl,consensus,80.0,female,upper extremity,/kaggle/working/images/ISIC_0033307.jpg,0
+HAM_0006238,ISIC_0034151,bkl,consensus,60.0,male,unknown,/kaggle/working/images/ISIC_0034151.jpg,0
+HAM_0000948,ISIC_0033631,bkl,consensus,,unknown,unknown,/kaggle/working/images/ISIC_0033631.jpg,0
+HAM_0001561,ISIC_0032740,bkl,consensus,,unknown,unknown,/kaggle/working/images/ISIC_0032740.jpg,0
+HAM_0007233,ISIC_0029113,bkl,consensus,55.0,male,abdomen,/kaggle/working/images/ISIC_0029113.jpg,0
+HAM_0005136,ISIC_0024337,bkl,consensus,50.0,female,lower extremity,/kaggle/working/images/ISIC_0024337.jpg,0
+HAM_0002536,ISIC_0032124,bkl,consensus,70.0,female,trunk,/kaggle/working/images/ISIC_0032124.jpg,0
+HAM_0003011,ISIC_0030959,bkl,consensus,70.0,female,trunk,/kaggle/working/images/ISIC_0030959.jpg,0
+HAM_0001997,ISIC_0029251,bkl,consensus,70.0,female,abdomen,/kaggle/working/images/ISIC_0029251.jpg,0
+HAM_0005616,ISIC_0029107,bkl,consensus,80.0,male,face,/kaggle/working/images/ISIC_0029107.jpg,0
+HAM_0006601,ISIC_0031511,bkl,consensus,80.0,male,abdomen,/kaggle/working/images/ISIC_0031511.jpg,0
+HAM_0002209,ISIC_0031226,bkl,consensus,70.0,male,trunk,/kaggle/working/images/ISIC_0031226.jpg,0
+HAM_0000659,ISIC_0030088,bkl,consensus,75.0,male,trunk,/kaggle/working/images/ISIC_0030088.jpg,0
+HAM_0003165,ISIC_0025856,bkl,consensus,55.0,male,trunk,/kaggle/working/images/ISIC_0025856.jpg,0
+HAM_0003129,ISIC_0029195,bkl,consensus,75.0,female,trunk,/kaggle/working/images/ISIC_0029195.jpg,0
+HAM_0006124,ISIC_0025131,bkl,consensus,75.0,female,back,/kaggle/working/images/ISIC_0025131.jpg,0
+HAM_0000974,ISIC_0026262,bkl,consensus,60.0,female,lower extremity,/kaggle/working/images/ISIC_0026262.jpg,0
+HAM_0003979,ISIC_0026416,bkl,consensus,45.0,female,trunk,/kaggle/working/images/ISIC_0026416.jpg,0
+HAM_0002366,ISIC_0029880,bkl,consensus,70.0,female,back,/kaggle/working/images/ISIC_0029880.jpg,0
+HAM_0002546,ISIC_0030579,df,histo,55.0,female,upper extremity,/kaggle/working/images/ISIC_0030579.jpg,0
+HAM_0001785,ISIC_0034169,df,histo,50.0,male,upper extremity,/kaggle/working/images/ISIC_0034169.jpg,0
+HAM_0001785,ISIC_0032941,df,histo,50.0,male,upper extremity,/kaggle/working/images/ISIC_0032941.jpg,0
+HAM_0004036,ISIC_0027727,df,histo,55.0,male,upper extremity,/kaggle/working/images/ISIC_0027727.jpg,0
+HAM_0004036,ISIC_0027107,df,histo,55.0,male,upper extremity,/kaggle/working/images/ISIC_0027107.jpg,0
+HAM_0004036,ISIC_0027648,df,histo,55.0,male,upper extremity,/kaggle/working/images/ISIC_0027648.jpg,0
+HAM_0000720,ISIC_0028926,df,histo,65.0,male,upper extremity,/kaggle/working/images/ISIC_0028926.jpg,0
+HAM_0004371,ISIC_0030011,df,histo,45.0,female,upper extremity,/kaggle/working/images/ISIC_0030011.jpg,0
+HAM_0004371,ISIC_0030427,df,histo,45.0,female,upper extremity,/kaggle/working/images/ISIC_0030427.jpg,0
+HAM_0004371,ISIC_0027626,df,histo,45.0,female,upper extremity,/kaggle/working/images/ISIC_0027626.jpg,0
+HAM_0003290,ISIC_0030757,df,histo,80.0,male,upper extremity,/kaggle/working/images/ISIC_0030757.jpg,0
+HAM_0003290,ISIC_0031358,df,histo,80.0,male,upper extremity,/kaggle/working/images/ISIC_0031358.jpg,0
+HAM_0003290,ISIC_0031735,df,histo,80.0,male,upper extremity,/kaggle/working/images/ISIC_0031735.jpg,0
+HAM_0005861,ISIC_0031344,df,histo,65.0,female,lower extremity,/kaggle/working/images/ISIC_0031344.jpg,0
+HAM_0005861,ISIC_0028346,df,histo,65.0,female,lower extremity,/kaggle/working/images/ISIC_0028346.jpg,0
+HAM_0006371,ISIC_0034135,df,consensus,35.0,female,lower extremity,/kaggle/working/images/ISIC_0034135.jpg,0
+HAM_0006371,ISIC_0033626,df,consensus,35.0,female,lower extremity,/kaggle/working/images/ISIC_0033626.jpg,0
+HAM_0006371,ISIC_0033780,df,consensus,35.0,female,lower extremity,/kaggle/working/images/ISIC_0033780.jpg,0
+HAM_0005112,ISIC_0024386,df,consensus,40.0,female,lower extremity,/kaggle/working/images/ISIC_0024386.jpg,0
+HAM_0004065,ISIC_0026629,df,consensus,65.0,female,lower extremity,/kaggle/working/images/ISIC_0026629.jpg,0
+HAM_0005186,ISIC_0026993,mel,histo,45.0,female,lower extremity,/kaggle/working/images/ISIC_0026993.jpg,1
+HAM_0000876,ISIC_0026531,mel,histo,55.0,male,abdomen,/kaggle/working/images/ISIC_0026531.jpg,1
+HAM_0000876,ISIC_0032396,mel,histo,55.0,male,abdomen,/kaggle/working/images/ISIC_0032396.jpg,1
+HAM_0001747,ISIC_0029575,mel,histo,45.0,male,back,/kaggle/working/images/ISIC_0029575.jpg,1
+HAM_0001747,ISIC_0028361,mel,histo,45.0,male,back,/kaggle/working/images/ISIC_0028361.jpg,1
+HAM_0002720,ISIC_0025277,mel,histo,75.0,male,ear,/kaggle/working/images/ISIC_0025277.jpg,1
+HAM_0004739,ISIC_0025234,mel,histo,70.0,male,back,/kaggle/working/images/ISIC_0025234.jpg,1
+HAM_0006803,ISIC_0032400,mel,histo,60.0,female,abdomen,/kaggle/working/images/ISIC_0032400.jpg,1
+HAM_0006803,ISIC_0024545,mel,histo,60.0,female,abdomen,/kaggle/working/images/ISIC_0024545.jpg,1
+HAM_0002838,ISIC_0030818,mel,histo,65.0,female,lower extremity,/kaggle/working/images/ISIC_0030818.jpg,1
+HAM_0000903,ISIC_0024702,mel,histo,60.0,male,back,/kaggle/working/images/ISIC_0024702.jpg,1
+HAM_0006433,ISIC_0029370,mel,histo,85.0,female,upper extremity,/kaggle/working/images/ISIC_0029370.jpg,1
+HAM_0006433,ISIC_0031958,mel,histo,85.0,female,upper extremity,/kaggle/working/images/ISIC_0031958.jpg,1
+HAM_0004483,ISIC_0027487,mel,histo,35.0,female,lower extremity,/kaggle/working/images/ISIC_0027487.jpg,1
+HAM_0001600,ISIC_0024675,mel,histo,65.0,female,lower extremity,/kaggle/working/images/ISIC_0024675.jpg,1
+HAM_0001600,ISIC_0025891,mel,histo,65.0,female,lower extremity,/kaggle/working/images/ISIC_0025891.jpg,1
+HAM_0003521,ISIC_0032220,mel,histo,70.0,female,back,/kaggle/working/images/ISIC_0032220.jpg,1
+HAM_0000417,ISIC_0025783,mel,histo,65.0,male,back,/kaggle/working/images/ISIC_0025783.jpg,1
+HAM_0007420,ISIC_0031890,mel,histo,85.0,male,face,/kaggle/working/images/ISIC_0031890.jpg,1
+HAM_0006751,ISIC_0024400,mel,histo,75.0,female,unknown,/kaggle/working/images/ISIC_0024400.jpg,1
+HAM_0006651,ISIC_0032182,mel,histo,70.0,female,back,/kaggle/working/images/ISIC_0032182.jpg,1
+HAM_0001729,ISIC_0028325,mel,histo,85.0,male,upper extremity,/kaggle/working/images/ISIC_0028325.jpg,1
+HAM_0001729,ISIC_0024537,mel,histo,85.0,male,upper extremity,/kaggle/working/images/ISIC_0024537.jpg,1
+HAM_0007272,ISIC_0024756,mel,histo,60.0,male,lower extremity,/kaggle/working/images/ISIC_0024756.jpg,1
+HAM_0005719,ISIC_0029562,mel,histo,40.0,female,upper extremity,/kaggle/working/images/ISIC_0029562.jpg,1
+HAM_0005719,ISIC_0029453,mel,histo,40.0,female,upper extremity,/kaggle/working/images/ISIC_0029453.jpg,1
+HAM_0006435,ISIC_0034071,mel,histo,50.0,male,back,/kaggle/working/images/ISIC_0034071.jpg,1
+HAM_0006435,ISIC_0033573,mel,histo,50.0,male,back,/kaggle/working/images/ISIC_0033573.jpg,1
+HAM_0007073,ISIC_0025035,mel,histo,70.0,female,lower extremity,/kaggle/working/images/ISIC_0025035.jpg,1
+HAM_0002939,ISIC_0032888,mel,histo,55.0,male,lower extremity,/kaggle/working/images/ISIC_0032888.jpg,1
+HAM_0002939,ISIC_0033968,mel,histo,55.0,male,lower extremity,/kaggle/working/images/ISIC_0033968.jpg,1
+HAM_0005500,ISIC_0033636,mel,histo,75.0,male,trunk,/kaggle/working/images/ISIC_0033636.jpg,1
+HAM_0002824,ISIC_0034118,mel,histo,25.0,female,lower extremity,/kaggle/working/images/ISIC_0034118.jpg,1
+HAM_0002824,ISIC_0033476,mel,histo,25.0,female,lower extremity,/kaggle/working/images/ISIC_0033476.jpg,1
+HAM_0002824,ISIC_0033047,mel,histo,25.0,female,lower extremity,/kaggle/working/images/ISIC_0033047.jpg,1
+HAM_0002824,ISIC_0025987,mel,histo,25.0,female,lower extremity,/kaggle/working/images/ISIC_0025987.jpg,1
+HAM_0005636,ISIC_0034140,mel,histo,70.0,male,back,/kaggle/working/images/ISIC_0034140.jpg,1
+HAM_0005636,ISIC_0034256,mel,histo,70.0,male,back,/kaggle/working/images/ISIC_0034256.jpg,1
+HAM_0005636,ISIC_0032984,mel,histo,70.0,male,back,/kaggle/working/images/ISIC_0032984.jpg,1
+HAM_0003679,ISIC_0032840,mel,histo,55.0,male,lower extremity,/kaggle/working/images/ISIC_0032840.jpg,1
+HAM_0003679,ISIC_0034313,mel,histo,55.0,male,lower extremity,/kaggle/working/images/ISIC_0034313.jpg,1
+HAM_0003679,ISIC_0033570,mel,histo,55.0,male,lower extremity,/kaggle/working/images/ISIC_0033570.jpg,1
+HAM_0006321,ISIC_0033174,mel,histo,70.0,male,trunk,/kaggle/working/images/ISIC_0033174.jpg,1
+HAM_0006321,ISIC_0033239,mel,histo,70.0,male,trunk,/kaggle/working/images/ISIC_0033239.jpg,1
+HAM_0006321,ISIC_0033985,mel,histo,70.0,male,trunk,/kaggle/working/images/ISIC_0033985.jpg,1
+HAM_0005711,ISIC_0033911,mel,histo,35.0,male,back,/kaggle/working/images/ISIC_0033911.jpg,1
+HAM_0005711,ISIC_0033779,mel,histo,35.0,male,back,/kaggle/working/images/ISIC_0033779.jpg,1
+HAM_0005711,ISIC_0032638,mel,histo,35.0,male,back,/kaggle/working/images/ISIC_0032638.jpg,1
+HAM_0004984,ISIC_0033630,mel,histo,80.0,male,face,/kaggle/working/images/ISIC_0033630.jpg,1
+HAM_0004984,ISIC_0032879,mel,histo,80.0,male,face,/kaggle/working/images/ISIC_0032879.jpg,1
+HAM_0000002,ISIC_0033848,mel,histo,65.0,female,lower extremity,/kaggle/working/images/ISIC_0033848.jpg,1
+HAM_0000002,ISIC_0032622,mel,histo,65.0,female,lower extremity,/kaggle/working/images/ISIC_0032622.jpg,1
+HAM_0000002,ISIC_0034246,mel,histo,65.0,female,lower extremity,/kaggle/working/images/ISIC_0034246.jpg,1
+HAM_0002993,ISIC_0034104,mel,histo,55.0,male,upper extremity,/kaggle/working/images/ISIC_0034104.jpg,1
+HAM_0002993,ISIC_0032547,mel,histo,55.0,male,upper extremity,/kaggle/working/images/ISIC_0032547.jpg,1
+HAM_0002993,ISIC_0033644,mel,histo,55.0,male,upper extremity,/kaggle/working/images/ISIC_0033644.jpg,1
+HAM_0004998,ISIC_0033651,mel,histo,60.0,female,lower extremity,/kaggle/working/images/ISIC_0033651.jpg,1
+HAM_0004998,ISIC_0033304,mel,histo,60.0,female,lower extremity,/kaggle/working/images/ISIC_0033304.jpg,1
+HAM_0007574,ISIC_0033624,mel,histo,70.0,male,scalp,/kaggle/working/images/ISIC_0033624.jpg,1
+HAM_0007574,ISIC_0033238,mel,histo,70.0,male,scalp,/kaggle/working/images/ISIC_0033238.jpg,1
+HAM_0007574,ISIC_0034089,mel,histo,70.0,male,scalp,/kaggle/working/images/ISIC_0034089.jpg,1
+HAM_0001863,ISIC_0032797,mel,histo,70.0,male,upper extremity,/kaggle/working/images/ISIC_0032797.jpg,1
+HAM_0001863,ISIC_0032596,mel,histo,70.0,male,upper extremity,/kaggle/working/images/ISIC_0032596.jpg,1
+HAM_0001863,ISIC_0032856,mel,histo,70.0,male,upper extremity,/kaggle/working/images/ISIC_0032856.jpg,1
+HAM_0001863,ISIC_0033193,mel,histo,70.0,male,upper extremity,/kaggle/working/images/ISIC_0033193.jpg,1
+HAM_0001863,ISIC_0033125,mel,histo,70.0,male,upper extremity,/kaggle/working/images/ISIC_0033125.jpg,1
+HAM_0001863,ISIC_0032810,mel,histo,70.0,male,upper extremity,/kaggle/working/images/ISIC_0032810.jpg,1
+HAM_0004240,ISIC_0033663,mel,histo,50.0,male,back,/kaggle/working/images/ISIC_0033663.jpg,1
+HAM_0004240,ISIC_0034284,mel,histo,50.0,male,back,/kaggle/working/images/ISIC_0034284.jpg,1
+HAM_0004240,ISIC_0032517,mel,histo,50.0,male,back,/kaggle/working/images/ISIC_0032517.jpg,1
+HAM_0003566,ISIC_0032684,mel,histo,50.0,male,abdomen,/kaggle/working/images/ISIC_0032684.jpg,1
+HAM_0003566,ISIC_0034052,mel,histo,50.0,male,abdomen,/kaggle/working/images/ISIC_0034052.jpg,1
+HAM_0003566,ISIC_0033171,mel,histo,50.0,male,abdomen,/kaggle/working/images/ISIC_0033171.jpg,1
+HAM_0002732,ISIC_0034022,mel,histo,65.0,male,chest,/kaggle/working/images/ISIC_0034022.jpg,1
+HAM_0002732,ISIC_0033017,mel,histo,65.0,male,chest,/kaggle/working/images/ISIC_0033017.jpg,1
+HAM_0002732,ISIC_0033874,mel,histo,65.0,male,chest,/kaggle/working/images/ISIC_0033874.jpg,1
+HAM_0007102,ISIC_0030031,mel,histo,55.0,male,neck,/kaggle/working/images/ISIC_0030031.jpg,1
+HAM_0007102,ISIC_0028655,mel,histo,55.0,male,neck,/kaggle/working/images/ISIC_0028655.jpg,1
+HAM_0006376,ISIC_0032845,mel,histo,70.0,female,lower extremity,/kaggle/working/images/ISIC_0032845.jpg,1
+HAM_0001105,ISIC_0033387,mel,histo,55.0,female,lower extremity,/kaggle/working/images/ISIC_0033387.jpg,1
+HAM_0001105,ISIC_0025592,mel,histo,55.0,female,lower extremity,/kaggle/working/images/ISIC_0025592.jpg,1
+HAM_0001105,ISIC_0032552,mel,histo,55.0,female,lower extremity,/kaggle/working/images/ISIC_0032552.jpg,1
+HAM_0007589,ISIC_0034049,mel,histo,70.0,male,back,/kaggle/working/images/ISIC_0034049.jpg,1
+HAM_0004754,ISIC_0033198,mel,histo,65.0,male,back,/kaggle/working/images/ISIC_0033198.jpg,1
+HAM_0004754,ISIC_0032790,mel,histo,65.0,male,back,/kaggle/working/images/ISIC_0032790.jpg,1
+HAM_0004754,ISIC_0033245,mel,histo,65.0,male,back,/kaggle/working/images/ISIC_0033245.jpg,1
+HAM_0004326,ISIC_0030883,mel,histo,75.0,female,back,/kaggle/working/images/ISIC_0030883.jpg,1
+HAM_0001344,ISIC_0032687,mel,histo,45.0,male,back,/kaggle/working/images/ISIC_0032687.jpg,1
+HAM_0001344,ISIC_0033055,mel,histo,45.0,male,back,/kaggle/working/images/ISIC_0033055.jpg,1
+HAM_0006426,ISIC_0033559,mel,histo,80.0,female,upper extremity,/kaggle/working/images/ISIC_0033559.jpg,1
+HAM_0006426,ISIC_0032922,mel,histo,80.0,female,upper extremity,/kaggle/working/images/ISIC_0032922.jpg,1
+HAM_0006517,ISIC_0032672,mel,histo,55.0,female,lower extremity,/kaggle/working/images/ISIC_0032672.jpg,1
+HAM_0006517,ISIC_0034076,mel,histo,55.0,female,lower extremity,/kaggle/working/images/ISIC_0034076.jpg,1
+HAM_0005953,ISIC_0033534,mel,histo,35.0,female,upper extremity,/kaggle/working/images/ISIC_0033534.jpg,1
+HAM_0005953,ISIC_0032626,mel,histo,35.0,female,upper extremity,/kaggle/working/images/ISIC_0032626.jpg,1
+HAM_0006376,ISIC_0034317,mel,histo,70.0,female,lower extremity,/kaggle/working/images/ISIC_0034317.jpg,1
+HAM_0006376,ISIC_0033662,mel,histo,70.0,female,lower extremity,/kaggle/working/images/ISIC_0033662.jpg,1
+HAM_0005124,ISIC_0030150,mel,histo,80.0,female,neck,/kaggle/working/images/ISIC_0030150.jpg,1
+HAM_0002377,ISIC_0033999,mel,histo,85.0,female,foot,/kaggle/working/images/ISIC_0033999.jpg,1
+HAM_0002377,ISIC_0033856,mel,histo,85.0,female,foot,/kaggle/working/images/ISIC_0033856.jpg,1
+HAM_0005927,ISIC_0028173,mel,histo,45.0,male,back,/kaggle/working/images/ISIC_0028173.jpg,1
+HAM_0005600,ISIC_0025520,mel,histo,65.0,male,back,/kaggle/working/images/ISIC_0025520.jpg,1
+HAM_0002491,ISIC_0028465,mel,histo,65.0,male,upper extremity,/kaggle/working/images/ISIC_0028465.jpg,1
+HAM_0002491,ISIC_0026770,mel,histo,65.0,male,upper extremity,/kaggle/working/images/ISIC_0026770.jpg,1
+HAM_0005064,ISIC_0028198,mel,histo,40.0,female,back,/kaggle/working/images/ISIC_0028198.jpg,1
+HAM_0005064,ISIC_0027144,mel,histo,40.0,female,back,/kaggle/working/images/ISIC_0027144.jpg,1
+HAM_0000888,ISIC_0025085,mel,histo,75.0,male,upper extremity,/kaggle/working/images/ISIC_0025085.jpg,1
+HAM_0000888,ISIC_0031034,mel,histo,75.0,male,upper extremity,/kaggle/working/images/ISIC_0031034.jpg,1
+HAM_0006538,ISIC_0029397,mel,histo,5.0,male,back,/kaggle/working/images/ISIC_0029397.jpg,1
+HAM_0006978,ISIC_0029316,mel,histo,45.0,female,neck,/kaggle/working/images/ISIC_0029316.jpg,1
+HAM_0004281,ISIC_0028965,mel,histo,50.0,male,trunk,/kaggle/working/images/ISIC_0028965.jpg,1
+HAM_0003522,ISIC_0029013,mel,histo,45.0,female,abdomen,/kaggle/working/images/ISIC_0029013.jpg,1
+HAM_0000417,ISIC_0031386,mel,histo,65.0,male,back,/kaggle/working/images/ISIC_0031386.jpg,1
+HAM_0000133,ISIC_0028548,mel,histo,60.0,female,back,/kaggle/working/images/ISIC_0028548.jpg,1
+HAM_0005533,ISIC_0027065,mel,histo,85.0,female,upper extremity,/kaggle/working/images/ISIC_0027065.jpg,1
+HAM_0003608,ISIC_0028228,mel,histo,75.0,female,back,/kaggle/working/images/ISIC_0028228.jpg,1
+HAM_0004817,ISIC_0025238,mel,histo,55.0,male,lower extremity,/kaggle/working/images/ISIC_0025238.jpg,1
+HAM_0004669,ISIC_0028543,mel,histo,55.0,female,upper extremity,/kaggle/working/images/ISIC_0028543.jpg,1
+HAM_0006380,ISIC_0028718,mel,histo,35.0,female,upper extremity,/kaggle/working/images/ISIC_0028718.jpg,1
+HAM_0003055,ISIC_0032420,mel,histo,65.0,female,neck,/kaggle/working/images/ISIC_0032420.jpg,1
+HAM_0006196,ISIC_0025248,mel,histo,70.0,male,back,/kaggle/working/images/ISIC_0025248.jpg,1
+HAM_0002609,ISIC_0029318,mel,histo,60.0,female,back,/kaggle/working/images/ISIC_0029318.jpg,1
+HAM_0002609,ISIC_0032070,mel,histo,60.0,female,back,/kaggle/working/images/ISIC_0032070.jpg,1
+HAM_0006380,ISIC_0030747,mel,histo,35.0,female,upper extremity,/kaggle/working/images/ISIC_0030747.jpg,1
+HAM_0003095,ISIC_0025755,mel,histo,60.0,female,back,/kaggle/working/images/ISIC_0025755.jpg,1
+HAM_0000767,ISIC_0031239,mel,histo,60.0,male,back,/kaggle/working/images/ISIC_0031239.jpg,1
+HAM_0001596,ISIC_0027071,mel,histo,50.0,female,face,/kaggle/working/images/ISIC_0027071.jpg,1
+HAM_0001596,ISIC_0029780,mel,histo,50.0,female,face,/kaggle/working/images/ISIC_0029780.jpg,1
+HAM_0007242,ISIC_0026774,mel,histo,70.0,female,upper extremity,/kaggle/working/images/ISIC_0026774.jpg,1
+HAM_0007242,ISIC_0030047,mel,histo,70.0,female,upper extremity,/kaggle/working/images/ISIC_0030047.jpg,1
+HAM_0002772,ISIC_0031908,mel,histo,75.0,male,back,/kaggle/working/images/ISIC_0031908.jpg,1
+HAM_0002772,ISIC_0026897,mel,histo,75.0,male,back,/kaggle/working/images/ISIC_0026897.jpg,1
+HAM_0002197,ISIC_0028709,mel,histo,50.0,male,back,/kaggle/working/images/ISIC_0028709.jpg,1
+HAM_0006380,ISIC_0031417,mel,histo,35.0,female,upper extremity,/kaggle/working/images/ISIC_0031417.jpg,1
+HAM_0004164,ISIC_0030695,mel,histo,80.0,male,lower extremity,/kaggle/working/images/ISIC_0030695.jpg,1
+HAM_0004164,ISIC_0031203,mel,histo,80.0,male,lower extremity,/kaggle/working/images/ISIC_0031203.jpg,1
+HAM_0005692,ISIC_0031931,mel,histo,70.0,female,face,/kaggle/working/images/ISIC_0031931.jpg,1
+HAM_0004622,ISIC_0028666,mel,histo,75.0,male,upper extremity,/kaggle/working/images/ISIC_0028666.jpg,1
+HAM_0002130,ISIC_0029570,mel,histo,50.0,female,lower extremity,/kaggle/working/images/ISIC_0029570.jpg,1
+HAM_0002613,ISIC_0030925,mel,histo,45.0,male,lower extremity,/kaggle/working/images/ISIC_0030925.jpg,1
+HAM_0004053,ISIC_0027126,mel,histo,80.0,male,lower extremity,/kaggle/working/images/ISIC_0027126.jpg,1
+HAM_0002613,ISIC_0030604,mel,histo,45.0,male,lower extremity,/kaggle/working/images/ISIC_0030604.jpg,1
+HAM_0002613,ISIC_0024958,mel,histo,45.0,male,lower extremity,/kaggle/working/images/ISIC_0024958.jpg,1
+HAM_0000590,ISIC_0030951,mel,histo,85.0,female,lower extremity,/kaggle/working/images/ISIC_0030951.jpg,1
+HAM_0004547,ISIC_0031303,mel,histo,65.0,male,face,/kaggle/working/images/ISIC_0031303.jpg,1
+HAM_0004053,ISIC_0027067,mel,histo,80.0,male,lower extremity,/kaggle/working/images/ISIC_0027067.jpg,1
+HAM_0000536,ISIC_0027359,mel,histo,45.0,female,lower extremity,/kaggle/working/images/ISIC_0027359.jpg,1
+HAM_0000536,ISIC_0031844,mel,histo,45.0,female,lower extremity,/kaggle/working/images/ISIC_0031844.jpg,1
+HAM_0003839,ISIC_0026693,vasc,histo,75.0,male,abdomen,/kaggle/working/images/ISIC_0026693.jpg,0
+HAM_0003839,ISIC_0027983,vasc,histo,75.0,male,abdomen,/kaggle/working/images/ISIC_0027983.jpg,0
+HAM_0007097,ISIC_0033230,vasc,histo,60.0,male,trunk,/kaggle/working/images/ISIC_0033230.jpg,0
+HAM_0007097,ISIC_0033762,vasc,histo,60.0,male,trunk,/kaggle/working/images/ISIC_0033762.jpg,0
+HAM_0007097,ISIC_0034214,vasc,histo,60.0,male,trunk,/kaggle/working/images/ISIC_0034214.jpg,0
+HAM_0002610,ISIC_0026876,vasc,consensus,0.0,female,abdomen,/kaggle/working/images/ISIC_0026876.jpg,0
+HAM_0002610,ISIC_0030606,vasc,consensus,0.0,female,abdomen,/kaggle/working/images/ISIC_0030606.jpg,0
+HAM_0007372,ISIC_0030283,vasc,consensus,55.0,male,trunk,/kaggle/working/images/ISIC_0030283.jpg,0
+HAM_0007113,ISIC_0027522,vasc,consensus,55.0,male,abdomen,/kaggle/working/images/ISIC_0027522.jpg,0
+HAM_0005475,ISIC_0025628,vasc,consensus,80.0,male,abdomen,/kaggle/working/images/ISIC_0025628.jpg,0
+HAM_0005011,ISIC_0026393,vasc,consensus,80.0,male,trunk,/kaggle/working/images/ISIC_0026393.jpg,0
+HAM_0007532,ISIC_0024662,vasc,consensus,75.0,male,trunk,/kaggle/working/images/ISIC_0024662.jpg,0
+HAM_0004653,ISIC_0028431,vasc,consensus,50.0,male,abdomen,/kaggle/working/images/ISIC_0028431.jpg,0
+HAM_0001122,ISIC_0030104,vasc,consensus,65.0,female,trunk,/kaggle/working/images/ISIC_0030104.jpg,0
+HAM_0006447,ISIC_0031276,vasc,consensus,75.0,male,abdomen,/kaggle/working/images/ISIC_0031276.jpg,0
+HAM_0003220,ISIC_0034093,bcc,histo,80.0,female,face,/kaggle/working/images/ISIC_0034093.jpg,1
+HAM_0007141,ISIC_0029230,bcc,histo,50.0,male,trunk,/kaggle/working/images/ISIC_0029230.jpg,1
+HAM_0007141,ISIC_0031513,bcc,histo,50.0,male,trunk,/kaggle/working/images/ISIC_0031513.jpg,1
+HAM_0006843,ISIC_0024457,bcc,histo,85.0,male,face,/kaggle/working/images/ISIC_0024457.jpg,1
+HAM_0006834,ISIC_0029193,bcc,histo,85.0,male,face,/kaggle/working/images/ISIC_0029193.jpg,1
+HAM_0006834,ISIC_0027526,bcc,histo,85.0,male,face,/kaggle/working/images/ISIC_0027526.jpg,1
+HAM_0001884,ISIC_0026760,bcc,histo,70.0,male,back,/kaggle/working/images/ISIC_0026760.jpg,1
+HAM_0001884,ISIC_0025718,bcc,histo,70.0,male,back,/kaggle/working/images/ISIC_0025718.jpg,1
+HAM_0004511,ISIC_0024590,bcc,histo,80.0,male,back,/kaggle/working/images/ISIC_0024590.jpg,1
+HAM_0002467,ISIC_0030893,bcc,histo,70.0,male,back,/kaggle/working/images/ISIC_0030893.jpg,1
+HAM_0002021,ISIC_0029466,bcc,histo,65.0,female,upper extremity,/kaggle/working/images/ISIC_0029466.jpg,1
+HAM_0002021,ISIC_0027057,bcc,histo,65.0,female,upper extremity,/kaggle/working/images/ISIC_0027057.jpg,1
+HAM_0007002,ISIC_0027433,bcc,histo,80.0,male,face,/kaggle/working/images/ISIC_0027433.jpg,1
+HAM_0007002,ISIC_0029515,bcc,histo,80.0,male,face,/kaggle/working/images/ISIC_0029515.jpg,1
+HAM_0003229,ISIC_0031140,bcc,histo,60.0,male,chest,/kaggle/working/images/ISIC_0031140.jpg,1
+HAM_0005309,ISIC_0026282,bcc,histo,50.0,male,upper extremity,/kaggle/working/images/ISIC_0026282.jpg,1
+HAM_0005309,ISIC_0027744,bcc,histo,50.0,male,upper extremity,/kaggle/working/images/ISIC_0027744.jpg,1
+HAM_0007446,ISIC_0028457,bcc,histo,75.0,female,face,/kaggle/working/images/ISIC_0028457.jpg,1
+HAM_0000791,ISIC_0030687,bcc,histo,80.0,male,scalp,/kaggle/working/images/ISIC_0030687.jpg,1
+HAM_0000791,ISIC_0025584,bcc,histo,80.0,male,scalp,/kaggle/working/images/ISIC_0025584.jpg,1
+HAM_0007428,ISIC_0031762,bcc,histo,75.0,female,face,/kaggle/working/images/ISIC_0031762.jpg,1
+HAM_0007428,ISIC_0028106,bcc,histo,75.0,female,face,/kaggle/working/images/ISIC_0028106.jpg,1
+HAM_0000463,ISIC_0032415,bcc,histo,70.0,female,face,/kaggle/working/images/ISIC_0032415.jpg,1
+HAM_0000463,ISIC_0030177,bcc,histo,70.0,female,face,/kaggle/working/images/ISIC_0030177.jpg,1
+HAM_0005657,ISIC_0024572,bcc,histo,75.0,female,back,/kaggle/working/images/ISIC_0024572.jpg,1
+HAM_0005058,ISIC_0026324,bcc,histo,85.0,female,face,/kaggle/working/images/ISIC_0026324.jpg,1
+HAM_0005058,ISIC_0025700,bcc,histo,85.0,female,face,/kaggle/working/images/ISIC_0025700.jpg,1
+HAM_0000009,ISIC_0029201,bcc,histo,35.0,male,back,/kaggle/working/images/ISIC_0029201.jpg,1
+HAM_0000009,ISIC_0026439,bcc,histo,35.0,male,back,/kaggle/working/images/ISIC_0026439.jpg,1
+HAM_0000009,ISIC_0029779,bcc,histo,35.0,male,back,/kaggle/working/images/ISIC_0029779.jpg,1
+HAM_0004420,ISIC_0024795,bcc,histo,55.0,male,back,/kaggle/working/images/ISIC_0024795.jpg,1
+HAM_0002565,ISIC_0032660,bcc,histo,75.0,male,back,/kaggle/working/images/ISIC_0032660.jpg,1
+HAM_0002565,ISIC_0033504,bcc,histo,75.0,male,back,/kaggle/working/images/ISIC_0033504.jpg,1
+HAM_0004083,ISIC_0032652,bcc,histo,60.0,female,face,/kaggle/working/images/ISIC_0032652.jpg,1
+HAM_0004083,ISIC_0033551,bcc,histo,60.0,female,face,/kaggle/working/images/ISIC_0033551.jpg,1
+HAM_0004083,ISIC_0033571,bcc,histo,60.0,female,face,/kaggle/working/images/ISIC_0033571.jpg,1
+HAM_0007335,ISIC_0034299,bcc,histo,60.0,male,upper extremity,/kaggle/working/images/ISIC_0034299.jpg,1
+HAM_0007335,ISIC_0032808,bcc,histo,60.0,male,upper extremity,/kaggle/working/images/ISIC_0032808.jpg,1
+HAM_0004536,ISIC_0025644,bcc,histo,40.0,female,back,/kaggle/working/images/ISIC_0025644.jpg,1
+HAM_0004536,ISIC_0030314,bcc,histo,40.0,female,back,/kaggle/working/images/ISIC_0030314.jpg,1
+HAM_0000879,ISIC_0033203,bcc,histo,65.0,female,back,/kaggle/working/images/ISIC_0033203.jpg,1
+HAM_0000879,ISIC_0033366,bcc,histo,65.0,female,back,/kaggle/working/images/ISIC_0033366.jpg,1
+HAM_0000879,ISIC_0032816,bcc,histo,65.0,female,back,/kaggle/working/images/ISIC_0032816.jpg,1
+HAM_0003216,ISIC_0034015,bcc,histo,85.0,female,face,/kaggle/working/images/ISIC_0034015.jpg,1
+HAM_0003216,ISIC_0034223,bcc,histo,85.0,female,face,/kaggle/working/images/ISIC_0034223.jpg,1
+HAM_0002397,ISIC_0029192,bcc,histo,85.0,female,neck,/kaggle/working/images/ISIC_0029192.jpg,1
+HAM_0002397,ISIC_0033248,bcc,histo,85.0,female,neck,/kaggle/working/images/ISIC_0033248.jpg,1
+HAM_0001018,ISIC_0027090,bcc,histo,60.0,male,chest,/kaggle/working/images/ISIC_0027090.jpg,1
+HAM_0004515,ISIC_0029564,bcc,histo,55.0,female,face,/kaggle/working/images/ISIC_0029564.jpg,1
+HAM_0003373,ISIC_0024515,bcc,histo,65.0,male,back,/kaggle/working/images/ISIC_0024515.jpg,1
+HAM_0003373,ISIC_0031450,bcc,histo,65.0,male,back,/kaggle/working/images/ISIC_0031450.jpg,1
+HAM_0001640,ISIC_0031026,bcc,histo,65.0,male,back,/kaggle/working/images/ISIC_0031026.jpg,1
+HAM_0006844,ISIC_0028688,bcc,histo,60.0,male,scalp,/kaggle/working/images/ISIC_0028688.jpg,1
+HAM_0002224,ISIC_0029278,bcc,histo,60.0,male,back,/kaggle/working/images/ISIC_0029278.jpg,1
+HAM_0004511,ISIC_0028765,bcc,histo,80.0,male,back,/kaggle/working/images/ISIC_0028765.jpg,1
+HAM_0002167,ISIC_0026952,bcc,histo,55.0,male,back,/kaggle/working/images/ISIC_0026952.jpg,1
+HAM_0005547,ISIC_0032439,bcc,histo,65.0,female,back,/kaggle/working/images/ISIC_0032439.jpg,1
+HAM_0004027,ISIC_0030403,bcc,histo,65.0,female,back,/kaggle/working/images/ISIC_0030403.jpg,1
+HAM_0004027,ISIC_0024595,bcc,histo,65.0,female,back,/kaggle/working/images/ISIC_0024595.jpg,1
+HAM_0002024,ISIC_0029412,bcc,histo,80.0,male,back,/kaggle/working/images/ISIC_0029412.jpg,1
+HAM_0000612,ISIC_0026968,bcc,histo,75.0,female,neck,/kaggle/working/images/ISIC_0026968.jpg,1
+HAM_0000968,ISIC_0026074,bcc,histo,40.0,female,chest,/kaggle/working/images/ISIC_0026074.jpg,1
+HAM_0005068,ISIC_0026156,bcc,histo,80.0,male,face,/kaggle/working/images/ISIC_0026156.jpg,1
+HAM_0000719,ISIC_0027915,bcc,histo,80.0,male,abdomen,/kaggle/working/images/ISIC_0027915.jpg,1
+HAM_0000719,ISIC_0026337,bcc,histo,80.0,male,abdomen,/kaggle/working/images/ISIC_0026337.jpg,1
+HAM_0000719,ISIC_0026902,bcc,histo,80.0,male,abdomen,/kaggle/working/images/ISIC_0026902.jpg,1
+HAM_0004967,ISIC_0028815,bcc,histo,70.0,female,face,/kaggle/working/images/ISIC_0028815.jpg,1
+HAM_0005268,ISIC_0027825,bcc,histo,55.0,male,chest,/kaggle/working/images/ISIC_0027825.jpg,1
+HAM_0001457,ISIC_0029856,bcc,histo,75.0,male,back,/kaggle/working/images/ISIC_0029856.jpg,1
+HAM_0002083,ISIC_0024432,bcc,histo,65.0,male,face,/kaggle/working/images/ISIC_0024432.jpg,1
+HAM_0004495,ISIC_0024743,bcc,histo,65.0,female,lower extremity,/kaggle/working/images/ISIC_0024743.jpg,1
+HAM_0005669,ISIC_0024949,bcc,histo,75.0,male,upper extremity,/kaggle/working/images/ISIC_0024949.jpg,1
+HAM_0002689,ISIC_0029263,bcc,histo,60.0,male,lower extremity,/kaggle/working/images/ISIC_0029263.jpg,1
+HAM_0002689,ISIC_0026687,bcc,histo,60.0,male,lower extremity,/kaggle/working/images/ISIC_0026687.jpg,1
+HAM_0003191,ISIC_0029524,bcc,histo,65.0,female,hand,/kaggle/working/images/ISIC_0029524.jpg,1
+HAM_0003191,ISIC_0028050,bcc,histo,65.0,female,hand,/kaggle/working/images/ISIC_0028050.jpg,1
+HAM_0002313,ISIC_0024461,bcc,histo,80.0,female,foot,/kaggle/working/images/ISIC_0024461.jpg,1
+HAM_0002313,ISIC_0030526,bcc,histo,80.0,female,foot,/kaggle/working/images/ISIC_0030526.jpg,1
+HAM_0002313,ISIC_0025530,bcc,histo,80.0,female,foot,/kaggle/working/images/ISIC_0025530.jpg,1
+HAM_0003669,ISIC_0030096,bcc,histo,65.0,male,chest,/kaggle/working/images/ISIC_0030096.jpg,1
+HAM_0000655,ISIC_0028283,bcc,histo,70.0,female,neck,/kaggle/working/images/ISIC_0028283.jpg,1
+HAM_0000655,ISIC_0027175,bcc,histo,70.0,female,neck,/kaggle/working/images/ISIC_0027175.jpg,1
+HAM_0005617,ISIC_0027677,bcc,histo,65.0,male,back,/kaggle/working/images/ISIC_0027677.jpg,1
+HAM_0005617,ISIC_0024833,bcc,histo,65.0,male,back,/kaggle/working/images/ISIC_0024833.jpg,1
+HAM_0005617,ISIC_0027546,bcc,histo,65.0,male,back,/kaggle/working/images/ISIC_0027546.jpg,1
+HAM_0001424,ISIC_0031318,bcc,histo,65.0,female,back,/kaggle/working/images/ISIC_0031318.jpg,1
+HAM_0001424,ISIC_0031470,bcc,histo,65.0,female,back,/kaggle/working/images/ISIC_0031470.jpg,1
+HAM_0003115,ISIC_0030954,bcc,histo,85.0,male,chest,/kaggle/working/images/ISIC_0030954.jpg,1
+HAM_0003101,ISIC_0030094,bcc,histo,85.0,male,back,/kaggle/working/images/ISIC_0030094.jpg,1
+HAM_0003198,ISIC_0027759,bcc,histo,60.0,female,back,/kaggle/working/images/ISIC_0027759.jpg,1
+HAM_0005837,ISIC_0028653,bcc,histo,50.0,female,chest,/kaggle/working/images/ISIC_0028653.jpg,1
+HAM_0007289,ISIC_0031263,bcc,histo,80.0,male,upper extremity,/kaggle/working/images/ISIC_0031263.jpg,1
+HAM_0002733,ISIC_0031041,bcc,histo,70.0,male,chest,/kaggle/working/images/ISIC_0031041.jpg,1
+HAM_0004932,ISIC_0032212,nv,follow_up,45.0,female,foot,/kaggle/working/images/ISIC_0032212.jpg,0
+HAM_0002530,ISIC_0028239,nv,follow_up,45.0,female,lower extremity,/kaggle/working/images/ISIC_0028239.jpg,0
+HAM_0002808,ISIC_0031503,nv,follow_up,45.0,female,trunk,/kaggle/working/images/ISIC_0031503.jpg,0
+HAM_0002971,ISIC_0026425,nv,follow_up,45.0,female,lower extremity,/kaggle/working/images/ISIC_0026425.jpg,0
+HAM_0001335,ISIC_0026555,nv,follow_up,50.0,male,upper extremity,/kaggle/working/images/ISIC_0026555.jpg,0
+HAM_0000289,ISIC_0032226,nv,follow_up,50.0,male,lower extremity,/kaggle/working/images/ISIC_0032226.jpg,0
+HAM_0006806,ISIC_0026681,nv,follow_up,50.0,male,upper extremity,/kaggle/working/images/ISIC_0026681.jpg,0
+HAM_0005366,ISIC_0026211,nv,follow_up,50.0,male,abdomen,/kaggle/working/images/ISIC_0026211.jpg,0
+HAM_0000699,ISIC_0031575,nv,follow_up,50.0,male,lower extremity,/kaggle/working/images/ISIC_0031575.jpg,0
+HAM_0003882,ISIC_0028266,nv,follow_up,50.0,male,lower extremity,/kaggle/working/images/ISIC_0028266.jpg,0
+HAM_0002877,ISIC_0030435,nv,follow_up,50.0,male,trunk,/kaggle/working/images/ISIC_0030435.jpg,0
+HAM_0004535,ISIC_0024364,nv,follow_up,45.0,male,upper extremity,/kaggle/working/images/ISIC_0024364.jpg,0
+HAM_0002265,ISIC_0030791,nv,follow_up,45.0,male,back,/kaggle/working/images/ISIC_0030791.jpg,0
+HAM_0005384,ISIC_0030072,nv,follow_up,55.0,male,lower extremity,/kaggle/working/images/ISIC_0030072.jpg,0
+HAM_0001227,ISIC_0032210,nv,follow_up,55.0,male,abdomen,/kaggle/working/images/ISIC_0032210.jpg,0
+HAM_0007203,ISIC_0031845,nv,follow_up,55.0,male,upper extremity,/kaggle/working/images/ISIC_0031845.jpg,0
+HAM_0007551,ISIC_0032016,nv,follow_up,55.0,male,trunk,/kaggle/working/images/ISIC_0032016.jpg,0
+HAM_0000561,ISIC_0025143,nv,follow_up,45.0,male,genital,/kaggle/working/images/ISIC_0025143.jpg,0
+HAM_0004789,ISIC_0031652,nv,follow_up,45.0,female,trunk,/kaggle/working/images/ISIC_0031652.jpg,0
+HAM_0002443,ISIC_0029685,nv,follow_up,50.0,female,trunk,/kaggle/working/images/ISIC_0029685.jpg,0
+HAM_0001323,ISIC_0032087,nv,follow_up,50.0,female,back,/kaggle/working/images/ISIC_0032087.jpg,0
+HAM_0003255,ISIC_0026172,nv,follow_up,50.0,female,lower extremity,/kaggle/working/images/ISIC_0026172.jpg,0
+HAM_0006668,ISIC_0027808,nv,follow_up,50.0,female,abdomen,/kaggle/working/images/ISIC_0027808.jpg,0
+HAM_0002105,ISIC_0027854,nv,follow_up,50.0,female,upper extremity,/kaggle/working/images/ISIC_0027854.jpg,0
+HAM_0004965,ISIC_0025287,nv,follow_up,50.0,female,lower extremity,/kaggle/working/images/ISIC_0025287.jpg,0
+HAM_0001534,ISIC_0024365,nv,follow_up,50.0,female,abdomen,/kaggle/working/images/ISIC_0024365.jpg,0
+HAM_0000557,ISIC_0025675,nv,follow_up,50.0,female,upper extremity,/kaggle/working/images/ISIC_0025675.jpg,0
+HAM_0002561,ISIC_0025325,nv,follow_up,50.0,male,lower extremity,/kaggle/working/images/ISIC_0025325.jpg,0
+HAM_0000703,ISIC_0028424,nv,follow_up,40.0,male,trunk,/kaggle/working/images/ISIC_0028424.jpg,0
+HAM_0001579,ISIC_0025636,nv,follow_up,40.0,male,trunk,/kaggle/working/images/ISIC_0025636.jpg,0
+HAM_0003038,ISIC_0026036,nv,follow_up,40.0,male,abdomen,/kaggle/working/images/ISIC_0026036.jpg,0
+HAM_0004082,ISIC_0025676,nv,follow_up,40.0,male,back,/kaggle/working/images/ISIC_0025676.jpg,0
+HAM_0003302,ISIC_0032434,nv,follow_up,70.0,male,lower extremity,/kaggle/working/images/ISIC_0032434.jpg,0
+HAM_0003673,ISIC_0030016,nv,follow_up,35.0,male,lower extremity,/kaggle/working/images/ISIC_0030016.jpg,0
+HAM_0000041,ISIC_0032211,nv,follow_up,45.0,female,scalp,/kaggle/working/images/ISIC_0032211.jpg,0
+HAM_0006279,ISIC_0027195,nv,follow_up,25.0,female,neck,/kaggle/working/images/ISIC_0027195.jpg,0
+HAM_0002786,ISIC_0029258,nv,follow_up,55.0,male,trunk,/kaggle/working/images/ISIC_0029258.jpg,0
+HAM_0000921,ISIC_0026098,nv,follow_up,55.0,male,abdomen,/kaggle/working/images/ISIC_0026098.jpg,0
+HAM_0005038,ISIC_0026914,nv,follow_up,55.0,male,back,/kaggle/working/images/ISIC_0026914.jpg,0
+HAM_0004006,ISIC_0031653,nv,follow_up,55.0,male,lower extremity,/kaggle/working/images/ISIC_0031653.jpg,0
+HAM_0006306,ISIC_0026242,nv,follow_up,50.0,male,trunk,/kaggle/working/images/ISIC_0026242.jpg,0
+HAM_0006216,ISIC_0030214,nv,follow_up,50.0,male,trunk,/kaggle/working/images/ISIC_0030214.jpg,0
+HAM_0006340,ISIC_0028639,nv,follow_up,50.0,male,face,/kaggle/working/images/ISIC_0028639.jpg,0
+HAM_0002322,ISIC_0027912,nv,follow_up,50.0,female,abdomen,/kaggle/working/images/ISIC_0027912.jpg,0
+HAM_0002702,ISIC_0028196,nv,follow_up,35.0,female,face,/kaggle/working/images/ISIC_0028196.jpg,0
+HAM_0001906,ISIC_0032025,nv,follow_up,45.0,male,trunk,/kaggle/working/images/ISIC_0032025.jpg,0
+HAM_0002138,ISIC_0027834,nv,follow_up,45.0,male,abdomen,/kaggle/working/images/ISIC_0027834.jpg,0
+HAM_0001548,ISIC_0032254,nv,follow_up,45.0,male,lower extremity,/kaggle/working/images/ISIC_0032254.jpg,0
+HAM_0002321,ISIC_0029015,nv,follow_up,45.0,male,back,/kaggle/working/images/ISIC_0029015.jpg,0
+HAM_0003197,ISIC_0028668,nv,follow_up,45.0,female,abdomen,/kaggle/working/images/ISIC_0028668.jpg,0
+HAM_0003648,ISIC_0031730,nv,follow_up,55.0,male,lower extremity,/kaggle/working/images/ISIC_0031730.jpg,0
+HAM_0005332,ISIC_0027389,nv,follow_up,45.0,female,abdomen,/kaggle/working/images/ISIC_0027389.jpg,0
+HAM_0002433,ISIC_0032011,nv,follow_up,45.0,female,upper extremity,/kaggle/working/images/ISIC_0032011.jpg,0
+HAM_0006250,ISIC_0030308,nv,follow_up,45.0,female,trunk,/kaggle/working/images/ISIC_0030308.jpg,0
+HAM_0001816,ISIC_0028827,nv,follow_up,45.0,female,foot,/kaggle/working/images/ISIC_0028827.jpg,0
+HAM_0005094,ISIC_0027816,nv,follow_up,45.0,female,lower extremity,/kaggle/working/images/ISIC_0027816.jpg,0
+HAM_0002215,ISIC_0028539,nv,follow_up,45.0,female,back,/kaggle/working/images/ISIC_0028539.jpg,0
+HAM_0004933,ISIC_0025558,nv,follow_up,45.0,female,lower extremity,/kaggle/working/images/ISIC_0025558.jpg,0
+HAM_0001810,ISIC_0025794,nv,follow_up,45.0,female,back,/kaggle/working/images/ISIC_0025794.jpg,0
+HAM_0003838,ISIC_0028888,nv,follow_up,50.0,male,trunk,/kaggle/working/images/ISIC_0028888.jpg,0
+HAM_0001482,ISIC_0027691,nv,follow_up,45.0,female,trunk,/kaggle/working/images/ISIC_0027691.jpg,0
+HAM_0002344,ISIC_0026778,nv,follow_up,45.0,female,trunk,/kaggle/working/images/ISIC_0026778.jpg,0
+HAM_0000713,ISIC_0031174,nv,follow_up,55.0,male,abdomen,/kaggle/working/images/ISIC_0031174.jpg,0
+HAM_0002404,ISIC_0031776,nv,follow_up,55.0,male,back,/kaggle/working/images/ISIC_0031776.jpg,0
+HAM_0005800,ISIC_0028864,nv,follow_up,40.0,female,upper extremity,/kaggle/working/images/ISIC_0028864.jpg,0
+HAM_0004116,ISIC_0026613,nv,follow_up,40.0,female,lower extremity,/kaggle/working/images/ISIC_0026613.jpg,0
+HAM_0001121,ISIC_0024788,nv,follow_up,40.0,female,trunk,/kaggle/working/images/ISIC_0024788.jpg,0
+HAM_0002782,ISIC_0030536,nv,follow_up,55.0,male,back,/kaggle/working/images/ISIC_0030536.jpg,0
+HAM_0006689,ISIC_0024493,nv,follow_up,40.0,male,lower extremity,/kaggle/working/images/ISIC_0024493.jpg,0
+HAM_0002287,ISIC_0026891,nv,follow_up,55.0,male,upper extremity,/kaggle/working/images/ISIC_0026891.jpg,0
+HAM_0005975,ISIC_0031837,nv,follow_up,55.0,male,lower extremity,/kaggle/working/images/ISIC_0031837.jpg,0
+HAM_0005629,ISIC_0029317,nv,follow_up,45.0,female,upper extremity,/kaggle/working/images/ISIC_0029317.jpg,0
+HAM_0004134,ISIC_0026075,nv,follow_up,30.0,male,back,/kaggle/working/images/ISIC_0026075.jpg,0
+HAM_0001140,ISIC_0024884,nv,follow_up,55.0,male,back,/kaggle/working/images/ISIC_0024884.jpg,0
+HAM_0006953,ISIC_0026175,nv,follow_up,45.0,male,lower extremity,/kaggle/working/images/ISIC_0026175.jpg,0
+HAM_0007527,ISIC_0032426,nv,follow_up,45.0,female,back,/kaggle/working/images/ISIC_0032426.jpg,0
+HAM_0001661,ISIC_0032059,nv,follow_up,55.0,female,genital,/kaggle/working/images/ISIC_0032059.jpg,0
+HAM_0000175,ISIC_0028356,nv,follow_up,40.0,female,lower extremity,/kaggle/working/images/ISIC_0028356.jpg,0
+HAM_0006523,ISIC_0027919,nv,follow_up,40.0,female,lower extremity,/kaggle/working/images/ISIC_0027919.jpg,0
+HAM_0005295,ISIC_0024690,nv,follow_up,40.0,female,back,/kaggle/working/images/ISIC_0024690.jpg,0
+HAM_0005349,ISIC_0027375,nv,follow_up,45.0,male,abdomen,/kaggle/working/images/ISIC_0027375.jpg,0
+HAM_0001357,ISIC_0027145,nv,follow_up,45.0,male,back,/kaggle/working/images/ISIC_0027145.jpg,0
+HAM_0006569,ISIC_0030483,nv,follow_up,35.0,male,lower extremity,/kaggle/working/images/ISIC_0030483.jpg,0
+HAM_0002414,ISIC_0027661,nv,follow_up,35.0,male,upper extremity,/kaggle/working/images/ISIC_0027661.jpg,0
+HAM_0004982,ISIC_0025192,nv,follow_up,35.0,male,upper extremity,/kaggle/working/images/ISIC_0025192.jpg,0
+HAM_0007026,ISIC_0027085,nv,follow_up,35.0,male,trunk,/kaggle/working/images/ISIC_0027085.jpg,0
+HAM_0007067,ISIC_0027251,nv,follow_up,35.0,male,trunk,/kaggle/working/images/ISIC_0027251.jpg,0
+HAM_0002836,ISIC_0030289,nv,follow_up,35.0,male,lower extremity,/kaggle/working/images/ISIC_0030289.jpg,0
+HAM_0004941,ISIC_0027121,nv,follow_up,35.0,male,abdomen,/kaggle/working/images/ISIC_0027121.jpg,0
+HAM_0005211,ISIC_0030282,nv,follow_up,50.0,female,upper extremity,/kaggle/working/images/ISIC_0030282.jpg,0
+HAM_0000617,ISIC_0029703,nv,follow_up,75.0,male,trunk,/kaggle/working/images/ISIC_0029703.jpg,0
+HAM_0002353,ISIC_0028705,nv,follow_up,40.0,female,foot,/kaggle/working/images/ISIC_0028705.jpg,0
+HAM_0002277,ISIC_0025080,nv,follow_up,50.0,male,abdomen,/kaggle/working/images/ISIC_0025080.jpg,0
+HAM_0000927,ISIC_0027318,nv,follow_up,35.0,female,abdomen,/kaggle/working/images/ISIC_0027318.jpg,0
+HAM_0007060,ISIC_0025947,nv,follow_up,45.0,male,abdomen,/kaggle/working/images/ISIC_0025947.jpg,0
+HAM_0002626,ISIC_0026822,nv,follow_up,45.0,male,lower extremity,/kaggle/working/images/ISIC_0026822.jpg,0
+HAM_0002354,ISIC_0025559,nv,follow_up,45.0,male,lower extremity,/kaggle/working/images/ISIC_0025559.jpg,0
+HAM_0005812,ISIC_0031250,nv,follow_up,45.0,male,lower extremity,/kaggle/working/images/ISIC_0031250.jpg,0
+HAM_0005703,ISIC_0030519,nv,follow_up,55.0,male,upper extremity,/kaggle/working/images/ISIC_0030519.jpg,0
+HAM_0005241,ISIC_0029699,nv,follow_up,30.0,male,trunk,/kaggle/working/images/ISIC_0029699.jpg,0
+HAM_0003984,ISIC_0032228,nv,follow_up,30.0,male,back,/kaggle/working/images/ISIC_0032228.jpg,0
+HAM_0004256,ISIC_0027472,nv,follow_up,20.0,female,upper extremity,/kaggle/working/images/ISIC_0027472.jpg,0
+HAM_0001151,ISIC_0024649,nv,follow_up,50.0,female,trunk,/kaggle/working/images/ISIC_0024649.jpg,0
+HAM_0003748,ISIC_0031051,nv,follow_up,40.0,male,chest,/kaggle/working/images/ISIC_0031051.jpg,0
+HAM_0002459,ISIC_0029305,nv,follow_up,40.0,male,trunk,/kaggle/working/images/ISIC_0029305.jpg,0
+HAM_0004070,ISIC_0027657,nv,follow_up,40.0,male,trunk,/kaggle/working/images/ISIC_0027657.jpg,0
+HAM_0001376,ISIC_0031437,nv,follow_up,40.0,male,lower extremity,/kaggle/working/images/ISIC_0031437.jpg,0
+HAM_0000328,ISIC_0025482,nv,follow_up,40.0,male,lower extremity,/kaggle/working/images/ISIC_0025482.jpg,0
+HAM_0005564,ISIC_0026320,nv,follow_up,45.0,female,abdomen,/kaggle/working/images/ISIC_0026320.jpg,0
+HAM_0001993,ISIC_0029848,nv,follow_up,45.0,female,back,/kaggle/working/images/ISIC_0029848.jpg,0
+HAM_0006375,ISIC_0026114,nv,follow_up,50.0,female,back,/kaggle/working/images/ISIC_0026114.jpg,0
+HAM_0001544,ISIC_0030875,nv,follow_up,50.0,female,back,/kaggle/working/images/ISIC_0030875.jpg,0
+HAM_0004017,ISIC_0030351,nv,follow_up,50.0,female,upper extremity,/kaggle/working/images/ISIC_0030351.jpg,0
+HAM_0007128,ISIC_0025104,nv,follow_up,50.0,female,upper extremity,/kaggle/working/images/ISIC_0025104.jpg,0
+HAM_0006382,ISIC_0029883,nv,follow_up,45.0,female,upper extremity,/kaggle/working/images/ISIC_0029883.jpg,0
+HAM_0004750,ISIC_0029266,nv,follow_up,45.0,female,trunk,/kaggle/working/images/ISIC_0029266.jpg,0
+HAM_0003032,ISIC_0028789,nv,follow_up,45.0,female,trunk,/kaggle/working/images/ISIC_0028789.jpg,0
+HAM_0002778,ISIC_0026540,nv,follow_up,45.0,female,lower extremity,/kaggle/working/images/ISIC_0026540.jpg,0
+HAM_0004757,ISIC_0025607,nv,follow_up,30.0,male,trunk,/kaggle/working/images/ISIC_0025607.jpg,0
+HAM_0002681,ISIC_0029381,nv,follow_up,30.0,male,back,/kaggle/working/images/ISIC_0029381.jpg,0
+HAM_0006789,ISIC_0024976,nv,follow_up,35.0,male,trunk,/kaggle/working/images/ISIC_0024976.jpg,0
+HAM_0006736,ISIC_0024492,nv,follow_up,60.0,male,lower extremity,/kaggle/working/images/ISIC_0024492.jpg,0
+HAM_0007205,ISIC_0026269,nv,follow_up,60.0,male,lower extremity,/kaggle/working/images/ISIC_0026269.jpg,0
+HAM_0005876,ISIC_0026980,nv,follow_up,60.0,male,foot,/kaggle/working/images/ISIC_0026980.jpg,0
+HAM_0007539,ISIC_0026875,nv,follow_up,35.0,female,upper extremity,/kaggle/working/images/ISIC_0026875.jpg,0
+HAM_0005323,ISIC_0027456,nv,follow_up,35.0,female,trunk,/kaggle/working/images/ISIC_0027456.jpg,0
+HAM_0003914,ISIC_0029300,nv,follow_up,45.0,male,genital,/kaggle/working/images/ISIC_0029300.jpg,0
+HAM_0003513,ISIC_0030743,nv,follow_up,60.0,male,upper extremity,/kaggle/working/images/ISIC_0030743.jpg,0
+HAM_0005111,ISIC_0030911,nv,follow_up,40.0,female,trunk,/kaggle/working/images/ISIC_0030911.jpg,0
+HAM_0002144,ISIC_0031682,nv,follow_up,35.0,female,abdomen,/kaggle/working/images/ISIC_0031682.jpg,0
+HAM_0003482,ISIC_0025150,nv,follow_up,35.0,female,abdomen,/kaggle/working/images/ISIC_0025150.jpg,0
+HAM_0000810,ISIC_0031734,nv,follow_up,35.0,female,abdomen,/kaggle/working/images/ISIC_0031734.jpg,0
+HAM_0003314,ISIC_0026470,nv,follow_up,5.0,male,abdomen,/kaggle/working/images/ISIC_0026470.jpg,0
+HAM_0005097,ISIC_0031018,nv,follow_up,75.0,male,lower extremity,/kaggle/working/images/ISIC_0031018.jpg,0
+HAM_0000899,ISIC_0029708,nv,follow_up,65.0,female,upper extremity,/kaggle/working/images/ISIC_0029708.jpg,0
+HAM_0002000,ISIC_0030092,nv,follow_up,45.0,female,trunk,/kaggle/working/images/ISIC_0030092.jpg,0
+HAM_0005028,ISIC_0031190,nv,follow_up,55.0,female,trunk,/kaggle/working/images/ISIC_0031190.jpg,0
+HAM_0005013,ISIC_0030448,nv,follow_up,45.0,female,back,/kaggle/working/images/ISIC_0030448.jpg,0
+HAM_0000686,ISIC_0031523,nv,follow_up,65.0,female,trunk,/kaggle/working/images/ISIC_0031523.jpg,0
+HAM_0002160,ISIC_0028712,nv,follow_up,65.0,female,trunk,/kaggle/working/images/ISIC_0028712.jpg,0
+HAM_0000141,ISIC_0030477,nv,follow_up,35.0,female,lower extremity,/kaggle/working/images/ISIC_0030477.jpg,0
+HAM_0007544,ISIC_0031390,nv,follow_up,60.0,male,lower extremity,/kaggle/working/images/ISIC_0031390.jpg,0
+HAM_0004159,ISIC_0031086,nv,follow_up,50.0,female,upper extremity,/kaggle/working/images/ISIC_0031086.jpg,0
+HAM_0004252,ISIC_0030461,nv,follow_up,55.0,male,lower extremity,/kaggle/working/images/ISIC_0030461.jpg,0
+HAM_0001407,ISIC_0025931,nv,follow_up,45.0,female,trunk,/kaggle/working/images/ISIC_0025931.jpg,0
+HAM_0004922,ISIC_0027108,nv,follow_up,50.0,male,abdomen,/kaggle/working/images/ISIC_0027108.jpg,0
+HAM_0006144,ISIC_0029388,nv,follow_up,50.0,male,trunk,/kaggle/working/images/ISIC_0029388.jpg,0
+HAM_0005292,ISIC_0030974,nv,follow_up,45.0,female,lower extremity,/kaggle/working/images/ISIC_0030974.jpg,0
+HAM_0003876,ISIC_0030481,nv,follow_up,55.0,female,lower extremity,/kaggle/working/images/ISIC_0030481.jpg,0
+HAM_0000608,ISIC_0025756,nv,follow_up,30.0,female,foot,/kaggle/working/images/ISIC_0025756.jpg,0
+HAM_0005123,ISIC_0025877,nv,follow_up,55.0,female,lower extremity,/kaggle/working/images/ISIC_0025877.jpg,0
+HAM_0000027,ISIC_0030509,nv,follow_up,75.0,female,trunk,/kaggle/working/images/ISIC_0030509.jpg,0
+HAM_0005860,ISIC_0024641,nv,follow_up,45.0,male,lower extremity,/kaggle/working/images/ISIC_0024641.jpg,0
+HAM_0002765,ISIC_0024860,nv,follow_up,55.0,male,trunk,/kaggle/working/images/ISIC_0024860.jpg,0
+HAM_0005682,ISIC_0028770,nv,follow_up,50.0,female,lower extremity,/kaggle/working/images/ISIC_0028770.jpg,0
+HAM_0005768,ISIC_0029330,nv,follow_up,50.0,female,back,/kaggle/working/images/ISIC_0029330.jpg,0
+HAM_0003289,ISIC_0031357,nv,follow_up,45.0,female,abdomen,/kaggle/working/images/ISIC_0031357.jpg,0
+HAM_0000021,ISIC_0026773,nv,follow_up,45.0,female,lower extremity,/kaggle/working/images/ISIC_0026773.jpg,0
+HAM_0000477,ISIC_0026292,nv,follow_up,45.0,female,trunk,/kaggle/working/images/ISIC_0026292.jpg,0
+HAM_0004725,ISIC_0032507,nv,follow_up,45.0,female,trunk,/kaggle/working/images/ISIC_0032507.jpg,0
+HAM_0003199,ISIC_0027309,nv,follow_up,55.0,female,lower extremity,/kaggle/working/images/ISIC_0027309.jpg,0
+HAM_0007297,ISIC_0029940,nv,follow_up,65.0,female,trunk,/kaggle/working/images/ISIC_0029940.jpg,0
+HAM_0006311,ISIC_0024392,nv,follow_up,65.0,female,lower extremity,/kaggle/working/images/ISIC_0024392.jpg,0
+HAM_0002891,ISIC_0028906,nv,follow_up,65.0,female,lower extremity,/kaggle/working/images/ISIC_0028906.jpg,0
+HAM_0001500,ISIC_0025527,nv,follow_up,65.0,male,lower extremity,/kaggle/working/images/ISIC_0025527.jpg,0
+HAM_0002035,ISIC_0024989,nv,follow_up,45.0,female,upper extremity,/kaggle/working/images/ISIC_0024989.jpg,0
+HAM_0000270,ISIC_0031167,nv,follow_up,45.0,female,lower extremity,/kaggle/working/images/ISIC_0031167.jpg,0
+HAM_0006176,ISIC_0027539,nv,follow_up,40.0,female,abdomen,/kaggle/working/images/ISIC_0027539.jpg,0
+HAM_0002555,ISIC_0032398,nv,follow_up,55.0,male,trunk,/kaggle/working/images/ISIC_0032398.jpg,0
+HAM_0001766,ISIC_0026591,nv,follow_up,55.0,male,upper extremity,/kaggle/working/images/ISIC_0026591.jpg,0
+HAM_0002659,ISIC_0026448,nv,follow_up,60.0,female,trunk,/kaggle/working/images/ISIC_0026448.jpg,0
+HAM_0004796,ISIC_0032143,nv,follow_up,60.0,female,back,/kaggle/working/images/ISIC_0032143.jpg,0
+HAM_0005634,ISIC_0025944,nv,follow_up,40.0,male,lower extremity,/kaggle/working/images/ISIC_0025944.jpg,0
+HAM_0005453,ISIC_0027022,nv,follow_up,50.0,male,lower extremity,/kaggle/working/images/ISIC_0027022.jpg,0
+HAM_0003264,ISIC_0027723,nv,follow_up,50.0,male,upper extremity,/kaggle/working/images/ISIC_0027723.jpg,0
+HAM_0004540,ISIC_0027357,nv,follow_up,50.0,male,back,/kaggle/working/images/ISIC_0027357.jpg,0
+HAM_0003779,ISIC_0024656,nv,follow_up,65.0,male,lower extremity,/kaggle/working/images/ISIC_0024656.jpg,0
+HAM_0000017,ISIC_0025894,nv,follow_up,50.0,female,lower extremity,/kaggle/working/images/ISIC_0025894.jpg,0
+HAM_0007430,ISIC_0029088,nv,follow_up,60.0,female,lower extremity,/kaggle/working/images/ISIC_0029088.jpg,0
+HAM_0003762,ISIC_0024736,nv,follow_up,40.0,male,trunk,/kaggle/working/images/ISIC_0024736.jpg,0
+HAM_0006260,ISIC_0029748,nv,follow_up,40.0,male,back,/kaggle/working/images/ISIC_0029748.jpg,0
+HAM_0004682,ISIC_0028474,nv,follow_up,50.0,female,lower extremity,/kaggle/working/images/ISIC_0028474.jpg,0
+HAM_0006939,ISIC_0031675,nv,follow_up,50.0,female,lower extremity,/kaggle/working/images/ISIC_0031675.jpg,0
+HAM_0006429,ISIC_0026240,nv,follow_up,75.0,male,abdomen,/kaggle/working/images/ISIC_0026240.jpg,0
+HAM_0000379,ISIC_0029980,nv,follow_up,60.0,male,trunk,/kaggle/working/images/ISIC_0029980.jpg,0
+HAM_0003961,ISIC_0026624,nv,follow_up,60.0,male,lower extremity,/kaggle/working/images/ISIC_0026624.jpg,0
+HAM_0002875,ISIC_0032050,nv,follow_up,60.0,male,trunk,/kaggle/working/images/ISIC_0032050.jpg,0
+HAM_0006767,ISIC_0031033,nv,follow_up,60.0,male,back,/kaggle/working/images/ISIC_0031033.jpg,0
+HAM_0002953,ISIC_0025126,nv,follow_up,45.0,female,trunk,/kaggle/working/images/ISIC_0025126.jpg,0
+HAM_0006621,ISIC_0026649,nv,follow_up,60.0,female,lower extremity,/kaggle/working/images/ISIC_0026649.jpg,0
+HAM_0004647,ISIC_0025639,nv,follow_up,60.0,female,trunk,/kaggle/working/images/ISIC_0025639.jpg,0
+HAM_0003714,ISIC_0026064,nv,follow_up,55.0,female,abdomen,/kaggle/working/images/ISIC_0026064.jpg,0
+HAM_0007224,ISIC_0024977,nv,follow_up,60.0,male,trunk,/kaggle/working/images/ISIC_0024977.jpg,0
+HAM_0003052,ISIC_0024796,nv,follow_up,60.0,male,lower extremity,/kaggle/working/images/ISIC_0024796.jpg,0
+HAM_0007525,ISIC_0027994,nv,follow_up,60.0,male,trunk,/kaggle/working/images/ISIC_0027994.jpg,0
+HAM_0003697,ISIC_0025438,nv,follow_up,40.0,male,back,/kaggle/working/images/ISIC_0025438.jpg,0
+HAM_0000428,ISIC_0027936,nv,follow_up,40.0,male,upper extremity,/kaggle/working/images/ISIC_0027936.jpg,0
+HAM_0001034,ISIC_0026691,nv,follow_up,40.0,female,trunk,/kaggle/working/images/ISIC_0026691.jpg,0
+HAM_0006316,ISIC_0031144,nv,follow_up,40.0,female,lower extremity,/kaggle/working/images/ISIC_0031144.jpg,0
+HAM_0006919,ISIC_0031724,nv,follow_up,50.0,male,foot,/kaggle/working/images/ISIC_0031724.jpg,0
+HAM_0002089,ISIC_0025614,nv,follow_up,60.0,male,lower extremity,/kaggle/working/images/ISIC_0025614.jpg,0
+HAM_0006862,ISIC_0025296,nv,follow_up,50.0,female,trunk,/kaggle/working/images/ISIC_0025296.jpg,0
+HAM_0003651,ISIC_0026252,nv,follow_up,45.0,male,chest,/kaggle/working/images/ISIC_0026252.jpg,0
+HAM_0004938,ISIC_0027214,nv,follow_up,50.0,female,trunk,/kaggle/working/images/ISIC_0027214.jpg,0
+HAM_0006328,ISIC_0030450,nv,follow_up,75.0,female,trunk,/kaggle/working/images/ISIC_0030450.jpg,0
+HAM_0002095,ISIC_0026244,nv,follow_up,50.0,male,back,/kaggle/working/images/ISIC_0026244.jpg,0
+HAM_0002389,ISIC_0026701,nv,follow_up,50.0,male,trunk,/kaggle/working/images/ISIC_0026701.jpg,0
+HAM_0002846,ISIC_0028616,nv,follow_up,60.0,female,back,/kaggle/working/images/ISIC_0028616.jpg,0
+HAM_0001805,ISIC_0027200,nv,follow_up,55.0,male,trunk,/kaggle/working/images/ISIC_0027200.jpg,0
+HAM_0001193,ISIC_0029125,nv,follow_up,55.0,female,lower extremity,/kaggle/working/images/ISIC_0029125.jpg,0
+HAM_0005825,ISIC_0027304,nv,follow_up,50.0,female,lower extremity,/kaggle/working/images/ISIC_0027304.jpg,0
+HAM_0003029,ISIC_0025685,nv,follow_up,50.0,female,abdomen,/kaggle/working/images/ISIC_0025685.jpg,0
+HAM_0004948,ISIC_0025736,nv,follow_up,50.0,female,lower extremity,/kaggle/working/images/ISIC_0025736.jpg,0
+HAM_0003278,ISIC_0026537,nv,follow_up,45.0,female,trunk,/kaggle/working/images/ISIC_0026537.jpg,0
+HAM_0000784,ISIC_0030989,nv,follow_up,50.0,female,lower extremity,/kaggle/working/images/ISIC_0030989.jpg,0
+HAM_0004425,ISIC_0025147,nv,follow_up,40.0,female,lower extremity,/kaggle/working/images/ISIC_0025147.jpg,0
+HAM_0004915,ISIC_0025272,nv,follow_up,55.0,female,lower extremity,/kaggle/working/images/ISIC_0025272.jpg,0
+HAM_0001653,ISIC_0027895,nv,follow_up,55.0,female,lower extremity,/kaggle/working/images/ISIC_0027895.jpg,0
+HAM_0000625,ISIC_0026062,nv,follow_up,40.0,female,trunk,/kaggle/working/images/ISIC_0026062.jpg,0
+HAM_0003077,ISIC_0031230,nv,follow_up,40.0,female,lower extremity,/kaggle/working/images/ISIC_0031230.jpg,0
+HAM_0000962,ISIC_0028674,nv,follow_up,60.0,female,lower extremity,/kaggle/working/images/ISIC_0028674.jpg,0
+HAM_0005764,ISIC_0030073,nv,follow_up,60.0,female,back,/kaggle/working/images/ISIC_0030073.jpg,0
+HAM_0003549,ISIC_0028741,nv,follow_up,45.0,male,lower extremity,/kaggle/working/images/ISIC_0028741.jpg,0
+HAM_0003500,ISIC_0025917,nv,follow_up,30.0,female,trunk,/kaggle/working/images/ISIC_0025917.jpg,0
+HAM_0006648,ISIC_0027981,nv,follow_up,45.0,male,back,/kaggle/working/images/ISIC_0027981.jpg,0
+HAM_0004250,ISIC_0032499,nv,follow_up,45.0,male,lower extremity,/kaggle/working/images/ISIC_0032499.jpg,0
+HAM_0002831,ISIC_0026977,nv,follow_up,45.0,male,lower extremity,/kaggle/working/images/ISIC_0026977.jpg,0
+HAM_0004436,ISIC_0030042,nv,follow_up,45.0,female,abdomen,/kaggle/working/images/ISIC_0030042.jpg,0
+HAM_0005373,ISIC_0030718,nv,follow_up,45.0,female,trunk,/kaggle/working/images/ISIC_0030718.jpg,0
+HAM_0001364,ISIC_0029510,nv,follow_up,45.0,male,back,/kaggle/working/images/ISIC_0029510.jpg,0
+HAM_0005322,ISIC_0030068,nv,follow_up,45.0,male,trunk,/kaggle/working/images/ISIC_0030068.jpg,0
+HAM_0001535,ISIC_0026653,nv,follow_up,45.0,male,trunk,/kaggle/working/images/ISIC_0026653.jpg,0
+HAM_0000680,ISIC_0028927,nv,follow_up,70.0,male,back,/kaggle/working/images/ISIC_0028927.jpg,0
+HAM_0000941,ISIC_0025658,nv,follow_up,60.0,male,trunk,/kaggle/working/images/ISIC_0025658.jpg,0
+HAM_0002542,ISIC_0025817,nv,follow_up,55.0,female,lower extremity,/kaggle/working/images/ISIC_0025817.jpg,0
+HAM_0003338,ISIC_0029722,nv,follow_up,35.0,female,back,/kaggle/working/images/ISIC_0029722.jpg,0
+HAM_0001098,ISIC_0024671,nv,follow_up,35.0,female,abdomen,/kaggle/working/images/ISIC_0024671.jpg,0
+HAM_0005767,ISIC_0030975,nv,follow_up,35.0,female,abdomen,/kaggle/working/images/ISIC_0030975.jpg,0
+HAM_0006388,ISIC_0029542,nv,follow_up,65.0,male,trunk,/kaggle/working/images/ISIC_0029542.jpg,0
+HAM_0001832,ISIC_0031030,nv,follow_up,45.0,female,lower extremity,/kaggle/working/images/ISIC_0031030.jpg,0
+HAM_0002093,ISIC_0027032,nv,follow_up,45.0,female,back,/kaggle/working/images/ISIC_0027032.jpg,0
+HAM_0003084,ISIC_0026191,nv,follow_up,45.0,female,upper extremity,/kaggle/working/images/ISIC_0026191.jpg,0
+HAM_0004573,ISIC_0024849,nv,follow_up,55.0,female,trunk,/kaggle/working/images/ISIC_0024849.jpg,0
+HAM_0003931,ISIC_0026007,nv,follow_up,65.0,male,trunk,/kaggle/working/images/ISIC_0026007.jpg,0
+HAM_0003237,ISIC_0028595,nv,follow_up,65.0,male,lower extremity,/kaggle/working/images/ISIC_0028595.jpg,0
+HAM_0000981,ISIC_0024311,nv,follow_up,75.0,female,back,/kaggle/working/images/ISIC_0024311.jpg,0
+HAM_0006441,ISIC_0029016,nv,follow_up,40.0,female,lower extremity,/kaggle/working/images/ISIC_0029016.jpg,0
+HAM_0002948,ISIC_0030927,nv,follow_up,40.0,female,lower extremity,/kaggle/working/images/ISIC_0030927.jpg,0
+HAM_0003493,ISIC_0028322,nv,follow_up,45.0,male,trunk,/kaggle/working/images/ISIC_0028322.jpg,0
+HAM_0005073,ISIC_0029956,nv,follow_up,45.0,female,trunk,/kaggle/working/images/ISIC_0029956.jpg,0
+HAM_0003074,ISIC_0029816,nv,follow_up,35.0,male,lower extremity,/kaggle/working/images/ISIC_0029816.jpg,0
+HAM_0004856,ISIC_0026299,nv,follow_up,45.0,male,lower extremity,/kaggle/working/images/ISIC_0026299.jpg,0
+HAM_0006082,ISIC_0027500,nv,follow_up,55.0,female,trunk,/kaggle/working/images/ISIC_0027500.jpg,0
+HAM_0003100,ISIC_0028976,nv,follow_up,70.0,female,trunk,/kaggle/working/images/ISIC_0028976.jpg,0
+HAM_0006075,ISIC_0026999,nv,follow_up,60.0,female,trunk,/kaggle/working/images/ISIC_0026999.jpg,0
+HAM_0007587,ISIC_0029762,nv,follow_up,60.0,female,lower extremity,/kaggle/working/images/ISIC_0029762.jpg,0
+HAM_0003837,ISIC_0028850,nv,follow_up,40.0,female,back,/kaggle/working/images/ISIC_0028850.jpg,0
+HAM_0006989,ISIC_0028729,nv,follow_up,40.0,female,foot,/kaggle/working/images/ISIC_0028729.jpg,0
+HAM_0005950,ISIC_0026165,nv,follow_up,45.0,male,abdomen,/kaggle/working/images/ISIC_0026165.jpg,0
+HAM_0004728,ISIC_0026779,nv,follow_up,45.0,male,trunk,/kaggle/working/images/ISIC_0026779.jpg,0
+HAM_0003631,ISIC_0024779,nv,follow_up,35.0,male,lower extremity,/kaggle/working/images/ISIC_0024779.jpg,0
+HAM_0006710,ISIC_0028324,nv,follow_up,45.0,male,trunk,/kaggle/working/images/ISIC_0028324.jpg,0
+HAM_0002977,ISIC_0025629,nv,follow_up,45.0,male,trunk,/kaggle/working/images/ISIC_0025629.jpg,0
+HAM_0002440,ISIC_0029723,nv,follow_up,50.0,male,trunk,/kaggle/working/images/ISIC_0029723.jpg,0
+HAM_0006000,ISIC_0032121,nv,follow_up,45.0,male,trunk,/kaggle/working/images/ISIC_0032121.jpg,0
+HAM_0003331,ISIC_0027035,nv,follow_up,70.0,male,back,/kaggle/working/images/ISIC_0027035.jpg,0
+HAM_0002492,ISIC_0028875,nv,follow_up,70.0,male,back,/kaggle/working/images/ISIC_0028875.jpg,0
+HAM_0002608,ISIC_0026484,nv,follow_up,40.0,female,foot,/kaggle/working/images/ISIC_0026484.jpg,0
+HAM_0001571,ISIC_0029156,nv,follow_up,55.0,female,lower extremity,/kaggle/working/images/ISIC_0029156.jpg,0
+HAM_0002304,ISIC_0024648,nv,follow_up,55.0,female,lower extremity,/kaggle/working/images/ISIC_0024648.jpg,0
+HAM_0005045,ISIC_0030701,nv,follow_up,40.0,female,trunk,/kaggle/working/images/ISIC_0030701.jpg,0
+HAM_0004994,ISIC_0028839,nv,follow_up,40.0,female,abdomen,/kaggle/working/images/ISIC_0028839.jpg,0
+HAM_0002673,ISIC_0027686,nv,follow_up,55.0,female,lower extremity,/kaggle/working/images/ISIC_0027686.jpg,0
+HAM_0000166,ISIC_0028954,nv,follow_up,55.0,female,lower extremity,/kaggle/working/images/ISIC_0028954.jpg,0
+HAM_0004969,ISIC_0025521,nv,follow_up,55.0,female,lower extremity,/kaggle/working/images/ISIC_0025521.jpg,0
+HAM_0006960,ISIC_0027592,nv,follow_up,50.0,female,trunk,/kaggle/working/images/ISIC_0027592.jpg,0
+HAM_0000793,ISIC_0030286,nv,follow_up,60.0,female,genital,/kaggle/working/images/ISIC_0030286.jpg,0
+HAM_0002420,ISIC_0028796,nv,follow_up,35.0,female,back,/kaggle/working/images/ISIC_0028796.jpg,0
+HAM_0000908,ISIC_0028340,nv,follow_up,75.0,male,lower extremity,/kaggle/working/images/ISIC_0028340.jpg,0
+HAM_0004325,ISIC_0031669,nv,follow_up,75.0,male,lower extremity,/kaggle/working/images/ISIC_0031669.jpg,0
+HAM_0001663,ISIC_0029521,nv,follow_up,50.0,male,trunk,/kaggle/working/images/ISIC_0029521.jpg,0
+HAM_0002362,ISIC_0025307,nv,follow_up,40.0,male,back,/kaggle/working/images/ISIC_0025307.jpg,0
+HAM_0005113,ISIC_0028516,nv,follow_up,70.0,female,trunk,/kaggle/working/images/ISIC_0028516.jpg,0
+HAM_0005370,ISIC_0025923,nv,follow_up,50.0,male,lower extremity,/kaggle/working/images/ISIC_0025923.jpg,0
+HAM_0005959,ISIC_0025058,nv,follow_up,25.0,male,back,/kaggle/working/images/ISIC_0025058.jpg,0
+HAM_0002048,ISIC_0029137,nv,follow_up,70.0,male,lower extremity,/kaggle/working/images/ISIC_0029137.jpg,0
+HAM_0005502,ISIC_0029605,nv,follow_up,55.0,female,lower extremity,/kaggle/working/images/ISIC_0029605.jpg,0
+HAM_0000199,ISIC_0026127,nv,follow_up,55.0,male,lower extremity,/kaggle/working/images/ISIC_0026127.jpg,0
+HAM_0003709,ISIC_0028483,nv,follow_up,55.0,male,lower extremity,/kaggle/working/images/ISIC_0028483.jpg,0
+HAM_0004415,ISIC_0024532,nv,follow_up,40.0,male,abdomen,/kaggle/working/images/ISIC_0024532.jpg,0
+HAM_0005525,ISIC_0026162,nv,follow_up,40.0,male,abdomen,/kaggle/working/images/ISIC_0026162.jpg,0
+HAM_0002252,ISIC_0031227,nv,follow_up,40.0,male,back,/kaggle/working/images/ISIC_0031227.jpg,0
+HAM_0005343,ISIC_0027380,nv,follow_up,65.0,female,foot,/kaggle/working/images/ISIC_0027380.jpg,0
+HAM_0002163,ISIC_0030250,nv,follow_up,50.0,male,trunk,/kaggle/working/images/ISIC_0030250.jpg,0
+HAM_0004838,ISIC_0030869,nv,follow_up,70.0,male,lower extremity,/kaggle/working/images/ISIC_0030869.jpg,0
+HAM_0004032,ISIC_0032403,nv,follow_up,50.0,male,lower extremity,/kaggle/working/images/ISIC_0032403.jpg,0
+HAM_0007194,ISIC_0025920,nv,follow_up,55.0,female,abdomen,/kaggle/working/images/ISIC_0025920.jpg,0
+HAM_0001977,ISIC_0029261,nv,follow_up,55.0,female,lower extremity,/kaggle/working/images/ISIC_0029261.jpg,0
+HAM_0000084,ISIC_0028036,nv,follow_up,70.0,male,abdomen,/kaggle/working/images/ISIC_0028036.jpg,0
+HAM_0002340,ISIC_0029047,nv,follow_up,70.0,male,back,/kaggle/working/images/ISIC_0029047.jpg,0
+HAM_0001254,ISIC_0030987,nv,follow_up,50.0,female,upper extremity,/kaggle/working/images/ISIC_0030987.jpg,0
+HAM_0004741,ISIC_0031687,nv,follow_up,65.0,male,upper extremity,/kaggle/working/images/ISIC_0031687.jpg,0
+HAM_0002806,ISIC_0029175,nv,follow_up,55.0,female,lower extremity,/kaggle/working/images/ISIC_0029175.jpg,0
+HAM_0002401,ISIC_0028204,nv,follow_up,40.0,male,abdomen,/kaggle/working/images/ISIC_0028204.jpg,0
+HAM_0001165,ISIC_0030199,nv,follow_up,40.0,male,upper extremity,/kaggle/working/images/ISIC_0030199.jpg,0
+HAM_0002880,ISIC_0029691,nv,follow_up,50.0,female,trunk,/kaggle/working/images/ISIC_0029691.jpg,0
+HAM_0004684,ISIC_0028394,nv,follow_up,50.0,female,trunk,/kaggle/working/images/ISIC_0028394.jpg,0
+HAM_0004467,ISIC_0027687,nv,follow_up,50.0,female,lower extremity,/kaggle/working/images/ISIC_0027687.jpg,0
+HAM_0003921,ISIC_0025728,nv,follow_up,50.0,male,trunk,/kaggle/working/images/ISIC_0025728.jpg,0
+HAM_0000610,ISIC_0024689,nv,follow_up,45.0,male,lower extremity,/kaggle/working/images/ISIC_0024689.jpg,0
+HAM_0001865,ISIC_0032464,nv,follow_up,45.0,male,upper extremity,/kaggle/working/images/ISIC_0032464.jpg,0
+HAM_0001161,ISIC_0028691,nv,follow_up,50.0,female,abdomen,/kaggle/working/images/ISIC_0028691.jpg,0
+HAM_0006771,ISIC_0030624,nv,follow_up,45.0,female,upper extremity,/kaggle/working/images/ISIC_0030624.jpg,0
+HAM_0006381,ISIC_0025023,nv,follow_up,45.0,female,lower extremity,/kaggle/working/images/ISIC_0025023.jpg,0
+HAM_0000367,ISIC_0025462,nv,follow_up,45.0,female,trunk,/kaggle/working/images/ISIC_0025462.jpg,0
+HAM_0001988,ISIC_0029948,nv,follow_up,35.0,male,back,/kaggle/working/images/ISIC_0029948.jpg,0
+HAM_0002777,ISIC_0030228,nv,follow_up,50.0,female,abdomen,/kaggle/working/images/ISIC_0030228.jpg,0
+HAM_0004096,ISIC_0028541,nv,follow_up,50.0,female,lower extremity,/kaggle/working/images/ISIC_0028541.jpg,0
+HAM_0005189,ISIC_0025762,nv,follow_up,35.0,male,abdomen,/kaggle/working/images/ISIC_0025762.jpg,0
+HAM_0007121,ISIC_0029922,nv,follow_up,35.0,male,back,/kaggle/working/images/ISIC_0029922.jpg,0
+HAM_0007366,ISIC_0032062,nv,follow_up,50.0,female,trunk,/kaggle/working/images/ISIC_0032062.jpg,0
+HAM_0006012,ISIC_0029240,nv,follow_up,25.0,female,lower extremity,/kaggle/working/images/ISIC_0029240.jpg,0
+HAM_0001496,ISIC_0028000,nv,follow_up,65.0,female,lower extremity,/kaggle/working/images/ISIC_0028000.jpg,0
+HAM_0007217,ISIC_0024844,nv,follow_up,60.0,male,back,/kaggle/working/images/ISIC_0024844.jpg,0
+HAM_0003660,ISIC_0026667,nv,follow_up,55.0,male,back,/kaggle/working/images/ISIC_0026667.jpg,0
+HAM_0006054,ISIC_0030982,nv,follow_up,55.0,female,lower extremity,/kaggle/working/images/ISIC_0030982.jpg,0
+HAM_0007536,ISIC_0025445,nv,follow_up,55.0,female,abdomen,/kaggle/working/images/ISIC_0025445.jpg,0
+HAM_0005923,ISIC_0031419,nv,follow_up,55.0,female,lower extremity,/kaggle/working/images/ISIC_0031419.jpg,0
+HAM_0004977,ISIC_0028740,nv,follow_up,65.0,male,upper extremity,/kaggle/working/images/ISIC_0028740.jpg,0
+HAM_0005793,ISIC_0024629,nv,follow_up,65.0,male,trunk,/kaggle/working/images/ISIC_0024629.jpg,0
+HAM_0002385,ISIC_0024549,nv,follow_up,65.0,male,trunk,/kaggle/working/images/ISIC_0024549.jpg,0
+HAM_0006918,ISIC_0031491,nv,follow_up,65.0,male,trunk,/kaggle/working/images/ISIC_0031491.jpg,0
+HAM_0005240,ISIC_0030169,nv,follow_up,65.0,male,abdomen,/kaggle/working/images/ISIC_0030169.jpg,0
+HAM_0006999,ISIC_0027459,nv,follow_up,40.0,male,trunk,/kaggle/working/images/ISIC_0027459.jpg,0
+HAM_0004431,ISIC_0024335,nv,follow_up,45.0,female,lower extremity,/kaggle/working/images/ISIC_0024335.jpg,0
+HAM_0006117,ISIC_0025566,nv,follow_up,35.0,female,back,/kaggle/working/images/ISIC_0025566.jpg,0
+HAM_0003121,ISIC_0024347,nv,follow_up,25.0,female,upper extremity,/kaggle/working/images/ISIC_0024347.jpg,0
+HAM_0004175,ISIC_0028806,nv,follow_up,50.0,female,abdomen,/kaggle/working/images/ISIC_0028806.jpg,0
+HAM_0002563,ISIC_0024607,nv,follow_up,50.0,female,lower extremity,/kaggle/working/images/ISIC_0024607.jpg,0
+HAM_0004689,ISIC_0029158,nv,follow_up,45.0,female,trunk,/kaggle/working/images/ISIC_0029158.jpg,0
+HAM_0001110,ISIC_0024413,nv,follow_up,50.0,male,back,/kaggle/working/images/ISIC_0024413.jpg,0
+HAM_0007231,ISIC_0029114,nv,follow_up,60.0,female,trunk,/kaggle/working/images/ISIC_0029114.jpg,0
+HAM_0004868,ISIC_0031538,nv,follow_up,60.0,female,abdomen,/kaggle/working/images/ISIC_0031538.jpg,0
+HAM_0001275,ISIC_0025495,nv,follow_up,55.0,male,trunk,/kaggle/working/images/ISIC_0025495.jpg,0
+HAM_0000605,ISIC_0030212,nv,follow_up,45.0,female,foot,/kaggle/working/images/ISIC_0030212.jpg,0
+HAM_0005099,ISIC_0029648,nv,follow_up,45.0,male,abdomen,/kaggle/working/images/ISIC_0029648.jpg,0
+HAM_0007392,ISIC_0024905,nv,follow_up,55.0,male,abdomen,/kaggle/working/images/ISIC_0024905.jpg,0
+HAM_0001592,ISIC_0030686,nv,follow_up,55.0,male,back,/kaggle/working/images/ISIC_0030686.jpg,0
+HAM_0003519,ISIC_0026627,nv,follow_up,55.0,male,lower extremity,/kaggle/working/images/ISIC_0026627.jpg,0
+HAM_0004101,ISIC_0030881,nv,follow_up,55.0,male,abdomen,/kaggle/working/images/ISIC_0030881.jpg,0
+HAM_0003012,ISIC_0029375,nv,follow_up,55.0,male,abdomen,/kaggle/working/images/ISIC_0029375.jpg,0
+HAM_0005208,ISIC_0028781,nv,follow_up,45.0,male,abdomen,/kaggle/working/images/ISIC_0028781.jpg,0
+HAM_0006959,ISIC_0032286,nv,follow_up,35.0,male,back,/kaggle/working/images/ISIC_0032286.jpg,0
+HAM_0006068,ISIC_0024591,nv,follow_up,35.0,male,back,/kaggle/working/images/ISIC_0024591.jpg,0
+HAM_0002528,ISIC_0025821,nv,follow_up,35.0,male,upper extremity,/kaggle/working/images/ISIC_0025821.jpg,0
+HAM_0006477,ISIC_0029237,nv,follow_up,35.0,male,foot,/kaggle/working/images/ISIC_0029237.jpg,0
+HAM_0007597,ISIC_0028274,nv,follow_up,50.0,male,back,/kaggle/working/images/ISIC_0028274.jpg,0
+HAM_0005372,ISIC_0030476,nv,follow_up,55.0,female,unknown,/kaggle/working/images/ISIC_0030476.jpg,0
+HAM_0001208,ISIC_0026047,nv,follow_up,45.0,female,lower extremity,/kaggle/working/images/ISIC_0026047.jpg,0
+HAM_0005819,ISIC_0025111,nv,follow_up,45.0,male,trunk,/kaggle/working/images/ISIC_0025111.jpg,0
+HAM_0006254,ISIC_0024633,nv,follow_up,45.0,male,lower extremity,/kaggle/working/images/ISIC_0024633.jpg,0
+HAM_0001583,ISIC_0025280,nv,follow_up,35.0,female,trunk,/kaggle/working/images/ISIC_0025280.jpg,0
+HAM_0005063,ISIC_0030419,nv,follow_up,60.0,male,upper extremity,/kaggle/working/images/ISIC_0030419.jpg,0
+HAM_0005882,ISIC_0025666,nv,follow_up,50.0,male,upper extremity,/kaggle/working/images/ISIC_0025666.jpg,0
+HAM_0003750,ISIC_0028624,nv,follow_up,45.0,male,upper extremity,/kaggle/working/images/ISIC_0028624.jpg,0
+HAM_0001652,ISIC_0026899,nv,follow_up,50.0,female,trunk,/kaggle/working/images/ISIC_0026899.jpg,0
+HAM_0002996,ISIC_0025496,nv,follow_up,45.0,female,trunk,/kaggle/working/images/ISIC_0025496.jpg,0
+HAM_0007549,ISIC_0025216,nv,follow_up,40.0,male,upper extremity,/kaggle/working/images/ISIC_0025216.jpg,0
+HAM_0004764,ISIC_0025270,nv,follow_up,60.0,male,abdomen,/kaggle/working/images/ISIC_0025270.jpg,0
+HAM_0006773,ISIC_0026680,nv,follow_up,45.0,male,abdomen,/kaggle/working/images/ISIC_0026680.jpg,0
+HAM_0000935,ISIC_0027399,nv,follow_up,50.0,male,back,/kaggle/working/images/ISIC_0027399.jpg,0
+HAM_0003616,ISIC_0025291,nv,follow_up,50.0,male,lower extremity,/kaggle/working/images/ISIC_0025291.jpg,0
+HAM_0004729,ISIC_0026198,nv,follow_up,40.0,female,upper extremity,/kaggle/working/images/ISIC_0026198.jpg,0
+HAM_0001199,ISIC_0025802,nv,follow_up,45.0,female,trunk,/kaggle/working/images/ISIC_0025802.jpg,0
+HAM_0000663,ISIC_0027761,nv,follow_up,50.0,male,trunk,/kaggle/working/images/ISIC_0027761.jpg,0
+HAM_0006038,ISIC_0029969,nv,follow_up,50.0,male,abdomen,/kaggle/working/images/ISIC_0029969.jpg,0
+HAM_0005702,ISIC_0030381,nv,follow_up,45.0,female,back,/kaggle/working/images/ISIC_0030381.jpg,0
+HAM_0002612,ISIC_0031180,nv,follow_up,35.0,male,abdomen,/kaggle/working/images/ISIC_0031180.jpg,0
+HAM_0002579,ISIC_0031683,nv,follow_up,35.0,male,lower extremity,/kaggle/working/images/ISIC_0031683.jpg,0
+HAM_0002168,ISIC_0028002,nv,follow_up,35.0,male,back,/kaggle/working/images/ISIC_0028002.jpg,0
+HAM_0002412,ISIC_0026287,nv,follow_up,35.0,male,lower extremity,/kaggle/working/images/ISIC_0026287.jpg,0
+HAM_0000185,ISIC_0027906,nv,follow_up,80.0,male,upper extremity,/kaggle/working/images/ISIC_0027906.jpg,0
+HAM_0005796,ISIC_0030078,nv,follow_up,50.0,female,upper extremity,/kaggle/working/images/ISIC_0030078.jpg,0
+HAM_0004488,ISIC_0030601,nv,follow_up,45.0,male,trunk,/kaggle/working/images/ISIC_0030601.jpg,0
+HAM_0004752,ISIC_0028549,nv,follow_up,45.0,female,trunk,/kaggle/working/images/ISIC_0028549.jpg,0
+HAM_0005418,ISIC_0029957,nv,follow_up,65.0,female,upper extremity,/kaggle/working/images/ISIC_0029957.jpg,0
+HAM_0004445,ISIC_0030551,nv,follow_up,60.0,female,lower extremity,/kaggle/working/images/ISIC_0030551.jpg,0
+HAM_0005348,ISIC_0029765,nv,follow_up,75.0,male,trunk,/kaggle/working/images/ISIC_0029765.jpg,0
+HAM_0005288,ISIC_0026354,nv,follow_up,60.0,male,trunk,/kaggle/working/images/ISIC_0026354.jpg,0
+HAM_0004493,ISIC_0030325,nv,follow_up,60.0,male,upper extremity,/kaggle/working/images/ISIC_0030325.jpg,0
+HAM_0003575,ISIC_0031548,nv,follow_up,60.0,male,back,/kaggle/working/images/ISIC_0031548.jpg,0
+HAM_0001426,ISIC_0029154,nv,follow_up,40.0,female,abdomen,/kaggle/working/images/ISIC_0029154.jpg,0
+HAM_0000869,ISIC_0031109,nv,follow_up,45.0,male,lower extremity,/kaggle/working/images/ISIC_0031109.jpg,0
+HAM_0003645,ISIC_0024390,nv,follow_up,65.0,male,upper extremity,/kaggle/working/images/ISIC_0024390.jpg,0
+HAM_0001043,ISIC_0026035,nv,follow_up,45.0,male,upper extremity,/kaggle/working/images/ISIC_0026035.jpg,0
+HAM_0000594,ISIC_0029178,nv,follow_up,50.0,female,abdomen,/kaggle/working/images/ISIC_0029178.jpg,0
+HAM_0001268,ISIC_0025535,nv,follow_up,50.0,female,lower extremity,/kaggle/working/images/ISIC_0025535.jpg,0
+HAM_0003473,ISIC_0024417,nv,follow_up,75.0,male,trunk,/kaggle/working/images/ISIC_0024417.jpg,0
+HAM_0003599,ISIC_0029607,nv,follow_up,50.0,male,lower extremity,/kaggle/working/images/ISIC_0029607.jpg,0
+HAM_0000173,ISIC_0025026,nv,follow_up,50.0,female,back,/kaggle/working/images/ISIC_0025026.jpg,0
+HAM_0004277,ISIC_0026472,nv,follow_up,50.0,female,trunk,/kaggle/working/images/ISIC_0026472.jpg,0
+HAM_0007057,ISIC_0025694,nv,follow_up,55.0,female,lower extremity,/kaggle/working/images/ISIC_0025694.jpg,0
+HAM_0003855,ISIC_0028801,nv,follow_up,50.0,male,abdomen,/kaggle/working/images/ISIC_0028801.jpg,0
+HAM_0000616,ISIC_0024750,nv,follow_up,50.0,male,trunk,/kaggle/working/images/ISIC_0024750.jpg,0
+HAM_0001247,ISIC_0024557,nv,follow_up,40.0,male,back,/kaggle/working/images/ISIC_0024557.jpg,0
+HAM_0001365,ISIC_0026307,nv,follow_up,40.0,male,lower extremity,/kaggle/working/images/ISIC_0026307.jpg,0
+HAM_0005293,ISIC_0025342,nv,follow_up,40.0,male,hand,/kaggle/working/images/ISIC_0025342.jpg,0
+HAM_0001380,ISIC_0031568,nv,follow_up,45.0,male,back,/kaggle/working/images/ISIC_0031568.jpg,0
+HAM_0004266,ISIC_0024483,nv,follow_up,25.0,female,upper extremity,/kaggle/working/images/ISIC_0024483.jpg,0
+HAM_0004168,ISIC_0029477,nv,follow_up,85.0,male,trunk,/kaggle/working/images/ISIC_0029477.jpg,0
+HAM_0006167,ISIC_0027845,nv,follow_up,50.0,female,foot,/kaggle/working/images/ISIC_0027845.jpg,0
+HAM_0005286,ISIC_0025999,nv,follow_up,50.0,female,foot,/kaggle/working/images/ISIC_0025999.jpg,0
+HAM_0000056,ISIC_0025725,nv,follow_up,55.0,female,trunk,/kaggle/working/images/ISIC_0025725.jpg,0
+HAM_0002801,ISIC_0025889,nv,follow_up,55.0,female,abdomen,/kaggle/working/images/ISIC_0025889.jpg,0
+HAM_0002884,ISIC_0028251,nv,follow_up,55.0,female,lower extremity,/kaggle/working/images/ISIC_0028251.jpg,0
+HAM_0003890,ISIC_0028940,nv,follow_up,55.0,female,trunk,/kaggle/working/images/ISIC_0028940.jpg,0
+HAM_0004261,ISIC_0027075,nv,follow_up,40.0,male,upper extremity,/kaggle/working/images/ISIC_0027075.jpg,0
+HAM_0001489,ISIC_0031765,nv,follow_up,50.0,female,foot,/kaggle/working/images/ISIC_0031765.jpg,0
+HAM_0000621,ISIC_0031101,nv,follow_up,45.0,female,trunk,/kaggle/working/images/ISIC_0031101.jpg,0
+HAM_0004414,ISIC_0030576,nv,follow_up,45.0,female,lower extremity,/kaggle/working/images/ISIC_0030576.jpg,0
+HAM_0006276,ISIC_0029285,nv,follow_up,45.0,male,back,/kaggle/working/images/ISIC_0029285.jpg,0
+HAM_0003977,ISIC_0026495,nv,follow_up,50.0,male,abdomen,/kaggle/working/images/ISIC_0026495.jpg,0
+HAM_0001156,ISIC_0030811,nv,follow_up,45.0,female,trunk,/kaggle/working/images/ISIC_0030811.jpg,0
+HAM_0006449,ISIC_0028604,nv,follow_up,45.0,female,back,/kaggle/working/images/ISIC_0028604.jpg,0
+HAM_0006944,ISIC_0030762,nv,follow_up,50.0,female,abdomen,/kaggle/working/images/ISIC_0030762.jpg,0
+HAM_0002406,ISIC_0030568,nv,follow_up,50.0,female,upper extremity,/kaggle/working/images/ISIC_0030568.jpg,0
+HAM_0003079,ISIC_0032369,nv,follow_up,50.0,female,upper extremity,/kaggle/working/images/ISIC_0032369.jpg,0
+HAM_0003722,ISIC_0030052,nv,follow_up,40.0,male,abdomen,/kaggle/working/images/ISIC_0030052.jpg,0
+HAM_0000177,ISIC_0025820,nv,follow_up,50.0,female,trunk,/kaggle/working/images/ISIC_0025820.jpg,0
+HAM_0006591,ISIC_0030678,nv,follow_up,40.0,male,abdomen,/kaggle/working/images/ISIC_0030678.jpg,0
+HAM_0004401,ISIC_0027817,nv,follow_up,40.0,female,genital,/kaggle/working/images/ISIC_0027817.jpg,0
+HAM_0007084,ISIC_0025315,nv,follow_up,40.0,female,back,/kaggle/working/images/ISIC_0025315.jpg,0
+HAM_0000416,ISIC_0028162,nv,follow_up,45.0,female,back,/kaggle/working/images/ISIC_0028162.jpg,0
+HAM_0002352,ISIC_0032319,nv,follow_up,60.0,female,back,/kaggle/working/images/ISIC_0032319.jpg,0
+HAM_0001255,ISIC_0030948,nv,follow_up,50.0,female,trunk,/kaggle/working/images/ISIC_0030948.jpg,0
+HAM_0000848,ISIC_0026294,nv,follow_up,50.0,female,trunk,/kaggle/working/images/ISIC_0026294.jpg,0
+HAM_0000939,ISIC_0028620,nv,follow_up,35.0,female,trunk,/kaggle/working/images/ISIC_0028620.jpg,0
+HAM_0007282,ISIC_0025690,nv,follow_up,50.0,male,abdomen,/kaggle/working/images/ISIC_0025690.jpg,0
+HAM_0000972,ISIC_0031605,nv,follow_up,60.0,male,chest,/kaggle/working/images/ISIC_0031605.jpg,0
+HAM_0003297,ISIC_0024373,nv,follow_up,60.0,male,abdomen,/kaggle/working/images/ISIC_0024373.jpg,0
+HAM_0003271,ISIC_0031850,nv,follow_up,50.0,female,trunk,/kaggle/working/images/ISIC_0031850.jpg,0
+HAM_0006341,ISIC_0024681,nv,follow_up,35.0,female,trunk,/kaggle/working/images/ISIC_0024681.jpg,0
+HAM_0006164,ISIC_0024385,nv,follow_up,40.0,female,lower extremity,/kaggle/working/images/ISIC_0024385.jpg,0
+HAM_0004580,ISIC_0030872,nv,follow_up,80.0,male,back,/kaggle/working/images/ISIC_0030872.jpg,0
+HAM_0003959,ISIC_0029314,nv,follow_up,50.0,male,trunk,/kaggle/working/images/ISIC_0029314.jpg,0
+HAM_0005570,ISIC_0032440,nv,follow_up,25.0,female,back,/kaggle/working/images/ISIC_0032440.jpg,0
+HAM_0001709,ISIC_0030364,nv,follow_up,45.0,female,back,/kaggle/working/images/ISIC_0030364.jpg,0
+HAM_0001084,ISIC_0030946,nv,follow_up,65.0,male,trunk,/kaggle/working/images/ISIC_0030946.jpg,0
+HAM_0004509,ISIC_0028028,nv,follow_up,45.0,male,trunk,/kaggle/working/images/ISIC_0028028.jpg,0
+HAM_0003266,ISIC_0029468,nv,follow_up,30.0,male,abdomen,/kaggle/working/images/ISIC_0029468.jpg,0
+HAM_0004731,ISIC_0031248,nv,follow_up,50.0,female,upper extremity,/kaggle/working/images/ISIC_0031248.jpg,0
+HAM_0001557,ISIC_0029939,nv,follow_up,45.0,male,neck,/kaggle/working/images/ISIC_0029939.jpg,0
+HAM_0006209,ISIC_0028626,nv,follow_up,45.0,male,abdomen,/kaggle/working/images/ISIC_0028626.jpg,0
+HAM_0001602,ISIC_0032458,nv,follow_up,55.0,male,trunk,/kaggle/working/images/ISIC_0032458.jpg,0
+HAM_0000257,ISIC_0030531,nv,follow_up,50.0,male,lower extremity,/kaggle/working/images/ISIC_0030531.jpg,0
+HAM_0006414,ISIC_0026485,nv,follow_up,50.0,female,trunk,/kaggle/working/images/ISIC_0026485.jpg,0
+HAM_0006928,ISIC_0028097,nv,follow_up,55.0,male,trunk,/kaggle/working/images/ISIC_0028097.jpg,0
+HAM_0004904,ISIC_0032381,nv,follow_up,55.0,male,lower extremity,/kaggle/working/images/ISIC_0032381.jpg,0
+HAM_0005441,ISIC_0031804,nv,follow_up,55.0,male,back,/kaggle/working/images/ISIC_0031804.jpg,0
+HAM_0005473,ISIC_0026050,nv,follow_up,50.0,male,back,/kaggle/working/images/ISIC_0026050.jpg,0
+HAM_0006714,ISIC_0029850,nv,follow_up,60.0,female,abdomen,/kaggle/working/images/ISIC_0029850.jpg,0
+HAM_0001044,ISIC_0027322,nv,follow_up,60.0,female,trunk,/kaggle/working/images/ISIC_0027322.jpg,0
+HAM_0001650,ISIC_0030024,nv,follow_up,40.0,male,trunk,/kaggle/working/images/ISIC_0030024.jpg,0
+HAM_0000622,ISIC_0030161,nv,follow_up,35.0,female,back,/kaggle/working/images/ISIC_0030161.jpg,0
+HAM_0004492,ISIC_0026026,nv,follow_up,45.0,male,trunk,/kaggle/working/images/ISIC_0026026.jpg,0
+HAM_0001295,ISIC_0024703,nv,follow_up,20.0,male,lower extremity,/kaggle/working/images/ISIC_0024703.jpg,0
+HAM_0005948,ISIC_0029761,nv,follow_up,20.0,male,lower extremity,/kaggle/working/images/ISIC_0029761.jpg,0
+HAM_0003024,ISIC_0024768,nv,follow_up,35.0,female,trunk,/kaggle/working/images/ISIC_0024768.jpg,0
+HAM_0005118,ISIC_0025357,nv,follow_up,35.0,female,abdomen,/kaggle/working/images/ISIC_0025357.jpg,0
+HAM_0004916,ISIC_0026010,nv,follow_up,35.0,female,foot,/kaggle/working/images/ISIC_0026010.jpg,0
+HAM_0002811,ISIC_0030632,nv,follow_up,35.0,female,abdomen,/kaggle/working/images/ISIC_0030632.jpg,0
+HAM_0007595,ISIC_0025288,nv,follow_up,65.0,female,abdomen,/kaggle/working/images/ISIC_0025288.jpg,0
+HAM_0005944,ISIC_0030850,nv,follow_up,45.0,male,abdomen,/kaggle/working/images/ISIC_0030850.jpg,0
+HAM_0000511,ISIC_0026669,nv,follow_up,45.0,male,trunk,/kaggle/working/images/ISIC_0026669.jpg,0
+HAM_0007399,ISIC_0027445,nv,follow_up,45.0,female,trunk,/kaggle/working/images/ISIC_0027445.jpg,0
+HAM_0007130,ISIC_0027395,nv,follow_up,45.0,female,trunk,/kaggle/working/images/ISIC_0027395.jpg,0
+HAM_0000156,ISIC_0025643,nv,follow_up,45.0,female,abdomen,/kaggle/working/images/ISIC_0025643.jpg,0
+HAM_0002435,ISIC_0028366,nv,follow_up,45.0,female,lower extremity,/kaggle/working/images/ISIC_0028366.jpg,0
+HAM_0002001,ISIC_0030595,nv,follow_up,40.0,male,lower extremity,/kaggle/working/images/ISIC_0030595.jpg,0
+HAM_0000636,ISIC_0027104,nv,follow_up,40.0,male,lower extremity,/kaggle/working/images/ISIC_0027104.jpg,0
+HAM_0005446,ISIC_0031868,nv,follow_up,55.0,male,abdomen,/kaggle/working/images/ISIC_0031868.jpg,0
+HAM_0004671,ISIC_0026013,nv,follow_up,50.0,female,upper extremity,/kaggle/working/images/ISIC_0026013.jpg,0
+HAM_0004355,ISIC_0030934,nv,follow_up,40.0,female,trunk,/kaggle/working/images/ISIC_0030934.jpg,0
+HAM_0000461,ISIC_0027750,nv,follow_up,30.0,female,abdomen,/kaggle/working/images/ISIC_0027750.jpg,0
+HAM_0002725,ISIC_0025523,nv,follow_up,30.0,female,trunk,/kaggle/working/images/ISIC_0025523.jpg,0
+HAM_0005470,ISIC_0028286,nv,follow_up,30.0,female,trunk,/kaggle/working/images/ISIC_0028286.jpg,0
+HAM_0002682,ISIC_0024478,nv,follow_up,45.0,female,trunk,/kaggle/working/images/ISIC_0024478.jpg,0
+HAM_0006199,ISIC_0024888,nv,follow_up,45.0,female,abdomen,/kaggle/working/images/ISIC_0024888.jpg,0
+HAM_0006638,ISIC_0025220,nv,follow_up,55.0,female,trunk,/kaggle/working/images/ISIC_0025220.jpg,0
+HAM_0001622,ISIC_0032360,nv,follow_up,55.0,female,trunk,/kaggle/working/images/ISIC_0032360.jpg,0
+HAM_0003138,ISIC_0025706,nv,follow_up,40.0,male,trunk,/kaggle/working/images/ISIC_0025706.jpg,0
+HAM_0000355,ISIC_0027842,nv,follow_up,30.0,male,abdomen,/kaggle/working/images/ISIC_0027842.jpg,0
+HAM_0004329,ISIC_0027866,nv,follow_up,35.0,male,lower extremity,/kaggle/working/images/ISIC_0027866.jpg,0
+HAM_0000726,ISIC_0030670,nv,follow_up,65.0,male,trunk,/kaggle/working/images/ISIC_0030670.jpg,0
+HAM_0000307,ISIC_0027011,nv,follow_up,65.0,male,back,/kaggle/working/images/ISIC_0027011.jpg,0
+HAM_0007061,ISIC_0031433,nv,follow_up,50.0,male,abdomen,/kaggle/working/images/ISIC_0031433.jpg,0
+HAM_0002002,ISIC_0024486,nv,follow_up,50.0,male,upper extremity,/kaggle/working/images/ISIC_0024486.jpg,0
+HAM_0005778,ISIC_0028001,nv,follow_up,50.0,male,back,/kaggle/working/images/ISIC_0028001.jpg,0
+HAM_0004092,ISIC_0028300,nv,follow_up,55.0,female,back,/kaggle/working/images/ISIC_0028300.jpg,0
+HAM_0001866,ISIC_0026873,nv,follow_up,55.0,female,trunk,/kaggle/working/images/ISIC_0026873.jpg,0
+HAM_0001731,ISIC_0028172,nv,follow_up,55.0,female,lower extremity,/kaggle/working/images/ISIC_0028172.jpg,0
+HAM_0003907,ISIC_0027587,nv,follow_up,60.0,male,upper extremity,/kaggle/working/images/ISIC_0027587.jpg,0
+HAM_0002046,ISIC_0024569,nv,follow_up,60.0,male,trunk,/kaggle/working/images/ISIC_0024569.jpg,0
+HAM_0002945,ISIC_0029077,nv,follow_up,30.0,female,lower extremity,/kaggle/working/images/ISIC_0029077.jpg,0
+HAM_0000076,ISIC_0028605,nv,follow_up,30.0,female,trunk,/kaggle/working/images/ISIC_0028605.jpg,0
+HAM_0004334,ISIC_0032077,nv,follow_up,30.0,female,upper extremity,/kaggle/working/images/ISIC_0032077.jpg,0
+HAM_0001030,ISIC_0027363,nv,follow_up,30.0,female,upper extremity,/kaggle/working/images/ISIC_0027363.jpg,0
+HAM_0000430,ISIC_0032477,nv,follow_up,35.0,male,abdomen,/kaggle/working/images/ISIC_0032477.jpg,0
+HAM_0004484,ISIC_0025124,nv,follow_up,45.0,male,trunk,/kaggle/working/images/ISIC_0025124.jpg,0
+HAM_0000838,ISIC_0027029,nv,follow_up,45.0,male,upper extremity,/kaggle/working/images/ISIC_0027029.jpg,0
+HAM_0000808,ISIC_0026315,nv,follow_up,60.0,male,upper extremity,/kaggle/working/images/ISIC_0026315.jpg,0
+HAM_0004160,ISIC_0029066,nv,follow_up,35.0,male,trunk,/kaggle/working/images/ISIC_0029066.jpg,0
+HAM_0003962,ISIC_0027805,nv,follow_up,35.0,male,lower extremity,/kaggle/working/images/ISIC_0027805.jpg,0
+HAM_0007157,ISIC_0030600,nv,follow_up,35.0,male,foot,/kaggle/working/images/ISIC_0030600.jpg,0
+HAM_0004804,ISIC_0030497,nv,follow_up,25.0,female,back,/kaggle/working/images/ISIC_0030497.jpg,0
+HAM_0003109,ISIC_0028946,nv,follow_up,40.0,male,neck,/kaggle/working/images/ISIC_0028946.jpg,0
+HAM_0003498,ISIC_0024609,nv,follow_up,40.0,male,trunk,/kaggle/working/images/ISIC_0024609.jpg,0
+HAM_0000333,ISIC_0029098,nv,follow_up,40.0,male,hand,/kaggle/working/images/ISIC_0029098.jpg,0
+HAM_0000117,ISIC_0028005,nv,follow_up,45.0,male,trunk,/kaggle/working/images/ISIC_0028005.jpg,0
+HAM_0007449,ISIC_0025912,nv,follow_up,45.0,male,back,/kaggle/working/images/ISIC_0025912.jpg,0
+HAM_0002826,ISIC_0028334,nv,follow_up,30.0,female,trunk,/kaggle/working/images/ISIC_0028334.jpg,0
+HAM_0005414,ISIC_0027054,nv,follow_up,40.0,female,trunk,/kaggle/working/images/ISIC_0027054.jpg,0
+HAM_0007064,ISIC_0032282,nv,follow_up,40.0,female,back,/kaggle/working/images/ISIC_0032282.jpg,0
+HAM_0000558,ISIC_0027547,nv,follow_up,40.0,female,trunk,/kaggle/working/images/ISIC_0027547.jpg,0
+HAM_0004474,ISIC_0030908,nv,follow_up,40.0,female,back,/kaggle/working/images/ISIC_0030908.jpg,0
+HAM_0000300,ISIC_0030725,nv,follow_up,40.0,female,back,/kaggle/working/images/ISIC_0030725.jpg,0
+HAM_0005851,ISIC_0029804,nv,follow_up,35.0,female,back,/kaggle/working/images/ISIC_0029804.jpg,0
+HAM_0003478,ISIC_0027493,nv,follow_up,35.0,female,back,/kaggle/working/images/ISIC_0027493.jpg,0
+HAM_0003307,ISIC_0031147,nv,follow_up,35.0,female,foot,/kaggle/working/images/ISIC_0031147.jpg,0
+HAM_0006590,ISIC_0029694,nv,follow_up,65.0,male,trunk,/kaggle/working/images/ISIC_0029694.jpg,0
+HAM_0002361,ISIC_0026285,nv,follow_up,65.0,male,abdomen,/kaggle/working/images/ISIC_0026285.jpg,0
+HAM_0002273,ISIC_0026772,nv,follow_up,70.0,male,lower extremity,/kaggle/working/images/ISIC_0026772.jpg,0
+HAM_0007291,ISIC_0027633,nv,follow_up,70.0,male,back,/kaggle/working/images/ISIC_0027633.jpg,0
+HAM_0000454,ISIC_0025522,nv,follow_up,35.0,female,abdomen,/kaggle/working/images/ISIC_0025522.jpg,0
+HAM_0002331,ISIC_0028068,nv,follow_up,35.0,female,lower extremity,/kaggle/working/images/ISIC_0028068.jpg,0
+HAM_0004002,ISIC_0027628,nv,follow_up,55.0,male,foot,/kaggle/working/images/ISIC_0027628.jpg,0
+HAM_0007277,ISIC_0031195,nv,follow_up,40.0,male,back,/kaggle/working/images/ISIC_0031195.jpg,0
+HAM_0000936,ISIC_0030388,nv,follow_up,40.0,female,trunk,/kaggle/working/images/ISIC_0030388.jpg,0
+HAM_0001086,ISIC_0030499,nv,follow_up,40.0,female,abdomen,/kaggle/working/images/ISIC_0030499.jpg,0
+HAM_0006728,ISIC_0031365,nv,follow_up,50.0,male,upper extremity,/kaggle/working/images/ISIC_0031365.jpg,0
+HAM_0003844,ISIC_0027169,nv,follow_up,50.0,male,back,/kaggle/working/images/ISIC_0027169.jpg,0
+HAM_0000584,ISIC_0025888,nv,follow_up,35.0,female,lower extremity,/kaggle/working/images/ISIC_0025888.jpg,0
+HAM_0005444,ISIC_0025745,nv,follow_up,40.0,female,lower extremity,/kaggle/working/images/ISIC_0025745.jpg,0
+HAM_0005511,ISIC_0031807,nv,follow_up,40.0,female,trunk,/kaggle/working/images/ISIC_0031807.jpg,0
+HAM_0000731,ISIC_0026813,nv,follow_up,40.0,female,upper extremity,/kaggle/working/images/ISIC_0026813.jpg,0
+HAM_0000573,ISIC_0024988,nv,follow_up,40.0,female,foot,/kaggle/working/images/ISIC_0024988.jpg,0
+HAM_0003687,ISIC_0027515,nv,follow_up,40.0,female,foot,/kaggle/working/images/ISIC_0027515.jpg,0
+HAM_0004772,ISIC_0027223,nv,follow_up,35.0,female,back,/kaggle/working/images/ISIC_0027223.jpg,0
+HAM_0002220,ISIC_0024942,nv,follow_up,65.0,female,trunk,/kaggle/working/images/ISIC_0024942.jpg,0
+HAM_0002006,ISIC_0025360,nv,follow_up,50.0,male,back,/kaggle/working/images/ISIC_0025360.jpg,0
+HAM_0002927,ISIC_0028012,nv,follow_up,50.0,male,trunk,/kaggle/working/images/ISIC_0028012.jpg,0
+HAM_0001144,ISIC_0030673,nv,follow_up,50.0,male,lower extremity,/kaggle/working/images/ISIC_0030673.jpg,0
+HAM_0001545,ISIC_0030278,nv,follow_up,35.0,female,trunk,/kaggle/working/images/ISIC_0030278.jpg,0
+HAM_0004903,ISIC_0025604,nv,follow_up,35.0,female,lower extremity,/kaggle/working/images/ISIC_0025604.jpg,0
+HAM_0003860,ISIC_0025669,nv,follow_up,35.0,female,back,/kaggle/working/images/ISIC_0025669.jpg,0
+HAM_0000200,ISIC_0028213,nv,follow_up,35.0,female,lower extremity,/kaggle/working/images/ISIC_0028213.jpg,0
+HAM_0000278,ISIC_0024484,nv,follow_up,55.0,male,abdomen,/kaggle/working/images/ISIC_0024484.jpg,0
+HAM_0000357,ISIC_0025134,nv,follow_up,55.0,male,neck,/kaggle/working/images/ISIC_0025134.jpg,0
+HAM_0004393,ISIC_0029774,nv,follow_up,55.0,male,trunk,/kaggle/working/images/ISIC_0029774.jpg,0
+HAM_0003244,ISIC_0027368,nv,follow_up,60.0,male,abdomen,/kaggle/working/images/ISIC_0027368.jpg,0
+HAM_0003261,ISIC_0026031,nv,follow_up,60.0,male,back,/kaggle/working/images/ISIC_0026031.jpg,0
+HAM_0007459,ISIC_0029886,nv,follow_up,55.0,female,lower extremity,/kaggle/working/images/ISIC_0029886.jpg,0
+HAM_0004995,ISIC_0029869,nv,follow_up,45.0,female,upper extremity,/kaggle/working/images/ISIC_0029869.jpg,0
+HAM_0006535,ISIC_0032069,nv,follow_up,45.0,female,upper extremity,/kaggle/working/images/ISIC_0032069.jpg,0
+HAM_0001550,ISIC_0026020,nv,follow_up,45.0,female,lower extremity,/kaggle/working/images/ISIC_0026020.jpg,0
+HAM_0001248,ISIC_0025177,nv,histo,20.0,male,lower extremity,/kaggle/working/images/ISIC_0025177.jpg,0
+HAM_0001248,ISIC_0027530,nv,histo,20.0,male,lower extremity,/kaggle/working/images/ISIC_0027530.jpg,0
+HAM_0000288,ISIC_0028755,nv,histo,70.0,female,upper extremity,/kaggle/working/images/ISIC_0028755.jpg,0
+HAM_0000288,ISIC_0027062,nv,histo,70.0,female,upper extremity,/kaggle/working/images/ISIC_0027062.jpg,0
+HAM_0004935,ISIC_0030629,nv,histo,20.0,male,back,/kaggle/working/images/ISIC_0030629.jpg,0
+HAM_0004935,ISIC_0031178,nv,histo,20.0,male,back,/kaggle/working/images/ISIC_0031178.jpg,0
+HAM_0001107,ISIC_0027644,nv,histo,40.0,male,upper extremity,/kaggle/working/images/ISIC_0027644.jpg,0
+HAM_0007202,ISIC_0027898,nv,histo,75.0,male,back,/kaggle/working/images/ISIC_0027898.jpg,0
+HAM_0007202,ISIC_0026726,nv,histo,75.0,male,back,/kaggle/working/images/ISIC_0026726.jpg,0
+HAM_0004410,ISIC_0032428,nv,histo,60.0,male,lower extremity,/kaggle/working/images/ISIC_0032428.jpg,0
+HAM_0004410,ISIC_0032342,nv,histo,60.0,male,lower extremity,/kaggle/working/images/ISIC_0032342.jpg,0
+HAM_0001869,ISIC_0027249,nv,histo,55.0,female,hand,/kaggle/working/images/ISIC_0027249.jpg,0
+HAM_0001869,ISIC_0031563,nv,histo,55.0,female,hand,/kaggle/working/images/ISIC_0031563.jpg,0
+HAM_0006738,ISIC_0029653,nv,histo,55.0,male,foot,/kaggle/working/images/ISIC_0029653.jpg,0
+HAM_0006738,ISIC_0029374,nv,histo,55.0,male,foot,/kaggle/working/images/ISIC_0029374.jpg,0
+HAM_0006150,ISIC_0031404,nv,histo,70.0,male,back,/kaggle/working/images/ISIC_0031404.jpg,0
+HAM_0006150,ISIC_0026569,nv,histo,70.0,male,back,/kaggle/working/images/ISIC_0026569.jpg,0
+HAM_0002856,ISIC_0028453,nv,histo,70.0,male,upper extremity,/kaggle/working/images/ISIC_0028453.jpg,0
+HAM_0002856,ISIC_0028154,nv,histo,70.0,male,upper extremity,/kaggle/working/images/ISIC_0028154.jpg,0
+HAM_0005162,ISIC_0025943,nv,histo,50.0,female,back,/kaggle/working/images/ISIC_0025943.jpg,0
+HAM_0005162,ISIC_0025568,nv,histo,50.0,female,back,/kaggle/working/images/ISIC_0025568.jpg,0
+HAM_0005162,ISIC_0026887,nv,histo,50.0,female,back,/kaggle/working/images/ISIC_0026887.jpg,0
+HAM_0003767,ISIC_0024604,nv,histo,60.0,male,upper extremity,/kaggle/working/images/ISIC_0024604.jpg,0
+HAM_0003767,ISIC_0027358,nv,histo,60.0,male,upper extremity,/kaggle/working/images/ISIC_0027358.jpg,0
+HAM_0003767,ISIC_0030247,nv,histo,60.0,male,upper extremity,/kaggle/working/images/ISIC_0030247.jpg,0
+HAM_0004762,ISIC_0030312,nv,histo,45.0,male,back,/kaggle/working/images/ISIC_0030312.jpg,0
+HAM_0004762,ISIC_0026080,nv,histo,45.0,male,back,/kaggle/working/images/ISIC_0026080.jpg,0
+HAM_0005342,ISIC_0028401,nv,histo,35.0,female,unknown,/kaggle/working/images/ISIC_0028401.jpg,0
+HAM_0005342,ISIC_0030371,nv,histo,35.0,female,unknown,/kaggle/working/images/ISIC_0030371.jpg,0
+HAM_0007476,ISIC_0025108,nv,histo,40.0,female,back,/kaggle/working/images/ISIC_0025108.jpg,0
+HAM_0007476,ISIC_0029296,nv,histo,40.0,female,back,/kaggle/working/images/ISIC_0029296.jpg,0
+HAM_0002207,ISIC_0025588,nv,histo,30.0,male,unknown,/kaggle/working/images/ISIC_0025588.jpg,0
+HAM_0002207,ISIC_0027772,nv,histo,30.0,male,unknown,/kaggle/working/images/ISIC_0027772.jpg,0
+HAM_0006826,ISIC_0025129,nv,histo,35.0,female,back,/kaggle/working/images/ISIC_0025129.jpg,0
+HAM_0006826,ISIC_0027049,nv,histo,35.0,female,back,/kaggle/working/images/ISIC_0027049.jpg,0
+HAM_0002975,ISIC_0026148,nv,histo,45.0,male,upper extremity,/kaggle/working/images/ISIC_0026148.jpg,0
+HAM_0002975,ISIC_0028810,nv,histo,45.0,male,upper extremity,/kaggle/working/images/ISIC_0028810.jpg,0
+HAM_0000230,ISIC_0029720,nv,histo,50.0,female,lower extremity,/kaggle/working/images/ISIC_0029720.jpg,0
+HAM_0000230,ISIC_0032150,nv,histo,50.0,female,lower extremity,/kaggle/working/images/ISIC_0032150.jpg,0
+HAM_0002349,ISIC_0025008,nv,histo,70.0,male,upper extremity,/kaggle/working/images/ISIC_0025008.jpg,0
+HAM_0002349,ISIC_0025735,nv,histo,70.0,male,upper extremity,/kaggle/working/images/ISIC_0025735.jpg,0
+HAM_0007426,ISIC_0027034,nv,histo,15.0,female,foot,/kaggle/working/images/ISIC_0027034.jpg,0
+HAM_0007426,ISIC_0031887,nv,histo,15.0,female,foot,/kaggle/working/images/ISIC_0031887.jpg,0
+HAM_0005886,ISIC_0029982,nv,histo,50.0,female,upper extremity,/kaggle/working/images/ISIC_0029982.jpg,0
+HAM_0005886,ISIC_0031622,nv,histo,50.0,female,upper extremity,/kaggle/working/images/ISIC_0031622.jpg,0
+HAM_0002409,ISIC_0028368,nv,histo,35.0,female,back,/kaggle/working/images/ISIC_0028368.jpg,0
+HAM_0002409,ISIC_0028843,nv,histo,35.0,female,back,/kaggle/working/images/ISIC_0028843.jpg,0
+HAM_0004138,ISIC_0025905,nv,histo,45.0,male,abdomen,/kaggle/working/images/ISIC_0025905.jpg,0
+HAM_0004138,ISIC_0030184,nv,histo,45.0,male,abdomen,/kaggle/working/images/ISIC_0030184.jpg,0
+HAM_0005060,ISIC_0027852,nv,histo,75.0,male,upper extremity,/kaggle/working/images/ISIC_0027852.jpg,0
+HAM_0005060,ISIC_0031975,nv,histo,75.0,male,upper extremity,/kaggle/working/images/ISIC_0031975.jpg,0
+HAM_0007138,ISIC_0028823,nv,histo,25.0,male,hand,/kaggle/working/images/ISIC_0028823.jpg,0
+HAM_0007138,ISIC_0031501,nv,histo,25.0,male,hand,/kaggle/working/images/ISIC_0031501.jpg,0
+HAM_0000269,ISIC_0029354,nv,histo,25.0,male,neck,/kaggle/working/images/ISIC_0029354.jpg,0
+HAM_0000269,ISIC_0031748,nv,histo,25.0,male,neck,/kaggle/working/images/ISIC_0031748.jpg,0
+HAM_0005213,ISIC_0033356,nv,histo,30.0,female,chest,/kaggle/working/images/ISIC_0033356.jpg,0
+HAM_0005213,ISIC_0033998,nv,histo,30.0,female,chest,/kaggle/working/images/ISIC_0033998.jpg,0
+HAM_0004892,ISIC_0025228,nv,histo,50.0,female,back,/kaggle/working/images/ISIC_0025228.jpg,0
+HAM_0002494,ISIC_0033686,nv,histo,65.0,female,abdomen,/kaggle/working/images/ISIC_0033686.jpg,0
+HAM_0001651,ISIC_0033251,nv,histo,45.0,male,back,/kaggle/working/images/ISIC_0033251.jpg,0
+HAM_0001651,ISIC_0033402,nv,histo,45.0,male,back,/kaggle/working/images/ISIC_0033402.jpg,0
+HAM_0001651,ISIC_0034204,nv,histo,45.0,male,back,/kaggle/working/images/ISIC_0034204.jpg,0
+HAM_0000093,ISIC_0030845,nv,histo,30.0,female,abdomen,/kaggle/working/images/ISIC_0030845.jpg,0
+HAM_0000459,ISIC_0026584,nv,histo,75.0,male,upper extremity,/kaggle/working/images/ISIC_0026584.jpg,0
+HAM_0005700,ISIC_0031904,nv,histo,45.0,female,abdomen,/kaggle/working/images/ISIC_0031904.jpg,0
+HAM_0001097,ISIC_0032950,nv,histo,50.0,female,chest,/kaggle/working/images/ISIC_0032950.jpg,0
+HAM_0001097,ISIC_0034156,nv,histo,50.0,female,chest,/kaggle/working/images/ISIC_0034156.jpg,0
+HAM_0000609,ISIC_0025990,nv,histo,75.0,female,upper extremity,/kaggle/working/images/ISIC_0025990.jpg,0
+HAM_0000609,ISIC_0025778,nv,histo,75.0,female,upper extremity,/kaggle/working/images/ISIC_0025778.jpg,0
+HAM_0007196,ISIC_0027432,nv,histo,30.0,female,back,/kaggle/working/images/ISIC_0027432.jpg,0
+HAM_0007196,ISIC_0024907,nv,histo,30.0,female,back,/kaggle/working/images/ISIC_0024907.jpg,0
+HAM_0003394,ISIC_0029405,nv,histo,25.0,male,genital,/kaggle/working/images/ISIC_0029405.jpg,0
+HAM_0003188,ISIC_0024730,nv,histo,30.0,female,abdomen,/kaggle/working/images/ISIC_0024730.jpg,0
+HAM_0003188,ISIC_0030765,nv,histo,30.0,female,abdomen,/kaggle/working/images/ISIC_0030765.jpg,0
+HAM_0005127,ISIC_0026384,nv,histo,55.0,female,chest,/kaggle/working/images/ISIC_0026384.jpg,0
+HAM_0005127,ISIC_0028436,nv,histo,55.0,female,chest,/kaggle/working/images/ISIC_0028436.jpg,0
+HAM_0001107,ISIC_0032009,nv,histo,40.0,male,upper extremity,/kaggle/working/images/ISIC_0032009.jpg,0
+HAM_0006869,ISIC_0032711,nv,histo,45.0,female,back,/kaggle/working/images/ISIC_0032711.jpg,0
+HAM_0006869,ISIC_0033207,nv,histo,45.0,female,back,/kaggle/working/images/ISIC_0033207.jpg,0
+HAM_0006869,ISIC_0032558,nv,histo,45.0,female,back,/kaggle/working/images/ISIC_0032558.jpg,0
+HAM_0001400,ISIC_0033059,nv,histo,35.0,male,upper extremity,/kaggle/working/images/ISIC_0033059.jpg,0
+HAM_0001400,ISIC_0033113,nv,histo,35.0,male,upper extremity,/kaggle/working/images/ISIC_0033113.jpg,0
+HAM_0001400,ISIC_0033547,nv,histo,35.0,male,upper extremity,/kaggle/working/images/ISIC_0033547.jpg,0
+HAM_0002501,ISIC_0033388,nv,histo,40.0,male,trunk,/kaggle/working/images/ISIC_0033388.jpg,0
+HAM_0002501,ISIC_0033009,nv,histo,40.0,male,trunk,/kaggle/working/images/ISIC_0033009.jpg,0
+HAM_0002501,ISIC_0032928,nv,histo,40.0,male,trunk,/kaggle/working/images/ISIC_0032928.jpg,0
+HAM_0002206,ISIC_0034020,nv,histo,35.0,female,abdomen,/kaggle/working/images/ISIC_0034020.jpg,0
+HAM_0002206,ISIC_0033727,nv,histo,35.0,female,abdomen,/kaggle/working/images/ISIC_0033727.jpg,0
+HAM_0002244,ISIC_0034320,nv,histo,25.0,female,chest,/kaggle/working/images/ISIC_0034320.jpg,0
+HAM_0002244,ISIC_0032549,nv,histo,25.0,female,chest,/kaggle/working/images/ISIC_0032549.jpg,0
+HAM_0005265,ISIC_0033633,nv,histo,45.0,female,lower extremity,/kaggle/working/images/ISIC_0033633.jpg,0
+HAM_0005265,ISIC_0034199,nv,histo,45.0,female,lower extremity,/kaggle/working/images/ISIC_0034199.jpg,0
+HAM_0005265,ISIC_0032998,nv,histo,45.0,female,lower extremity,/kaggle/working/images/ISIC_0032998.jpg,0
+HAM_0001321,ISIC_0033385,nv,histo,70.0,male,chest,/kaggle/working/images/ISIC_0033385.jpg,0
+HAM_0001321,ISIC_0033471,nv,histo,70.0,male,chest,/kaggle/working/images/ISIC_0033471.jpg,0
+HAM_0001321,ISIC_0032831,nv,histo,70.0,male,chest,/kaggle/working/images/ISIC_0032831.jpg,0
+HAM_0006615,ISIC_0032780,nv,histo,45.0,male,trunk,/kaggle/working/images/ISIC_0032780.jpg,0
+HAM_0006615,ISIC_0033849,nv,histo,45.0,male,trunk,/kaggle/working/images/ISIC_0033849.jpg,0
+HAM_0006615,ISIC_0032861,nv,histo,45.0,male,trunk,/kaggle/working/images/ISIC_0032861.jpg,0
+HAM_0007005,ISIC_0032568,nv,histo,40.0,female,acral,/kaggle/working/images/ISIC_0032568.jpg,0
+HAM_0007005,ISIC_0033126,nv,histo,40.0,female,acral,/kaggle/working/images/ISIC_0033126.jpg,0
+HAM_0007005,ISIC_0034099,nv,histo,40.0,female,acral,/kaggle/working/images/ISIC_0034099.jpg,0
+HAM_0004550,ISIC_0034105,nv,histo,35.0,female,abdomen,/kaggle/working/images/ISIC_0034105.jpg,0
+HAM_0004550,ISIC_0033138,nv,histo,35.0,female,abdomen,/kaggle/working/images/ISIC_0033138.jpg,0
+HAM_0004550,ISIC_0032728,nv,histo,35.0,female,abdomen,/kaggle/working/images/ISIC_0032728.jpg,0
+HAM_0000747,ISIC_0034319,nv,histo,30.0,male,trunk,/kaggle/working/images/ISIC_0034319.jpg,0
+HAM_0000747,ISIC_0033748,nv,histo,30.0,male,trunk,/kaggle/working/images/ISIC_0033748.jpg,0
+HAM_0000747,ISIC_0034044,nv,histo,30.0,male,trunk,/kaggle/working/images/ISIC_0034044.jpg,0
+HAM_0001218,ISIC_0032864,nv,histo,35.0,female,trunk,/kaggle/working/images/ISIC_0032864.jpg,0
+HAM_0001218,ISIC_0033763,nv,histo,35.0,female,trunk,/kaggle/working/images/ISIC_0033763.jpg,0
+HAM_0001218,ISIC_0033650,nv,histo,35.0,female,trunk,/kaggle/working/images/ISIC_0033650.jpg,0
+HAM_0005905,ISIC_0034257,nv,histo,50.0,male,back,/kaggle/working/images/ISIC_0034257.jpg,0
+HAM_0007306,ISIC_0026810,nv,histo,30.0,male,back,/kaggle/working/images/ISIC_0026810.jpg,0
+HAM_0003512,ISIC_0034300,nv,histo,35.0,male,back,/kaggle/working/images/ISIC_0034300.jpg,0
+HAM_0003512,ISIC_0033155,nv,histo,35.0,male,back,/kaggle/working/images/ISIC_0033155.jpg,0
+HAM_0003512,ISIC_0032609,nv,histo,35.0,male,back,/kaggle/working/images/ISIC_0032609.jpg,0
+HAM_0005820,ISIC_0033904,nv,histo,35.0,female,back,/kaggle/working/images/ISIC_0033904.jpg,0
+HAM_0005820,ISIC_0033342,nv,histo,35.0,female,back,/kaggle/working/images/ISIC_0033342.jpg,0
+HAM_0005820,ISIC_0033265,nv,histo,35.0,female,back,/kaggle/working/images/ISIC_0033265.jpg,0
+HAM_0001133,ISIC_0034179,nv,histo,20.0,female,back,/kaggle/working/images/ISIC_0034179.jpg,0
+HAM_0001133,ISIC_0034206,nv,histo,20.0,female,back,/kaggle/working/images/ISIC_0034206.jpg,0
+HAM_0001133,ISIC_0032980,nv,histo,20.0,female,back,/kaggle/working/images/ISIC_0032980.jpg,0
+HAM_0007415,ISIC_0033018,nv,histo,35.0,female,lower extremity,/kaggle/working/images/ISIC_0033018.jpg,0
+HAM_0007415,ISIC_0032541,nv,histo,35.0,female,lower extremity,/kaggle/working/images/ISIC_0032541.jpg,0
+HAM_0007415,ISIC_0032515,nv,histo,35.0,female,lower extremity,/kaggle/working/images/ISIC_0032515.jpg,0
+HAM_0005331,ISIC_0033803,nv,histo,40.0,female,neck,/kaggle/working/images/ISIC_0033803.jpg,0
+HAM_0005331,ISIC_0032860,nv,histo,40.0,female,neck,/kaggle/working/images/ISIC_0032860.jpg,0
+HAM_0007367,ISIC_0032705,nv,histo,5.0,male,trunk,/kaggle/working/images/ISIC_0032705.jpg,0
+HAM_0007367,ISIC_0034198,nv,histo,5.0,male,trunk,/kaggle/working/images/ISIC_0034198.jpg,0
+HAM_0007367,ISIC_0033658,nv,histo,5.0,male,trunk,/kaggle/working/images/ISIC_0033658.jpg,0
+HAM_0007367,ISIC_0033046,nv,histo,5.0,male,trunk,/kaggle/working/images/ISIC_0033046.jpg,0
+HAM_0007367,ISIC_0032689,nv,histo,5.0,male,trunk,/kaggle/working/images/ISIC_0032689.jpg,0
+HAM_0006666,ISIC_0034088,nv,histo,35.0,female,abdomen,/kaggle/working/images/ISIC_0034088.jpg,0
+HAM_0006666,ISIC_0034268,nv,histo,35.0,female,abdomen,/kaggle/working/images/ISIC_0034268.jpg,0
+HAM_0006666,ISIC_0032908,nv,histo,35.0,female,abdomen,/kaggle/working/images/ISIC_0032908.jpg,0
+HAM_0006372,ISIC_0033220,nv,histo,35.0,male,back,/kaggle/working/images/ISIC_0033220.jpg,0
+HAM_0006372,ISIC_0032817,nv,histo,35.0,male,back,/kaggle/working/images/ISIC_0032817.jpg,0
+HAM_0006372,ISIC_0032820,nv,histo,35.0,male,back,/kaggle/working/images/ISIC_0032820.jpg,0
+HAM_0005759,ISIC_0033263,nv,histo,50.0,female,back,/kaggle/working/images/ISIC_0033263.jpg,0
+HAM_0005759,ISIC_0033815,nv,histo,50.0,female,back,/kaggle/working/images/ISIC_0033815.jpg,0
+HAM_0005759,ISIC_0034194,nv,histo,50.0,female,back,/kaggle/working/images/ISIC_0034194.jpg,0
+HAM_0004716,ISIC_0033282,nv,histo,40.0,female,upper extremity,/kaggle/working/images/ISIC_0033282.jpg,0
+HAM_0004716,ISIC_0032729,nv,histo,40.0,female,upper extremity,/kaggle/working/images/ISIC_0032729.jpg,0
+HAM_0004716,ISIC_0033076,nv,histo,40.0,female,upper extremity,/kaggle/working/images/ISIC_0033076.jpg,0
+HAM_0006496,ISIC_0033104,nv,histo,55.0,female,lower extremity,/kaggle/working/images/ISIC_0033104.jpg,0
+HAM_0006496,ISIC_0032579,nv,histo,55.0,female,lower extremity,/kaggle/working/images/ISIC_0032579.jpg,0
+HAM_0006496,ISIC_0033189,nv,histo,55.0,female,lower extremity,/kaggle/working/images/ISIC_0033189.jpg,0
+HAM_0003254,ISIC_0032478,nv,histo,40.0,female,back,/kaggle/working/images/ISIC_0032478.jpg,0
+HAM_0003254,ISIC_0032765,nv,histo,40.0,female,back,/kaggle/working/images/ISIC_0032765.jpg,0
+HAM_0002135,ISIC_0032974,nv,histo,50.0,male,scalp,/kaggle/working/images/ISIC_0032974.jpg,0
+HAM_0002135,ISIC_0033746,nv,histo,50.0,male,scalp,/kaggle/working/images/ISIC_0033746.jpg,0
+HAM_0005651,ISIC_0028863,nv,histo,45.0,male,back,/kaggle/working/images/ISIC_0028863.jpg,0
+HAM_0005651,ISIC_0030126,nv,histo,45.0,male,back,/kaggle/working/images/ISIC_0030126.jpg,0
+HAM_0007148,ISIC_0032858,nv,histo,40.0,male,back,/kaggle/working/images/ISIC_0032858.jpg,0
+HAM_0007148,ISIC_0033965,nv,histo,40.0,male,back,/kaggle/working/images/ISIC_0033965.jpg,0
+HAM_0006799,ISIC_0033093,nv,histo,25.0,female,back,/kaggle/working/images/ISIC_0033093.jpg,0
+HAM_0006799,ISIC_0033501,nv,histo,25.0,female,back,/kaggle/working/images/ISIC_0033501.jpg,0
+HAM_0006799,ISIC_0032677,nv,histo,25.0,female,back,/kaggle/working/images/ISIC_0032677.jpg,0
+HAM_0002208,ISIC_0033940,nv,histo,20.0,female,lower extremity,/kaggle/working/images/ISIC_0033940.jpg,0
+HAM_0002208,ISIC_0033818,nv,histo,20.0,female,lower extremity,/kaggle/working/images/ISIC_0033818.jpg,0
+HAM_0002208,ISIC_0034029,nv,histo,20.0,female,lower extremity,/kaggle/working/images/ISIC_0034029.jpg,0
+HAM_0001943,ISIC_0025769,nv,histo,30.0,female,lower extremity,/kaggle/working/images/ISIC_0025769.jpg,0
+HAM_0001943,ISIC_0032909,nv,histo,30.0,female,lower extremity,/kaggle/working/images/ISIC_0032909.jpg,0
+HAM_0001943,ISIC_0033134,nv,histo,30.0,female,lower extremity,/kaggle/working/images/ISIC_0033134.jpg,0
+HAM_0001943,ISIC_0034301,nv,histo,30.0,female,lower extremity,/kaggle/working/images/ISIC_0034301.jpg,0
+HAM_0003424,ISIC_0033451,nv,histo,45.0,male,back,/kaggle/working/images/ISIC_0033451.jpg,0
+HAM_0003424,ISIC_0033552,nv,histo,45.0,male,back,/kaggle/working/images/ISIC_0033552.jpg,0
+HAM_0003424,ISIC_0034310,nv,histo,45.0,male,back,/kaggle/working/images/ISIC_0034310.jpg,0
+HAM_0003346,ISIC_0032995,nv,histo,50.0,male,chest,/kaggle/working/images/ISIC_0032995.jpg,0
+HAM_0003346,ISIC_0032754,nv,histo,50.0,male,chest,/kaggle/working/images/ISIC_0032754.jpg,0
+HAM_0003346,ISIC_0032714,nv,histo,50.0,male,chest,/kaggle/working/images/ISIC_0032714.jpg,0
+HAM_0003803,ISIC_0033083,nv,histo,5.0,female,lower extremity,/kaggle/working/images/ISIC_0033083.jpg,0
+HAM_0003803,ISIC_0033133,nv,histo,5.0,female,lower extremity,/kaggle/working/images/ISIC_0033133.jpg,0
+HAM_0003803,ISIC_0033352,nv,histo,5.0,female,lower extremity,/kaggle/working/images/ISIC_0033352.jpg,0
+HAM_0006014,ISIC_0032737,nv,histo,10.0,female,chest,/kaggle/working/images/ISIC_0032737.jpg,0
+HAM_0001908,ISIC_0033519,nv,histo,40.0,male,abdomen,/kaggle/working/images/ISIC_0033519.jpg,0
+HAM_0001908,ISIC_0032851,nv,histo,40.0,male,abdomen,/kaggle/working/images/ISIC_0032851.jpg,0
+HAM_0006675,ISIC_0032846,nv,histo,65.0,female,upper extremity,/kaggle/working/images/ISIC_0032846.jpg,0
+HAM_0006675,ISIC_0033816,nv,histo,65.0,female,upper extremity,/kaggle/working/images/ISIC_0033816.jpg,0
+HAM_0006675,ISIC_0033672,nv,histo,65.0,female,upper extremity,/kaggle/working/images/ISIC_0033672.jpg,0
+HAM_0006637,ISIC_0033435,nv,histo,30.0,male,lower extremity,/kaggle/working/images/ISIC_0033435.jpg,0
+HAM_0006637,ISIC_0034016,nv,histo,30.0,male,lower extremity,/kaggle/working/images/ISIC_0034016.jpg,0
+HAM_0002015,ISIC_0033954,nv,histo,30.0,female,lower extremity,/kaggle/working/images/ISIC_0033954.jpg,0
+HAM_0002015,ISIC_0033771,nv,histo,30.0,female,lower extremity,/kaggle/working/images/ISIC_0033771.jpg,0
+HAM_0002015,ISIC_0034035,nv,histo,30.0,female,lower extremity,/kaggle/working/images/ISIC_0034035.jpg,0
+HAM_0004149,ISIC_0033880,nv,histo,45.0,female,foot,/kaggle/working/images/ISIC_0033880.jpg,0
+HAM_0004149,ISIC_0033994,nv,histo,45.0,female,foot,/kaggle/working/images/ISIC_0033994.jpg,0
+HAM_0004149,ISIC_0032755,nv,histo,45.0,female,foot,/kaggle/working/images/ISIC_0032755.jpg,0
+HAM_0005052,ISIC_0033724,nv,histo,35.0,male,lower extremity,/kaggle/working/images/ISIC_0033724.jpg,0
+HAM_0005052,ISIC_0033786,nv,histo,35.0,male,lower extremity,/kaggle/working/images/ISIC_0033786.jpg,0
+HAM_0000443,ISIC_0034271,nv,histo,35.0,female,back,/kaggle/working/images/ISIC_0034271.jpg,0
+HAM_0001739,ISIC_0033845,nv,histo,80.0,male,abdomen,/kaggle/working/images/ISIC_0033845.jpg,0
+HAM_0001739,ISIC_0032884,nv,histo,80.0,male,abdomen,/kaggle/working/images/ISIC_0032884.jpg,0
+HAM_0005209,ISIC_0033532,nv,histo,45.0,female,back,/kaggle/working/images/ISIC_0033532.jpg,0
+HAM_0005209,ISIC_0032713,nv,histo,45.0,female,back,/kaggle/working/images/ISIC_0032713.jpg,0
+HAM_0003248,ISIC_0032380,nv,histo,30.0,female,back,/kaggle/working/images/ISIC_0032380.jpg,0
+HAM_0003248,ISIC_0025447,nv,histo,30.0,female,back,/kaggle/working/images/ISIC_0025447.jpg,0
+HAM_0002519,ISIC_0033148,nv,histo,45.0,female,abdomen,/kaggle/working/images/ISIC_0033148.jpg,0
+HAM_0002519,ISIC_0033109,nv,histo,45.0,female,abdomen,/kaggle/working/images/ISIC_0033109.jpg,0
+HAM_0002519,ISIC_0032986,nv,histo,45.0,female,abdomen,/kaggle/working/images/ISIC_0032986.jpg,0
+HAM_0004582,ISIC_0033875,nv,consensus,55.0,male,unknown,/kaggle/working/images/ISIC_0033875.jpg,0
+HAM_0004585,ISIC_0032881,nv,consensus,55.0,male,unknown,/kaggle/working/images/ISIC_0032881.jpg,0
+HAM_0004189,ISIC_0033036,nv,histo,40.0,female,unknown,/kaggle/working/images/ISIC_0033036.jpg,0
+HAM_0001948,ISIC_0033993,nv,histo,35.0,male,foot,/kaggle/working/images/ISIC_0033993.jpg,0
+HAM_0001948,ISIC_0032926,nv,histo,35.0,male,foot,/kaggle/working/images/ISIC_0032926.jpg,0
+HAM_0001948,ISIC_0033049,nv,histo,35.0,male,foot,/kaggle/working/images/ISIC_0033049.jpg,0
+HAM_0007533,ISIC_0033463,nv,histo,10.0,female,lower extremity,/kaggle/working/images/ISIC_0033463.jpg,0
+HAM_0007533,ISIC_0033757,nv,histo,10.0,female,lower extremity,/kaggle/working/images/ISIC_0033757.jpg,0
+HAM_0002597,ISIC_0033045,nv,consensus,25.0,male,unknown,/kaggle/working/images/ISIC_0033045.jpg,0
+HAM_0002598,ISIC_0033873,nv,consensus,25.0,male,unknown,/kaggle/working/images/ISIC_0033873.jpg,0
+HAM_0002605,ISIC_0034164,nv,consensus,25.0,male,unknown,/kaggle/working/images/ISIC_0034164.jpg,0
+HAM_0000897,ISIC_0029306,nv,histo,35.0,female,acral,/kaggle/working/images/ISIC_0029306.jpg,0
+HAM_0000226,ISIC_0024854,nv,histo,15.0,male,back,/kaggle/working/images/ISIC_0024854.jpg,0
+HAM_0001052,ISIC_0031053,nv,histo,30.0,male,lower extremity,/kaggle/working/images/ISIC_0031053.jpg,0
+HAM_0002432,ISIC_0029775,nv,histo,45.0,male,lower extremity,/kaggle/working/images/ISIC_0029775.jpg,0
+HAM_0006333,ISIC_0024424,nv,histo,35.0,male,trunk,/kaggle/working/images/ISIC_0024424.jpg,0
+HAM_0001136,ISIC_0031848,nv,histo,40.0,male,chest,/kaggle/working/images/ISIC_0031848.jpg,0
+HAM_0004014,ISIC_0029809,nv,histo,45.0,male,chest,/kaggle/working/images/ISIC_0029809.jpg,0
+HAM_0005805,ISIC_0027505,nv,histo,20.0,female,chest,/kaggle/working/images/ISIC_0027505.jpg,0
+HAM_0001470,ISIC_0030361,nv,histo,40.0,female,upper extremity,/kaggle/working/images/ISIC_0030361.jpg,0
+HAM_0003891,ISIC_0028487,nv,histo,35.0,male,back,/kaggle/working/images/ISIC_0028487.jpg,0
+HAM_0007577,ISIC_0030305,nv,histo,25.0,male,back,/kaggle/working/images/ISIC_0030305.jpg,0
+HAM_0000721,ISIC_0030243,nv,histo,40.0,female,trunk,/kaggle/working/images/ISIC_0030243.jpg,0
+HAM_0000721,ISIC_0032058,nv,histo,40.0,female,trunk,/kaggle/working/images/ISIC_0032058.jpg,0
+HAM_0003525,ISIC_0024653,nv,histo,60.0,female,trunk,/kaggle/working/images/ISIC_0024653.jpg,0
+HAM_0003525,ISIC_0026141,nv,histo,60.0,female,trunk,/kaggle/working/images/ISIC_0026141.jpg,0
+HAM_0000070,ISIC_0027933,nv,histo,40.0,male,abdomen,/kaggle/working/images/ISIC_0027933.jpg,0
+HAM_0000070,ISIC_0028513,nv,histo,40.0,male,abdomen,/kaggle/working/images/ISIC_0028513.jpg,0
+HAM_0001037,ISIC_0031645,nv,histo,35.0,male,foot,/kaggle/working/images/ISIC_0031645.jpg,0
+HAM_0001037,ISIC_0031726,nv,histo,35.0,male,foot,/kaggle/working/images/ISIC_0031726.jpg,0
+HAM_0007096,ISIC_0024674,nv,histo,40.0,male,lower extremity,/kaggle/working/images/ISIC_0024674.jpg,0
+HAM_0006020,ISIC_0029572,nv,histo,55.0,male,back,/kaggle/working/images/ISIC_0029572.jpg,0
+HAM_0007385,ISIC_0030933,nv,histo,30.0,male,scalp,/kaggle/working/images/ISIC_0030933.jpg,0
+HAM_0007385,ISIC_0025043,nv,histo,30.0,male,scalp,/kaggle/working/images/ISIC_0025043.jpg,0
+HAM_0004717,ISIC_0025227,nv,histo,50.0,male,back,/kaggle/working/images/ISIC_0025227.jpg,0
+HAM_0004717,ISIC_0030268,nv,histo,50.0,male,back,/kaggle/working/images/ISIC_0030268.jpg,0
+HAM_0002031,ISIC_0027925,nv,histo,30.0,male,back,/kaggle/working/images/ISIC_0027925.jpg,0
+HAM_0002031,ISIC_0031917,nv,histo,30.0,male,back,/kaggle/working/images/ISIC_0031917.jpg,0
+HAM_0001715,ISIC_0027208,nv,histo,30.0,female,lower extremity,/kaggle/working/images/ISIC_0027208.jpg,0
+HAM_0001715,ISIC_0032368,nv,histo,30.0,female,lower extremity,/kaggle/working/images/ISIC_0032368.jpg,0
+HAM_0001715,ISIC_0029504,nv,histo,30.0,female,lower extremity,/kaggle/working/images/ISIC_0029504.jpg,0
+HAM_0001525,ISIC_0025662,nv,histo,35.0,male,upper extremity,/kaggle/working/images/ISIC_0025662.jpg,0
+HAM_0001525,ISIC_0027510,nv,histo,35.0,male,upper extremity,/kaggle/working/images/ISIC_0027510.jpg,0
+HAM_0001525,ISIC_0024355,nv,histo,35.0,male,upper extremity,/kaggle/working/images/ISIC_0024355.jpg,0
+HAM_0002547,ISIC_0024394,nv,histo,20.0,female,back,/kaggle/working/images/ISIC_0024394.jpg,0
+HAM_0002547,ISIC_0029516,nv,histo,20.0,female,back,/kaggle/working/images/ISIC_0029516.jpg,0
+HAM_0001157,ISIC_0027423,nv,histo,65.0,male,upper extremity,/kaggle/working/images/ISIC_0027423.jpg,0
+HAM_0001157,ISIC_0030057,nv,histo,65.0,male,upper extremity,/kaggle/working/images/ISIC_0030057.jpg,0
+HAM_0001157,ISIC_0028737,nv,histo,65.0,male,upper extremity,/kaggle/working/images/ISIC_0028737.jpg,0
+HAM_0004007,ISIC_0031541,nv,histo,35.0,female,lower extremity,/kaggle/working/images/ISIC_0031541.jpg,0
+HAM_0004007,ISIC_0027596,nv,histo,35.0,female,lower extremity,/kaggle/working/images/ISIC_0027596.jpg,0
+HAM_0004007,ISIC_0028960,nv,histo,35.0,female,lower extremity,/kaggle/working/images/ISIC_0028960.jpg,0
+HAM_0002348,ISIC_0025240,nv,histo,45.0,male,abdomen,/kaggle/working/images/ISIC_0025240.jpg,0
+HAM_0002348,ISIC_0026933,nv,histo,45.0,male,abdomen,/kaggle/working/images/ISIC_0026933.jpg,0
+HAM_0000597,ISIC_0031621,nv,histo,35.0,female,abdomen,/kaggle/working/images/ISIC_0031621.jpg,0
+HAM_0000597,ISIC_0031822,nv,histo,35.0,female,abdomen,/kaggle/working/images/ISIC_0031822.jpg,0
+HAM_0000597,ISIC_0030654,nv,histo,35.0,female,abdomen,/kaggle/working/images/ISIC_0030654.jpg,0
+HAM_0005625,ISIC_0031623,nv,histo,35.0,female,back,/kaggle/working/images/ISIC_0031623.jpg,0
+HAM_0000146,ISIC_0027667,nv,histo,55.0,male,lower extremity,/kaggle/working/images/ISIC_0027667.jpg,0
+HAM_0006760,ISIC_0031559,nv,histo,35.0,female,abdomen,/kaggle/working/images/ISIC_0031559.jpg,0
+HAM_0000143,ISIC_0027751,nv,histo,15.0,female,trunk,/kaggle/working/images/ISIC_0027751.jpg,0
+HAM_0000302,ISIC_0025942,nv,histo,50.0,female,upper extremity,/kaggle/working/images/ISIC_0025942.jpg,0
+HAM_0003580,ISIC_0026030,nv,histo,50.0,female,lower extremity,/kaggle/working/images/ISIC_0026030.jpg,0
+HAM_0002333,ISIC_0031405,nv,histo,45.0,male,trunk,/kaggle/working/images/ISIC_0031405.jpg,0
+HAM_0000904,ISIC_0025149,nv,histo,30.0,male,back,/kaggle/working/images/ISIC_0025149.jpg,0
+HAM_0000904,ISIC_0025938,nv,histo,30.0,male,back,/kaggle/working/images/ISIC_0025938.jpg,0
+HAM_0007385,ISIC_0029277,nv,histo,30.0,male,scalp,/kaggle/working/images/ISIC_0029277.jpg,0
+HAM_0001101,ISIC_0030621,nv,histo,50.0,female,upper extremity,/kaggle/working/images/ISIC_0030621.jpg,0
+HAM_0006077,ISIC_0027323,nv,histo,50.0,male,lower extremity,/kaggle/working/images/ISIC_0027323.jpg,0
+HAM_0001517,ISIC_0028825,nv,histo,30.0,female,back,/kaggle/working/images/ISIC_0028825.jpg,0
+HAM_0002675,ISIC_0029641,nv,histo,30.0,female,upper extremity,/kaggle/working/images/ISIC_0029641.jpg,0
+HAM_0006258,ISIC_0028484,nv,histo,10.0,female,upper extremity,/kaggle/working/images/ISIC_0028484.jpg,0
+HAM_0006855,ISIC_0030842,nv,histo,50.0,male,back,/kaggle/working/images/ISIC_0030842.jpg,0
+HAM_0006968,ISIC_0025340,nv,histo,70.0,male,abdomen,/kaggle/working/images/ISIC_0025340.jpg,0
+HAM_0006302,ISIC_0030819,nv,histo,50.0,female,ear,/kaggle/working/images/ISIC_0030819.jpg,0
+HAM_0006730,ISIC_0025657,nv,histo,50.0,female,back,/kaggle/working/images/ISIC_0025657.jpg,0
+HAM_0005643,ISIC_0032015,nv,histo,50.0,female,back,/kaggle/working/images/ISIC_0032015.jpg,0
+HAM_0004030,ISIC_0029926,nv,histo,50.0,male,hand,/kaggle/working/images/ISIC_0029926.jpg,0
+HAM_0003585,ISIC_0029583,nv,histo,75.0,male,back,/kaggle/working/images/ISIC_0029583.jpg,0
+HAM_0001458,ISIC_0032136,nv,histo,45.0,female,back,/kaggle/working/images/ISIC_0032136.jpg,0
+HAM_0006408,ISIC_0025198,nv,histo,35.0,female,abdomen,/kaggle/working/images/ISIC_0025198.jpg,0
+HAM_0004291,ISIC_0031932,nv,histo,25.0,male,abdomen,/kaggle/working/images/ISIC_0031932.jpg,0
+HAM_0005239,ISIC_0028679,nv,histo,25.0,female,unknown,/kaggle/working/images/ISIC_0028679.jpg,0
+HAM_0000971,ISIC_0027671,nv,histo,25.0,female,unknown,/kaggle/working/images/ISIC_0027671.jpg,0
+HAM_0000971,ISIC_0026546,nv,histo,25.0,female,unknown,/kaggle/working/images/ISIC_0026546.jpg,0
+HAM_0002205,ISIC_0030816,nv,histo,35.0,male,back,/kaggle/working/images/ISIC_0030816.jpg,0
+HAM_0001911,ISIC_0029197,nv,histo,55.0,male,back,/kaggle/working/images/ISIC_0029197.jpg,0
+HAM_0003253,ISIC_0028998,nv,histo,35.0,male,back,/kaggle/working/images/ISIC_0028998.jpg,0
+HAM_0001941,ISIC_0024790,nv,histo,75.0,male,back,/kaggle/working/images/ISIC_0024790.jpg,0
+HAM_0007240,ISIC_0027988,nv,histo,65.0,female,back,/kaggle/working/images/ISIC_0027988.jpg,0
+HAM_0004824,ISIC_0026698,nv,histo,60.0,male,lower extremity,/kaggle/working/images/ISIC_0026698.jpg,0
+HAM_0005925,ISIC_0026222,nv,histo,85.0,female,upper extremity,/kaggle/working/images/ISIC_0026222.jpg,0
+HAM_0003496,ISIC_0027308,nv,histo,50.0,male,lower extremity,/kaggle/working/images/ISIC_0027308.jpg,0
+HAM_0001630,ISIC_0028297,nv,histo,70.0,female,back,/kaggle/working/images/ISIC_0028297.jpg,0
+HAM_0004275,ISIC_0026921,nv,histo,70.0,female,back,/kaggle/working/images/ISIC_0026921.jpg,0
+HAM_0006401,ISIC_0031451,nv,histo,45.0,female,foot,/kaggle/working/images/ISIC_0031451.jpg,0
+HAM_0000777,ISIC_0028364,nv,histo,50.0,female,back,/kaggle/working/images/ISIC_0028364.jpg,0
+HAM_0000338,ISIC_0028631,nv,histo,30.0,male,back,/kaggle/working/images/ISIC_0028631.jpg,0
+HAM_0001319,ISIC_0026053,nv,histo,70.0,male,back,/kaggle/working/images/ISIC_0026053.jpg,0
+HAM_0002497,ISIC_0025443,nv,histo,75.0,male,back,/kaggle/working/images/ISIC_0025443.jpg,0
+HAM_0001319,ISIC_0028599,nv,histo,70.0,male,back,/kaggle/working/images/ISIC_0028599.jpg,0
+HAM_0003603,ISIC_0026974,nv,histo,30.0,male,back,/kaggle/working/images/ISIC_0026974.jpg,0
+HAM_0003241,ISIC_0030079,nv,histo,40.0,male,back,/kaggle/working/images/ISIC_0030079.jpg,0
+HAM_0003241,ISIC_0024908,nv,histo,40.0,male,back,/kaggle/working/images/ISIC_0024908.jpg,0
+HAM_0001737,ISIC_0030039,nv,histo,85.0,male,upper extremity,/kaggle/working/images/ISIC_0030039.jpg,0
+HAM_0001737,ISIC_0027883,nv,histo,85.0,male,upper extremity,/kaggle/working/images/ISIC_0027883.jpg,0
+HAM_0001688,ISIC_0031049,nv,histo,45.0,male,back,/kaggle/working/images/ISIC_0031049.jpg,0
+HAM_0005730,ISIC_0031710,nv,histo,65.0,male,chest,/kaggle/working/images/ISIC_0031710.jpg,0
+HAM_0005730,ISIC_0028923,nv,histo,65.0,male,chest,/kaggle/working/images/ISIC_0028923.jpg,0
+HAM_0003603,ISIC_0026795,nv,histo,30.0,male,back,/kaggle/working/images/ISIC_0026795.jpg,0
+HAM_0003415,ISIC_0029191,nv,histo,45.0,female,lower extremity,/kaggle/working/images/ISIC_0029191.jpg,0
+HAM_0006684,ISIC_0029614,nv,histo,40.0,male,back,/kaggle/working/images/ISIC_0029614.jpg,0
+HAM_0003760,ISIC_0032145,nv,histo,40.0,male,back,/kaggle/working/images/ISIC_0032145.jpg,0
+HAM_0003911,ISIC_0030645,nv,histo,35.0,female,upper extremity,/kaggle/working/images/ISIC_0030645.jpg,0
+HAM_0005670,ISIC_0028648,nv,histo,20.0,female,upper extremity,/kaggle/working/images/ISIC_0028648.jpg,0
+HAM_0005670,ISIC_0030253,nv,histo,20.0,female,upper extremity,/kaggle/working/images/ISIC_0030253.jpg,0
+HAM_0006941,ISIC_0025684,nv,histo,45.0,female,back,/kaggle/working/images/ISIC_0025684.jpg,0
+HAM_0006972,ISIC_0031832,nv,histo,75.0,male,back,/kaggle/working/images/ISIC_0031832.jpg,0
+HAM_0006972,ISIC_0027051,nv,histo,75.0,male,back,/kaggle/working/images/ISIC_0027051.jpg,0
+HAM_0006972,ISIC_0030340,nv,histo,75.0,male,back,/kaggle/working/images/ISIC_0030340.jpg,0
+HAM_0004833,ISIC_0030069,nv,histo,75.0,male,back,/kaggle/working/images/ISIC_0030069.jpg,0
+HAM_0004833,ISIC_0026133,nv,histo,75.0,male,back,/kaggle/working/images/ISIC_0026133.jpg,0
+HAM_0002423,ISIC_0031924,nv,histo,30.0,female,abdomen,/kaggle/working/images/ISIC_0031924.jpg,0
+HAM_0002423,ISIC_0028963,nv,histo,30.0,female,abdomen,/kaggle/working/images/ISIC_0028963.jpg,0
+HAM_0002423,ISIC_0025088,nv,histo,30.0,female,abdomen,/kaggle/working/images/ISIC_0025088.jpg,0
+HAM_0000302,ISIC_0032175,nv,histo,50.0,female,upper extremity,/kaggle/working/images/ISIC_0032175.jpg,0
+HAM_0005017,ISIC_0027461,nv,histo,75.0,female,back,/kaggle/working/images/ISIC_0027461.jpg,0
+HAM_0005017,ISIC_0025310,nv,histo,75.0,female,back,/kaggle/working/images/ISIC_0025310.jpg,0
+HAM_0005017,ISIC_0026752,nv,histo,75.0,female,back,/kaggle/working/images/ISIC_0026752.jpg,0
+HAM_0002675,ISIC_0031014,nv,histo,30.0,female,upper extremity,/kaggle/working/images/ISIC_0031014.jpg,0
+HAM_0002675,ISIC_0024969,nv,histo,30.0,female,upper extremity,/kaggle/working/images/ISIC_0024969.jpg,0
+HAM_0007075,ISIC_0025463,nv,histo,50.0,male,upper extremity,/kaggle/working/images/ISIC_0025463.jpg,0
+HAM_0007075,ISIC_0032195,nv,histo,50.0,male,upper extremity,/kaggle/working/images/ISIC_0032195.jpg,0
+HAM_0006323,ISIC_0026805,nv,histo,75.0,female,lower extremity,/kaggle/working/images/ISIC_0026805.jpg,0
+HAM_0006323,ISIC_0024680,nv,histo,75.0,female,lower extremity,/kaggle/working/images/ISIC_0024680.jpg,0
+HAM_0006323,ISIC_0029465,nv,histo,75.0,female,lower extremity,/kaggle/working/images/ISIC_0029465.jpg,0
+HAM_0000014,ISIC_0025759,nv,histo,40.0,male,abdomen,/kaggle/working/images/ISIC_0025759.jpg,0
+HAM_0000014,ISIC_0031366,nv,histo,40.0,male,abdomen,/kaggle/working/images/ISIC_0031366.jpg,0
+HAM_0000014,ISIC_0025640,nv,histo,40.0,male,abdomen,/kaggle/working/images/ISIC_0025640.jpg,0
+HAM_0005925,ISIC_0031644,nv,histo,85.0,female,upper extremity,/kaggle/working/images/ISIC_0031644.jpg,0
+HAM_0005925,ISIC_0027036,nv,histo,85.0,female,upper extremity,/kaggle/working/images/ISIC_0027036.jpg,0
+HAM_0006174,ISIC_0032233,nv,histo,75.0,male,back,/kaggle/working/images/ISIC_0032233.jpg,0
+HAM_0006174,ISIC_0028116,nv,histo,75.0,male,back,/kaggle/working/images/ISIC_0028116.jpg,0
+HAM_0000374,ISIC_0026111,nv,histo,65.0,female,neck,/kaggle/working/images/ISIC_0026111.jpg,0
+HAM_0006581,ISIC_0026231,nv,histo,35.0,male,back,/kaggle/working/images/ISIC_0026231.jpg,0
+HAM_0007385,ISIC_0030920,nv,histo,30.0,male,scalp,/kaggle/working/images/ISIC_0030920.jpg,0
+HAM_0006725,ISIC_0031107,nv,histo,45.0,female,foot,/kaggle/working/images/ISIC_0031107.jpg,0
+HAM_0006725,ISIC_0026022,nv,histo,45.0,female,foot,/kaggle/working/images/ISIC_0026022.jpg,0
+HAM_0006205,ISIC_0031121,nv,histo,55.0,male,chest,/kaggle/working/images/ISIC_0031121.jpg,0
+HAM_0006205,ISIC_0032034,nv,histo,55.0,male,chest,/kaggle/working/images/ISIC_0032034.jpg,0
+HAM_0000961,ISIC_0024882,nv,histo,70.0,male,lower extremity,/kaggle/working/images/ISIC_0024882.jpg,0
+HAM_0000976,ISIC_0030833,nv,histo,40.0,male,chest,/kaggle/working/images/ISIC_0030833.jpg,0
+HAM_0006924,ISIC_0032065,nv,histo,40.0,female,chest,/kaggle/working/images/ISIC_0032065.jpg,0
+HAM_0005102,ISIC_0028128,nv,histo,55.0,male,chest,/kaggle/working/images/ISIC_0028128.jpg,0
+HAM_0006821,ISIC_0030260,nv,histo,75.0,male,upper extremity,/kaggle/working/images/ISIC_0030260.jpg,0
+HAM_0004991,ISIC_0032279,nv,histo,65.0,male,back,/kaggle/working/images/ISIC_0032279.jpg,0
+HAM_0006821,ISIC_0027535,nv,histo,75.0,male,upper extremity,/kaggle/working/images/ISIC_0027535.jpg,0
+HAM_0001190,ISIC_0026071,nv,histo,70.0,female,upper extremity,/kaggle/working/images/ISIC_0026071.jpg,0
+HAM_0001881,ISIC_0032340,nv,histo,20.0,female,lower extremity,/kaggle/working/images/ISIC_0032340.jpg,0
+HAM_0001881,ISIC_0024620,nv,histo,20.0,female,lower extremity,/kaggle/working/images/ISIC_0024620.jpg,0
+HAM_0002205,ISIC_0026217,nv,histo,35.0,male,back,/kaggle/working/images/ISIC_0026217.jpg,0
+HAM_0004479,ISIC_0025027,nv,histo,45.0,female,ear,/kaggle/working/images/ISIC_0025027.jpg,0
+HAM_0004479,ISIC_0032090,nv,histo,45.0,female,ear,/kaggle/working/images/ISIC_0032090.jpg,0
+HAM_0002888,ISIC_0029079,nv,histo,50.0,male,trunk,/kaggle/working/images/ISIC_0029079.jpg,0
+HAM_0002888,ISIC_0025571,nv,histo,50.0,male,trunk,/kaggle/working/images/ISIC_0025571.jpg,0
+HAM_0003785,ISIC_0025776,nv,histo,65.0,male,back,/kaggle/working/images/ISIC_0025776.jpg,0
+HAM_0003785,ISIC_0025908,nv,histo,65.0,male,back,/kaggle/working/images/ISIC_0025908.jpg,0
+HAM_0002228,ISIC_0032035,nv,histo,40.0,male,back,/kaggle/working/images/ISIC_0032035.jpg,0
+HAM_0003415,ISIC_0027789,nv,histo,45.0,female,lower extremity,/kaggle/working/images/ISIC_0027789.jpg,0
+HAM_0003415,ISIC_0028761,nv,histo,45.0,female,lower extremity,/kaggle/working/images/ISIC_0028761.jpg,0
+HAM_0001190,ISIC_0028873,nv,histo,70.0,female,upper extremity,/kaggle/working/images/ISIC_0028873.jpg,0
+HAM_0003305,ISIC_0027756,nv,histo,25.0,female,lower extremity,/kaggle/working/images/ISIC_0027756.jpg,0
+HAM_0003305,ISIC_0032125,nv,histo,25.0,female,lower extremity,/kaggle/working/images/ISIC_0032125.jpg,0
+HAM_0003305,ISIC_0025172,nv,histo,25.0,female,lower extremity,/kaggle/working/images/ISIC_0025172.jpg,0
+HAM_0004991,ISIC_0028809,nv,histo,65.0,male,back,/kaggle/working/images/ISIC_0028809.jpg,0
+HAM_0000976,ISIC_0031880,nv,histo,40.0,male,chest,/kaggle/working/images/ISIC_0031880.jpg,0
+HAM_0000866,ISIC_0024480,nv,histo,60.0,male,back,/kaggle/working/images/ISIC_0024480.jpg,0
+HAM_0003710,ISIC_0031611,nv,histo,60.0,male,abdomen,/kaggle/working/images/ISIC_0031611.jpg,0
+HAM_0003710,ISIC_0032074,nv,histo,60.0,male,abdomen,/kaggle/working/images/ISIC_0032074.jpg,0
+HAM_0000961,ISIC_0028468,nv,histo,70.0,male,lower extremity,/kaggle/working/images/ISIC_0028468.jpg,0
+HAM_0003790,ISIC_0028131,nv,histo,65.0,male,chest,/kaggle/working/images/ISIC_0028131.jpg,0
+HAM_0002685,ISIC_0030593,nv,histo,30.0,male,chest,/kaggle/working/images/ISIC_0030593.jpg,0
+HAM_0007083,ISIC_0027959,nv,histo,85.0,male,lower extremity,/kaggle/working/images/ISIC_0027959.jpg,0
+HAM_0006241,ISIC_0031379,nv,histo,40.0,male,back,/kaggle/working/images/ISIC_0031379.jpg,0
+HAM_0007508,ISIC_0025763,nv,histo,50.0,male,chest,/kaggle/working/images/ISIC_0025763.jpg,0
+HAM_0003263,ISIC_0031599,nv,histo,25.0,male,lower extremity,/kaggle/working/images/ISIC_0031599.jpg,0
+HAM_0003263,ISIC_0028226,nv,histo,25.0,male,lower extremity,/kaggle/working/images/ISIC_0028226.jpg,0
+HAM_0001933,ISIC_0025243,nv,histo,70.0,female,upper extremity,/kaggle/working/images/ISIC_0025243.jpg,0
+HAM_0007208,ISIC_0030159,nv,histo,75.0,female,upper extremity,/kaggle/working/images/ISIC_0030159.jpg,0
+HAM_0004738,ISIC_0027512,nv,histo,85.0,male,chest,/kaggle/working/images/ISIC_0027512.jpg,0
+HAM_0005153,ISIC_0030847,nv,histo,65.0,male,lower extremity,/kaggle/working/images/ISIC_0030847.jpg,0
+HAM_0006129,ISIC_0029560,nv,histo,45.0,male,lower extremity,/kaggle/working/images/ISIC_0029560.jpg,0
+HAM_0006129,ISIC_0027849,nv,histo,45.0,male,lower extremity,/kaggle/working/images/ISIC_0027849.jpg,0
+HAM_0001020,ISIC_0030912,nv,histo,70.0,female,lower extremity,/kaggle/working/images/ISIC_0030912.jpg,0
+HAM_0003650,ISIC_0024995,nv,histo,65.0,male,back,/kaggle/working/images/ISIC_0024995.jpg,0
+HAM_0003491,ISIC_0026123,nv,histo,40.0,female,chest,/kaggle/working/images/ISIC_0026123.jpg,0
+HAM_0006645,ISIC_0024818,nv,consensus,40.0,male,back,/kaggle/working/images/ISIC_0024818.jpg,0
+HAM_0006645,ISIC_0031595,nv,consensus,40.0,male,back,/kaggle/working/images/ISIC_0031595.jpg,0
+HAM_0006913,ISIC_0031602,nv,consensus,65.0,male,upper extremity,/kaggle/working/images/ISIC_0031602.jpg,0
+HAM_0006913,ISIC_0024683,nv,consensus,65.0,male,upper extremity,/kaggle/working/images/ISIC_0024683.jpg,0
+HAM_0000666,ISIC_0026122,nv,consensus,0.0,male,foot,/kaggle/working/images/ISIC_0026122.jpg,0
+HAM_0000666,ISIC_0026024,nv,consensus,0.0,male,foot,/kaggle/working/images/ISIC_0026024.jpg,0
+HAM_0004996,ISIC_0029231,nv,consensus,25.0,female,lower extremity,/kaggle/working/images/ISIC_0029231.jpg,0
+HAM_0004996,ISIC_0030144,nv,consensus,25.0,female,lower extremity,/kaggle/working/images/ISIC_0030144.jpg,0
+HAM_0004996,ISIC_0028909,nv,consensus,25.0,female,lower extremity,/kaggle/working/images/ISIC_0028909.jpg,0
+HAM_0004475,ISIC_0029920,nv,consensus,85.0,female,back,/kaggle/working/images/ISIC_0029920.jpg,0
+HAM_0004475,ISIC_0031188,nv,consensus,85.0,female,back,/kaggle/working/images/ISIC_0031188.jpg,0
+HAM_0003872,ISIC_0028903,nv,consensus,0.0,female,abdomen,/kaggle/working/images/ISIC_0028903.jpg,0
+HAM_0002833,ISIC_0026889,nv,consensus,5.0,male,trunk,/kaggle/working/images/ISIC_0026889.jpg,0
+HAM_0002833,ISIC_0030963,nv,consensus,5.0,male,trunk,/kaggle/working/images/ISIC_0030963.jpg,0
+HAM_0000159,ISIC_0024540,nv,consensus,25.0,female,trunk,/kaggle/working/images/ISIC_0024540.jpg,0
+HAM_0000159,ISIC_0027948,nv,consensus,25.0,female,trunk,/kaggle/working/images/ISIC_0027948.jpg,0
+HAM_0006756,ISIC_0029592,nv,consensus,30.0,female,chest,/kaggle/working/images/ISIC_0029592.jpg,0
+HAM_0006756,ISIC_0026037,nv,consensus,30.0,female,chest,/kaggle/working/images/ISIC_0026037.jpg,0
+HAM_0006554,ISIC_0030299,nv,consensus,55.0,female,lower extremity,/kaggle/working/images/ISIC_0030299.jpg,0
+HAM_0006554,ISIC_0028866,nv,consensus,55.0,female,lower extremity,/kaggle/working/images/ISIC_0028866.jpg,0
+HAM_0004777,ISIC_0026749,nv,consensus,25.0,female,foot,/kaggle/working/images/ISIC_0026749.jpg,0
+HAM_0004777,ISIC_0029895,nv,consensus,25.0,female,foot,/kaggle/working/images/ISIC_0029895.jpg,0
+HAM_0002571,ISIC_0026190,nv,consensus,70.0,male,foot,/kaggle/working/images/ISIC_0026190.jpg,0
+HAM_0002571,ISIC_0025881,nv,consensus,70.0,male,foot,/kaggle/working/images/ISIC_0025881.jpg,0
+HAM_0000229,ISIC_0030086,nv,consensus,35.0,female,face,/kaggle/working/images/ISIC_0030086.jpg,0
+HAM_0005122,ISIC_0034265,nv,consensus,70.0,male,trunk,/kaggle/working/images/ISIC_0034265.jpg,0
+HAM_0003366,ISIC_0033765,nv,consensus,45.0,female,unknown,/kaggle/working/images/ISIC_0033765.jpg,0
+HAM_0003367,ISIC_0033903,nv,consensus,45.0,female,unknown,/kaggle/working/images/ISIC_0033903.jpg,0
+HAM_0003539,ISIC_0025897,nv,consensus,75.0,male,back,/kaggle/working/images/ISIC_0025897.jpg,0
+HAM_0001259,ISIC_0028252,nv,consensus,40.0,female,abdomen,/kaggle/working/images/ISIC_0028252.jpg,0
+HAM_0001930,ISIC_0032880,nv,consensus,50.0,female,back,/kaggle/working/images/ISIC_0032880.jpg,0
+HAM_0001930,ISIC_0032600,nv,consensus,50.0,female,back,/kaggle/working/images/ISIC_0032600.jpg,0
+HAM_0001930,ISIC_0032791,nv,consensus,50.0,female,back,/kaggle/working/images/ISIC_0032791.jpg,0
+HAM_0002425,ISIC_0032837,nv,consensus,20.0,male,back,/kaggle/working/images/ISIC_0032837.jpg,0
+HAM_0002425,ISIC_0032682,nv,consensus,20.0,male,back,/kaggle/working/images/ISIC_0032682.jpg,0
+HAM_0007596,ISIC_0033223,nv,consensus,20.0,male,back,/kaggle/working/images/ISIC_0033223.jpg,0
+HAM_0007596,ISIC_0032764,nv,consensus,20.0,male,back,/kaggle/working/images/ISIC_0032764.jpg,0
+HAM_0001834,ISIC_0032631,nv,consensus,30.0,male,back,/kaggle/working/images/ISIC_0032631.jpg,0
+HAM_0000007,ISIC_0033879,nv,consensus,30.0,male,back,/kaggle/working/images/ISIC_0033879.jpg,0
+HAM_0004705,ISIC_0034260,nv,consensus,65.0,male,abdomen,/kaggle/working/images/ISIC_0034260.jpg,0
+HAM_0003817,ISIC_0032800,nv,consensus,40.0,male,unknown,/kaggle/working/images/ISIC_0032800.jpg,0
+HAM_0006237,ISIC_0034072,nv,consensus,60.0,male,unknown,/kaggle/working/images/ISIC_0034072.jpg,0
+HAM_0004185,ISIC_0032635,nv,consensus,40.0,female,unknown,/kaggle/working/images/ISIC_0032635.jpg,0
+HAM_0004190,ISIC_0033039,nv,consensus,40.0,female,unknown,/kaggle/working/images/ISIC_0033039.jpg,0
+HAM_0004194,ISIC_0033101,nv,consensus,40.0,female,unknown,/kaggle/working/images/ISIC_0033101.jpg,0
+HAM_0004198,ISIC_0033481,nv,consensus,40.0,female,unknown,/kaggle/working/images/ISIC_0033481.jpg,0
+HAM_0003236,ISIC_0033025,nv,consensus,30.0,female,upper extremity,/kaggle/working/images/ISIC_0033025.jpg,0
+HAM_0003236,ISIC_0033053,nv,consensus,30.0,female,upper extremity,/kaggle/working/images/ISIC_0033053.jpg,0
+HAM_0004120,ISIC_0034266,nv,consensus,,unknown,unknown,/kaggle/working/images/ISIC_0034266.jpg,0
+HAM_0002037,ISIC_0033733,nv,consensus,,unknown,unknown,/kaggle/working/images/ISIC_0033733.jpg,0
+HAM_0001118,ISIC_0033332,nv,consensus,,unknown,unknown,/kaggle/working/images/ISIC_0033332.jpg,0
+HAM_0004370,ISIC_0027138,nv,consensus,10.0,male,unknown,/kaggle/working/images/ISIC_0027138.jpg,0
+HAM_0004370,ISIC_0024757,nv,consensus,10.0,male,unknown,/kaggle/working/images/ISIC_0024757.jpg,0
+HAM_0003642,ISIC_0027492,nv,consensus,50.0,female,chest,/kaggle/working/images/ISIC_0027492.jpg,0
+HAM_0003642,ISIC_0027528,nv,consensus,50.0,female,chest,/kaggle/working/images/ISIC_0027528.jpg,0
+HAM_0001956,ISIC_0024955,nv,consensus,30.0,female,back,/kaggle/working/images/ISIC_0024955.jpg,0
+HAM_0001956,ISIC_0030038,nv,consensus,30.0,female,back,/kaggle/working/images/ISIC_0030038.jpg,0
+HAM_0007609,ISIC_0026326,nv,consensus,30.0,male,face,/kaggle/working/images/ISIC_0026326.jpg,0
+HAM_0003521,ISIC_0032258,mel,histo,70.0,female,back,/kaggle/working/images/ISIC_0032258.jpg,1

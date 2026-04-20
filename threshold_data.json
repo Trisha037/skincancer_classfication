@@ -1,0 +1,9 @@
+{
+  "optimal_threshold": 0.10638947784900665,
+  "method": "Weighted Youden (2xTPR - FPR)",
+  "val_auc": 0.8869428881130693,
+  "val_recall_at_thresh": 0.9152542372881356,
+  "val_fnr_at_thresh": 0.0847457627118644,
+  "val_recall_default": 0.7161016949152542,
+  "val_fnr_default": 0.2838983050847458
+}
