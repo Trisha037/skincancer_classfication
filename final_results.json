@@ -1,0 +1,57 @@
+{
+  "model_b_cbam": {
+    "auc": 0.8981,
+    "recall": 0.938,
+    "fnr": 0.062,
+    "precision": 0.3492,
+    "f1": 0.509,
+    "specificity": 0.6516,
+    "npv": 0.9814,
+    "accuracy": 0.6992,
+    "threshold": 0.1064,
+    "tp": 225,
+    "tn": 802,
+    "fp": 412,
+    "fn": 17
+  },
+  "model_a_baseline": {
+    "auc": 0.8909,
+    "recall": 0.9298,
+    "fnr": 0.0702,
+    "precision": 0.3532,
+    "f1": 0.5119,
+    "specificity": 0.6606,
+    "npv": 0.9792,
+    "accuracy": 0.7054,
+    "threshold": 0.1538
+  },
+  "cbam_improvement": {
+    "recall_gain": 0.0083,
+    "fnr_reduction": 0.0083,
+    "auc_difference": 0.0072,
+    "npv_difference": 0.0021
+  },
+  "isic2020_generalisation": {
+    "sample_size": 5000,
+    "model_b": {
+      "auc": 0.6462,
+      "recall": 0.6591,
+      "fnr": 0.3409,
+      "precision": 0.0253,
+      "f1": 0.0487,
+      "specificity": 0.545,
+      "npv": 0.9889
+    },
+    "model_a": {
+      "auc": 0.728,
+      "recall": 0.6136,
+      "fnr": 0.3864,
+      "precision": 0.0366,
+      "f1": 0.069,
+      "specificity": 0.7103,
+      "npv": 0.9903
+    },
+    "auc_drop_b": 0.2519,
+    "recall_drop_b": 0.2789
+  }
+}
